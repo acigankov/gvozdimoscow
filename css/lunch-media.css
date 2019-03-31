@@ -1,0 +1,178 @@
+/* TABLET LANDSCAPE / DESKTOP */
+@media only screen and (min-width: 992px) and (max-width: 1279px) { 
+    
+    .fml-heading-left-col>h2 {
+        font-size: 3.9em;
+    }
+    
+    .fml-heading-day {
+        min-height: 100px;
+    }
+    
+    .fml-heading-advice {
+        font-size: 2em;
+    }
+    
+    .fml-item-heading-white>span,
+    .fml-text {   
+        font-size: 1.6em;
+    }
+    
+    .fml-footer-images img {
+        max-width: 90%;
+    }
+
+}
+
+
+/* TABLETS PORTRAIT */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+    
+    .fml-footer {
+        display: none;
+    }
+    
+    .food-menu-lunch-header {
+        grid-template-columns: 1fr;
+    }
+    
+    .fml-heading-time>span {
+        width: auto;
+    }
+    
+    .fml-heading-left-col img,
+    .fml-heading-advice,
+    .fml-heading-price {
+        display: none;
+    }
+    
+    .fml-item-heading-white>span,
+    .fml-text {   
+        font-size: 1em;
+    }
+}
+
+/* SMARTPHONES LANDSCAPE */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .fml-footer {
+        display: none;
+    }
+
+    .food-menu-lunch-header {
+        grid-template-columns: 1fr;
+    }
+
+    .fml-heading-time>span {
+        width: auto;
+    }
+
+    .fml-heading-left-col img,
+    .fml-heading-advice,
+    .fml-heading-price {
+        display: none;
+    }
+
+    .fml-item-heading,
+    .fml-item-heading-white>span,
+    .fml-text {   
+        font-size: 0.8em;
+        min-height: 0px;
+        line-height: initial;
+    }
+
+}
+
+/* SMARTPHONES PORTRAIT */
+@media only screen and (min-width: 1px) and (max-width: 479px) {
+    
+    .food-menu-lunches {
+        padding: 50px 0;
+    }
+
+    .food-menu-lunch-header {
+        grid-template-columns: 1fr;
+    }
+    
+    .fml-heading-left-col>h2 {
+        font-size: 2em;
+    }
+    
+    .fml-heading-time>span {
+        width: auto;
+        font-size: 1.7em;
+    }
+
+    .fml-heading-left-col img,
+    .fml-heading-advice,
+    .fml-heading-price,
+    .fml-item-heading-price,
+    .fml-footer {
+        display: none;
+    }
+    
+    .fml-heading-day {
+        min-height: 50px;
+    }
+    
+    .fml-heading-day>span {
+       font-size: 1.6em;
+    }
+    
+    .fml-heading-day img {
+        max-width: 50px;
+    }
+    
+    .food-menu-lunch-row {
+        grid-template-columns: 1fr;
+    }
+
+    .fml-item-col-2 {
+        display: none;
+    }
+    
+    .fml-item-heading {
+        position: relative;
+        grid-template-columns: 1fr;
+        color: #222;
+        background-color: transparent;
+    }
+    
+    .fml-second-dishes-m {
+        display: grid;
+        grid-template-columns: 1fr 5fr;
+        
+    }
+    
+    .fml-second-dishes-m img {
+        align-self: center;
+    }
+
+    .fml-second-dishes-col {
+        text-align: left;
+        color: #F3C744;
+        font-family: 'pf_din_text_comp_probold' , sans-serif;
+        font-size: 1.325em;
+        
+    }
+    .fml-second-dishes-col span {
+        color: #222;
+        font-family: 'pf_din_text_comp_proregular' , sans-serif;
+    }
+    
+    
+    .fml-item-heading .lunch-item-badge {
+        display: grid;
+        font-size: 0.7em;
+        top: -50px;
+        right: 0;
+    }
+    
+/*    .fml-row4-header-m {
+        background-color: transparent;
+        border-top: 3px solid #F3C744;
+        color: #222;
+        padding-top: 10px;
+    }*/
+    
+}
+

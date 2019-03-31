@@ -1,0 +1,1827 @@
+
+/* 
+    Created on : 02.10.2018, 0:07:45
+    Author     : Темыч
+*/
+
+/* LARGE DIMENSIONS*/
+@media only screen and (min-width: 1280px) and (max-width: 1999px) {
+
+}
+
+/* TABLET LANDSCAPE / DESKTOP */
+@media only screen and (min-width: 992px) and (max-width: 1279px) {
+
+    body {
+        background-color: transparent;
+        background-image: none;
+    }
+    
+    
+    /*праввый баннер*/
+    .right-banner {
+        display: none;
+    }
+
+    /*общая обертка*/
+    .wrapper {
+        margin: 0;
+        max-width: inherit;
+    }
+
+    /*шапка*/
+
+    .header-wrapper {
+        border-bottom: 12px solid transparent;
+    }
+
+    .top-buttons {
+        padding: 15px 5px;
+    }
+
+    .main-logo img {
+        height: 100px;
+    }
+
+    .work-time-img {
+        max-height: 80px;
+    }
+
+    .top-contacts-phone {
+        font-size: 0.85em;
+    }
+
+    .work-time {
+        font-size: 1em;
+    }
+
+    /*конец шапки*/
+    
+    
+    
+    /*секция about*/
+    .about-wrapper {
+        top: -12px;
+    }
+   
+    /*конец секции about*/
+
+    /*секция menu-bar*/
+    .menu-bar {
+        top: -12px;
+    }
+    
+
+    /*конец секции menu-bar*/
+    
+    /*секция lunch*/
+    .lunch-price-img .lunch-price-img-absolute {
+        display: none;
+    }
+
+    /* конец секции lunch*/
+    
+    
+    /*секция afisha*/
+    .afisha {
+        min-height: auto;
+    }
+        
+    /*конец секции afisha*/
+    
+    /*секция instagram*/
+    
+    section.instagram {
+        min-height: auto;
+    }
+    
+    /*конец секции instagram*/
+    
+    
+    
+    /*raspisanie*/
+    .rasp {
+        padding: 0 20px ;
+    }
+    
+    .rasp-heading {
+       font-size: 6em;
+   }
+   
+   
+   /*raspisanie*/
+   
+   
+   
+}
+
+/* TABLETS PORTRAIT */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+    body {
+        background-color: transparent;
+        background-image: none;
+    }
+    
+    .right-banner {
+        display: none;
+    }
+
+    .wrapper {
+        margin: 0;
+        max-width: inherit;
+    }   
+
+    .popup, .popup-question {
+        width: 60%;
+        text-align: center;
+    }
+
+    /*шапка*/
+    .top-header {
+        min-height: auto;
+    }
+
+    .top-menu ul, .footer-menu ul {
+        font-size: 1em;
+    }
+
+    .top-menu ul li, .footer-menu ul li {
+        padding-right: 5px;
+    }
+
+    .top-buttons {
+        font-size: 0.906em;
+    }
+
+    .main-logo img {
+        height: 100px;
+    }
+
+    .work-time-img {
+        max-height: 70px;
+    }
+
+    .top-contacts-phone {
+        font-size: 0.65em;
+    }
+
+    .work-time {
+        font-size: 0.65em;
+    }
+
+    .top-buttons a,
+    .top-buttons a:visited,
+    .top-buttons a:focus,
+    .top-buttons a:link {
+        padding: 5px 10px;
+    }
+
+
+    /*конец шапки*/
+
+    /*секция about*/
+    .about-wrapper {
+        top: -14px;
+    }
+    section .separator-header {
+        min-height: 40px;
+    }
+
+    .header-font {
+        font-size: 0.93em;
+    }
+
+    .about-content {
+        grid-template-columns: 1fr 1fr;
+        padding: 50px;
+    }
+
+    /*конец секции about*/
+
+    /*секция menu-bar*/
+    .menu-bar {
+        top: -14px;
+    }
+
+    .menu-bar-items {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    /*конец секции menu-bar*/
+
+    /*секция lunch*/
+    .lunch {
+        top: -14px;
+    }
+
+    .lunch-topline {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .lunch .lunch-header {
+        display: block;
+    }
+
+    .lunch .lunch-separator {
+        display: none;
+    }
+
+    .lunch .lunch-time .lunch-time-header {
+        font-size: 1.7em;
+    }
+
+    .lunch-time-time span {
+        font-size: 1.55em;
+    }
+
+
+    .lunch-time-time::before,
+    .lunch-time-time::after {
+        display: none;
+    }
+
+    .lunch-content {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .lunch-price-img .lunch-price-img-absolute {
+        display: none;
+    }
+
+    /* конец секции lunch*/
+    
+    
+    /*секция gallery*/
+    .gallery {
+        top: -14px;
+    }
+    
+    .gallery-description {
+        font-size: 1.12em;
+    }
+    
+    /*конец секции gallery*/
+    
+    
+    
+    /*секция afisha*/
+    .afisha {
+        top: -14px;
+        min-height: auto;
+    }
+    
+    /*конец секции afisha*/
+    
+        /*секция instagram*/
+    
+    section.instagram {
+        top: -14px;
+        min-height: auto;
+    }
+    
+    /*конец секции instagram*/
+    
+    /*footer*/
+    
+    footer {
+        grid-template-columns: 2fr 1fr 1fr;
+    }
+    
+    footer .soc {
+        display: none;
+    }
+
+    .footer-work-time {
+        grid-column-end: initial;
+    }
+
+    /*конец  footer*/
+    
+    /*страница menu*/
+    
+    .food-menu-categories-line,
+    .food-menu-categories-line-bar {
+        display: none;
+    }
+    
+    .food-menu-top-line ul li a,
+    .food-menu-top-line ul li a:focus,
+    .food-menu-top-line ul li a:link,
+    .food-menu-top-line ul li a:visited {
+        width: 120px;
+    }
+
+    .food-menu-menu {
+        grid-template-columns: 1fr 1fr;
+    }
+
+        .food-menu-item {
+        grid-template-columns: auto;
+    }
+    
+    .food-menu-item-content {
+        text-align: center;
+    }
+
+    .food-menu-item-content span {
+        padding: 5px 0;
+    }
+    
+    .menu-item-dop {
+        background: url(../img/food-lunch-price-bgr.png) transparent no-repeat center;
+    }
+    
+     .menu-bar-item-weight {
+        font-size: 1.2em;
+    }
+    
+    .menu-bar-item-price {
+        font-size: 1.81em;
+    }
+    
+        /*вкладка завтраки*/
+    
+    .food-menu-breakfasts {
+        margin: 0 20px;
+    }
+    
+    .food-menu-breakfasts-advertisment {
+        grid-gap: 50px;
+    }
+        /*конец вкладка завтраки*/
+    
+    /*конец страницы menu*/
+    
+    /*страница afisha*/
+    /*raspisanie*/
+    .rasp {
+        padding: 0 20px ;
+    }
+    
+    .rasp-heading {
+       font-size: 4.5em;
+   }
+    
+    .rasp-logo {
+        max-width: 120px;
+    }
+    
+    .rasp-sep-vertical {
+        min-height: 50px;
+    }
+    
+    .rasp-day, .rasp-day-color-black,.rasp-day-color-yellow {
+        padding: 0;
+        font-size: 3.0em;
+        min-width: 100px;
+    }
+
+    .rasp-description {
+        padding-left: 10px;
+    }
+
+    .rasp-black-bkg {
+        font-size: 1.25em;
+        padding: 0 5px;
+        margin-right: 5px;
+    }
+
+    .rasp-yellow-bkg {
+        font-size: 1.25em;
+        padding: 0 5px;
+        margin-right: 5px;
+    }
+
+    .alabama-span-black {
+        font-size: 1.25em;
+    }
+
+    .circelight-span-black{
+        font-size: 1.25em;
+    }
+    
+    .circelight-span-black-yellow-bg {
+        font-size: 1.25em;
+        padding: 0 2px;
+    }
+    
+    /*raspisanie*/
+    /*конец страницы afisha*/
+    
+    /*страница bankety*/ 
+
+    .bankety-description img {
+        max-width: 100px;
+    }
+    
+    
+    /*конец страницы bankety*/
+    
+}
+
+/* SMARTPHONES LANDSCAPE */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+    body {
+        background-color: transparent;
+        background-image: none;
+    }
+    
+    .right-banner {
+        display: none;
+    }
+
+    .wrapper {
+        margin: 0;
+        max-width: inherit;
+    }
+    
+    .carousel-indicators li {
+        width: 10px !important;
+        height: 10px !important;
+
+    }
+    
+    .popup, .popup-question, .popup-age {
+        width: 90%;
+        text-align: center;
+        height: auto;
+        overflow: auto;
+        height: 90%;
+        top: 52%;
+        left: 50%;
+        overflow: auto;
+/*         -webkit-transform: none;
+        -moz-transform: none;
+        -ms-transform: none;
+        -o-transform: none;
+        transform: none;*/
+    
+    }
+
+    .modal-form .form-field-text {
+        grid-template-columns: auto;
+    }
+
+    .modal-form .form-field-text-date {
+        grid-template-columns: auto;
+    }
+    
+    .modal-form .form-field-text-date label {
+        margin-bottom: 10px;
+    }
+    
+    .modal-form .modal-form-time {
+        margin-top: 15px;
+    }
+    
+    /*шапка*/
+    .top-header {
+        min-height: auto;
+        grid-template-columns: auto 2fr;
+        padding-bottom: 10px;
+    }
+
+    .right-container {
+        grid-column-start: 1;
+        grid-column-end: 3;
+        text-align: center;
+    }
+
+    .top-menu {
+        display: none;
+    }
+    
+    header .soc {
+        align-self: center;
+        padding: 0 20px;
+
+    }
+
+    .top-menu ul, .footer-menu ul {
+        font-size: 1em;
+    }
+
+    .top-menu ul li, .footer-menu ul li {
+        padding-right: 5px;
+    }
+
+    .top-buttons {
+        /*text-align: center;*/
+        display: none;
+    }
+
+    .main-logo {
+        justify-self: end;
+        padding: 10px 20px 0 0;
+    }
+
+    .main-logo img {
+        height: 70px;
+    }
+
+    .work-time-img {
+        display: none;
+    }
+
+    .top-contacts {
+        grid-template-columns: 1fr 1fr;
+        padding: 20px;
+
+    }
+
+    .top-contacts-phone {
+        font-size: 1.2em;
+        justify-self: end;
+    }
+
+    .work-time {
+        font-size: 1.45em;
+        justify-self: start;
+    }
+
+    .mobile-menu-buttons {
+        display: grid;
+        grid-template-columns: 1fr auto;
+        grid-column-start: 1;
+        grid-column-end: 3;
+        padding: 0 20px;
+        background-color: #fff;
+        z-index: 2;
+    }
+
+    .btn-menu {
+        border: none;
+        background-color: #f2c345;
+        justify-self: start;
+        padding: 5px 30px;
+        font-size: 1em;
+        line-height: 25px;
+    }
+    
+    .mobile-menu-buttons a {
+        color: #000;
+    }
+    
+    .mnu-btn {
+        display: block;
+        border: none;
+        background-color: #f2c345;
+        justify-self: start;
+        padding: 5px 15px;
+        font-size: 1.35em;
+
+    }
+    
+
+    .mobile-menu-fixed{
+        position: fixed;
+        left: 0;
+        right: 0;
+        top: 0;
+        background-color: #fff;
+    }
+    
+    .mobile-menu-buttons {
+        display: grid;
+        grid-template-columns: 1fr auto;
+        grid-column-start: 1;
+        grid-column-end: 3;
+        padding: 5px 20px;
+    }
+
+
+    .mobile-overlay {
+        background: #222;
+        display: none;
+        height: 100%;
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        opacity: 0.8;
+        position: fixed;
+        top:0;
+        left:0;
+        z-index: 2;
+    }
+
+    .mobile-menu {
+        height: 100%;
+        width: 50%;
+        background-color: #eee;
+        opacity: 0.9;
+        position: fixed;
+        top:0;
+        left:0;
+        display: none;
+        padding-top: 20px;
+        z-index: 3;
+    }
+
+    .mobile-menu ul {
+        text-align: center;
+        padding: 0;
+        margin: 0;
+    }
+
+    .mobile-menu ul li {
+        list-style: none;
+        margin-bottom: 7px;
+        color: #000;
+    }
+
+
+    .mobile-menu .top-buttons {
+        text-align: center;
+        display: block;
+        padding: 20px 0 0 0;
+    }
+
+    .mobile-menu ul li a {
+        color: #222;
+    }
+    
+    .mobile-menu .soc {
+        padding: 15px 0;
+        text-align: center;
+    }
+
+    .mobile-menu .top-buttons a, 
+    .mobile-menu .top-buttons a:visited, 
+    .mobile-menu .top-buttons a:focus, 
+    .mobile-menu .top-buttons a:link {
+        text-align: center;
+        display: inline-block;
+        width: 90%;
+        height: 2em;
+        line-height: 2em;
+        margin-bottom: 5px;
+        padding: 0;
+        font-size: 0.73em;
+        color: #000 !important;
+
+    }
+
+    .top-menu-fixed {
+        position: fixed;
+        width: 100%;
+        max-width: 1180px;
+        top: 40px;
+        margin: 0px !important;
+        z-index: 100;
+        background-color: #fff;
+        padding: 5px 0;
+    }
+
+    .mobile-sticky {
+        display: none;
+    }
+
+    /*конец шапки*/    
+
+    /*секция about*/
+    .about-wrapper {
+        top: -14px;
+    }
+
+    .about .separator {
+        grid-template-columns: 1fr auto 1fr;
+        padding-top: 20px;
+    }
+
+    .about .separator-header {
+        min-height: 27px;
+    }
+
+    .header-font {
+        font-size: 0.93em;
+    }
+
+    .about-content {
+        grid-template-columns: repeat(2, 1fr);
+        padding: 30px 20px;
+    }
+
+    /*конец секции about*/
+
+    /*секция menu-bar*/
+    .menu-bar {
+        top: -14px;
+        background: #222;
+        padding: 0;
+    }
+    
+    .menu-bar-topLine {
+        display: block;
+        padding: 30px 0;
+    }
+    
+    .menu-bar-buttons {
+        text-align: center;
+    }
+    
+    .menu-bar-buttons a,
+    .menu-bar-buttons a:focus,
+    .menu-bar-buttons a:link,
+    .menu-bar-buttons a:visited {
+        padding: 5px 15px;
+        min-width: 150px;
+        font-size: 1.1em;
+    }
+    
+    .menu-bar-link {
+        display: none;
+    }
+
+    .menu-bar-items {
+        grid-template-columns: 1fr;
+    }
+    
+    .menu-bar-item {
+        text-align: center;
+        padding-bottom: 10px;
+    }
+    
+    .menu-bar-item span {
+        padding:0 30px;
+    }
+
+    .menu-bar-item .menu-bar-item-price {
+        font-size: 1.81em;
+        padding: 15px 0;
+    }
+
+
+    /*конец секции menu-bar*/
+
+    /*секция lunch*/
+    .lunch {
+        top: -14px;
+    }
+
+    .lunch-topline {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .lunch .lunch-header {
+        display: block;
+    }
+
+    .lunch .lunch-separator {
+        display: none;
+    }
+
+    .lunch .lunch-time .lunch-time-header {
+        font-size: 1.7em;
+    }
+
+    .lunch-time-time span {
+        font-size: 1.55em;
+    }
+
+
+    .lunch-time-time::before,
+    .lunch-time-time::after {
+        display: none;
+    }
+
+    .lunch-content {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .lunch-price-img .lunch-price-img-absolute {
+        display: none;
+    }
+
+    /* конец секции lunch*/
+    
+    
+    /*секция gallery*/
+    .gallery {
+        top: -14px;
+    }
+    
+    .gallery-description {
+        font-size: 1.12em;
+    }
+    
+    /*конец секции gallery*/
+    
+    
+    
+    /*секция afisha*/
+    .afisha {
+        top: -14px;
+        min-height: auto;
+    }
+    
+    /*конец секции afisha*/
+    
+    /*секция instagram*/
+    
+    section.instagram {
+        top: -14px;
+        min-height: auto;
+    }
+    
+    .instagram-content {
+    grid-template-columns: repeat(3, 1fr);
+    
+    }
+    
+    /*конец секции instagram*/
+    
+    /*секция map*/
+    
+    .map-not-mobile {
+        display: none;
+    }
+    
+    .map-mobile {
+        display: initial;
+    }
+    
+    /*конец секции map*/
+    
+    /*footer*/
+    
+    footer {
+            grid-template-columns: 1fr 1fr;
+    }
+    
+    footer .footer-menu {
+        display: none;
+    }
+    
+    footer .soc {
+        display: none;
+    }
+    
+    .footer-mobile-left-button {
+        justify-self: start;
+    }
+    
+    footer .copyright {
+        display: none;
+    }
+
+    .footer-work-time {
+        grid-column-end: initial;
+    }
+    /* конец footer*/
+    
+    /*страница akcii*/
+
+    .page-content {
+        grid-template-columns: 1fr;
+        padding: 0;
+    }
+
+    /*конец страница akcii*/
+    
+    /*странциа afisha*/
+
+    .afisha-page .page-content {
+        grid-template-columns: 1fr;
+        grid-column-gap: 0;
+        padding: 0 20px 30px 20px;
+    }
+
+    /*raspisanie*/
+    .rasp {
+        padding: 0 20px ;
+    }
+    
+    .rasp-heading {
+       font-size: 2.7em;
+   }
+    
+    .rasp-logo {
+        max-width: 100px;
+    }
+    
+    .rasp-sep-vertical {
+        min-height: 50px;
+    }
+    
+    .rasp-day, .rasp-day-color-black,.rasp-day-color-yellow {
+        padding: 0;
+        font-size: 2.2em;
+        min-width: 100px;
+    }
+
+    .rasp-description {
+        padding-left: 10px;
+    }
+
+    .rasp-black-bkg {
+        font-size: 1.25em;
+        padding: 0 5px;
+        margin-right: 5px;
+    }
+
+    .rasp-yellow-bkg {
+        font-size: 1.25em;
+        padding: 0 5px;
+        margin-right: 5px;
+    }
+
+    .alabama-span-black {
+        font-size: 1.25em;
+    }
+
+    .circelight-span-black{
+        font-size: 1.25em;
+    }
+    
+    .circelight-span-black-yellow-bg {
+        font-size: 1.25em;
+        padding: 0 2px;
+    }
+    
+    /*raspisanie*/
+    
+    /*конец странциа afisha*/
+    
+    /*страница menu*/
+
+    .food-menu-categories-line,
+    .food-menu-categories-line-bar {
+        display: none;
+    }
+
+    .food-menu-top-line ul li a,
+    .food-menu-top-line ul li a:focus,
+    .food-menu-top-line ul li a:link,
+    .food-menu-top-line ul li a:visited {
+        width: 80px;
+    }
+    
+    .food-menu-top-line-wrapper {
+        margin:0;
+    }
+    
+    .food-menu-container-osnmenu {
+        margin-top: 20px;
+    }
+    
+    .food-menu-menu {
+        grid-template-columns: 1fr;
+    }
+
+        .food-menu-item {
+        grid-template-columns: auto;
+    }
+    
+    .food-menu-item-content {
+        text-align: center;
+    }
+
+    .food-menu-item-content span {
+        padding: 5px 0;
+    }
+    
+    .menu-item-dop {
+        background: url(../img/food-lunch-price-bgr.png) transparent no-repeat center;
+    }
+    
+     .menu-bar-item-weight {
+        font-size: 1.2em;
+    }
+    
+    .menu-bar-item-price {
+        font-size: 1.81em;
+    }
+    
+    
+        /*вкладка завтраки*/
+    
+    .food-menu-breakfasts {
+        margin: 0;
+        padding: 0 20px;
+    }
+    
+    .food-menu-header {
+        display: none;
+    }
+    
+    .food-menu-breakfasts-advertisment {
+        grid-gap: 30px;
+    }
+    
+    .food-menu-breakfasts-advertisment .left-item, 
+    .food-menu-breakfasts-advertisment .right-item {
+        justify-self: center;
+    }
+    
+    .breakfast-horizontal-separator-header {
+        grid-template-columns: auto auto;
+    }
+    
+    breakfast-horizontal-separator {
+        width: 90%;
+    }
+    
+    .lunch-item-badge {
+        width: 50px;
+        height: 50px;
+    }
+
+    .lunch-item-badge span {
+        font-size: 1.04em;
+    }
+
+    .breakfast-content-3col {
+        padding: 0 0 50px 0;
+    }
+    
+        /*конец вкладка завтраки*/
+
+    
+    /*конец страницы menu*/
+    
+    .bankety-description {
+        grid-template-columns: 1fr;
+    }
+    
+    .bankety-description img {
+        display: none;
+    }
+}
+
+/* SMARTPHONES PORTRAIT */
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+    
+    body {
+        background-color: transparent;
+        background-image: none;
+    }
+    
+    
+    .right-banner {
+        display: none;
+    }
+
+    .wrapper {
+        margin: 0;
+        max-width: inherit;
+    }
+
+    .carousel-indicators li {
+        width: 10px !important;
+        height: 10px !important;
+
+    }
+    
+    .popup, .popup-question, .popup-age {
+        width: 100%;
+        text-align: center;
+        height: 100%;
+        top: 0;
+        left: 0;
+        overflow: auto;
+         -webkit-transform: none;
+        -moz-transform: none;
+        -ms-transform: none;
+        -o-transform: none;
+        transform: none;
+    }
+
+    .modal-form .form-field-text {
+        grid-template-columns: auto;
+    }
+
+    .modal-form .form-field-text-date {
+        grid-template-columns: auto;
+    }
+    
+    .modal-form .form-field-text-date label {
+        margin-bottom: 10px;
+    }
+    
+    .modal-form .modal-form-time {
+        margin-top: 15px;
+    }
+    
+    /*шапка*/
+    .top-header {
+        min-height: auto;
+        grid-template-columns: auto 2fr;
+        padding: 5px 20px;
+    }
+
+    .right-container {
+        grid-column-start: 1;
+        grid-column-end: 3;
+        text-align: center;
+    }
+
+    .top-menu {
+        display: none;
+    }
+
+    header .soc {
+        align-self: center;
+        padding: 0;
+
+    }
+
+    .top-menu ul, .footer-menu ul {
+        font-size: 1em;
+    }
+
+    .top-menu ul li, .footer-menu ul li {
+        padding-right: 5px;
+    }
+
+    .top-buttons {
+        display: none;
+    }
+
+    .main-logo {
+        justify-self: end;
+    }
+
+    .main-logo img {
+        height: 70px;
+    }
+
+    .work-time-img {
+        display: none;
+    }
+
+    .top-contacts {
+        grid-template-columns: 1fr 1fr;
+        padding: 10px 0;
+
+    }
+
+    .top-contacts-phone {
+        font-size: 0.8em;
+        justify-self: end;
+    }
+
+    .work-time {
+        font-size: 0.9em;
+        justify-self: start;
+    }
+    
+    .mobile-menu-fixed{
+        position: fixed;
+        left: 0;
+        right: 0;
+        top: 0;
+        background-color: #fff;
+        z-index: 11111111;
+    }
+    
+    .top-menu-fixed {
+    /*position: fixed;*/
+    width: 100%;
+    max-width: 1180px;
+    top: 40px;
+    margin: 0px !important;
+    z-index: 100;
+    background-color: #fff;
+    padding: 5px 0;
+    }
+
+
+    .mobile-menu-buttons {
+        display: grid;
+        grid-template-columns: 1fr auto;
+        grid-column-start: 1;
+        grid-column-end: 3;
+        padding: 5px 0;
+        height: 40px;
+        background-color: #fff;
+        z-index: 2;
+    }
+
+    .btn-menu {
+        border: none;
+        background-color: #f2c345;
+        justify-self: start;
+        padding: 5px 30px;
+        font-size: 1em;
+        line-height: 20px;
+    }
+    
+    .mobile-menu-buttons a {
+        color: #000;
+    }
+    
+    .mnu-btn {
+        display: block;
+        border: none;
+        background-color: #f2c345;
+        justify-self: start;
+        padding: 5px 10px;
+        font-size: 1.15em;
+
+    }
+
+    .mobile-overlay {
+        background: #222;
+        display: none;
+        height: 100%;
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        opacity: 0.8;
+        position: fixed;
+        top:0;
+        left:0;
+        z-index: 2;
+    }
+
+    .mobile-menu {
+        height: 100%;
+        width: 70%;
+        background-color: #eee;
+        opacity: 0.9;
+        position: fixed;
+        top:0;
+        left:0;
+        display: none;
+        padding-top: 20px;
+        z-index: 3;
+    }
+
+    .mobile-menu ul {
+        text-align: center;
+        padding: 0;
+        margin: 0;
+    }
+
+    .mobile-menu ul li {
+        list-style: none;
+        margin-bottom: 7px;
+        color: #000;
+    }
+    
+    .mobile-menu .soc {
+        padding: 15px 0;
+        text-align: center;
+    }
+
+
+    .mobile-menu .top-buttons {
+        text-align: center;
+        display: block;
+        padding: 20px 0 0 0;
+    }
+
+    .mobile-menu ul li a {
+        color: #222;
+    }
+
+    .mobile-menu .top-buttons a, 
+    .mobile-menu .top-buttons a:visited, 
+    .mobile-menu .top-buttons a:focus, 
+    .mobile-menu .top-buttons a:link {
+        text-align: center;
+        display: inline-block;
+        width: 90%;
+        height: 2em;
+        line-height: 2em;
+        margin-bottom: 5px;
+        padding: 0;
+        font-size: 0.73em;
+        color: #000 !important;
+
+    }
+
+    .mobile-sticky {
+        display: none;
+        padding: 5px 20px;
+    }
+
+    .popup-age .popup-text {
+        font-size: 0.3em;
+    }
+    
+    /*конец шапки*/    
+
+    /*секция about*/
+    .about-wrapper {
+        top: -14px;
+    }
+    
+    .about .separator {
+        grid-template-columns: 1fr auto 1fr;
+        padding-top: 20px;
+    }
+    
+    .about .separator-header {
+        min-height: 27px;
+    }
+
+    .header-font {
+        font-size: 0.93em;
+    }
+
+    .about-content {
+        grid-template-columns: 1fr 1fr;
+        padding: 20px 10px;
+    }
+
+    /*конец секции about*/
+
+    /*секция menu-bar*/
+    .menu-bar {
+        top: -14px;
+        background: #222;
+        padding: 0;
+    }
+    
+    .menu-bar-topLine {
+        display: block;
+        padding: 30px 0;
+    }
+    
+    
+    .menu-bar-buttons {
+        text-align: center;
+    }
+    
+    .menu-bar-buttons a,
+    .menu-bar-buttons a:focus,
+    .menu-bar-buttons a:link,
+    .menu-bar-buttons a:visited {
+        padding: 5px 15px;
+        min-width: 130px;
+        font-size: 1.1em;
+    }
+    
+    .menu-bar-link {
+        display: none;
+    }
+
+    .menu-bar-items {
+        grid-template-columns: 1fr;
+    }
+    
+    .menu-bar-item {
+        text-align: center;
+        padding-bottom: 10px;
+    }
+    
+    .menu-bar-item span {
+        padding: 0 30px;
+    }
+    
+    .menu-bar-item .menu-bar-item-price {
+        font-size: 1.81em;
+        padding: 15px 0;
+        
+    }
+
+    /*конец секции menu-bar*/
+
+    /*секция lunch*/
+    .lunch {
+        top: -14px;
+    }
+
+    .lunch-topline {
+        grid-template-columns: repeat(1, 1fr);
+        text-align: center;
+    }
+    
+    .lunch-link {
+        text-align: center;
+        padding: 25px 0;
+    }
+    
+    .lunch-price-img {
+        justify-self: center;
+        align-self: center;
+    }
+    
+    .lunch .lunch-header h2 {
+        align-self: center;
+    }
+    
+    .lunch .lunch-fish {
+        display: none;
+    }
+
+    .lunch .lunch-separator {
+        background: url(../img/gallery-separator-right.png) no-repeat center;
+    }
+
+    .lunch .lunch-time .lunch-time-header {
+        font-size: 1.7em;
+    }
+
+    .lunch-time-time span {
+        font-size: 1.55em;
+    }
+
+    .lunch-time-time::before,
+    .lunch-time-time::after {
+        display: none;
+    }
+
+    .lunch-content {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    
+    .lunch-content {
+        padding-bottom: 0;
+    }
+    
+    .lunch-price-img .lunch-price-img-absolute {
+        display: none;
+    }
+
+    /* конец секции lunch*/
+    
+    /*секция akcii*/
+    
+    section.akcii {
+    min-height: auto; 
+    margin-top: -14px;
+    padding-bottom: 40px;
+}
+    
+    /*конец секции akcii*/
+    
+    
+    /*секция gallery*/
+    .gallery {
+        top: -15px;
+    }
+    
+    .gallery-description {
+        font-size: 1.12em;
+    }
+    
+    /*конец секции gallery*/
+
+    /*секция afisha*/
+    .afisha {
+        top: -15px;
+        min-height: auto;
+    }
+    
+    .afisha-link {
+        text-align: center;
+    }
+
+    .afisha-content {
+        grid-template-columns: 1fr;
+    }
+
+    /*конец секции afisha*/
+
+    /*секция instagram*/
+
+    section.instagram {
+        top: -15px;
+        min-height: auto;
+    }
+    .instagram .separator {
+        grid-gap: 20px;
+    }
+    
+    .instagram-content {
+    grid-template-columns: repeat(3, 1fr);
+    
+    }
+    
+    /*конец секции instagram*/
+    
+    
+    /*секция map*/
+    
+    .map-not-mobile {
+        display: none;
+    }
+    
+    .map-mobile {
+        display: initial;
+    }
+    
+    /*конец секции map*/
+    
+    /*footer*/
+    
+    footer {
+        grid-template-columns: 1fr 1fr;
+        padding: 5px;
+    }
+    
+    footer .footer-menu {
+        display: none;
+    }
+
+    footer .soc {
+        display: none;
+    }
+
+    .footer-mobile-left-button {
+        justify-self: start;
+    }
+
+    footer .copyright {
+        display: none;
+    }
+
+    .footer-work-time {
+        grid-column-end: initial;
+    }
+    
+    .footer-buttons {
+        font-size: 0.85em;
+    }
+    
+    .footer-buttons a, 
+    .footer-buttons a:visited,
+    .footer-buttons a:focus,
+    .footer-buttons a:link {
+        width: 150px;
+    }
+
+    footer .tel {
+        font-size: 1em;
+    }
+    footer p {
+        font-size: 0.85em;
+    }
+    /* конец footer*/
+    
+    
+    /*секция akcii*/
+
+    .page-content {
+        grid-template-columns: 1fr;
+        padding: 0;
+    }
+
+    /*конец секции akcii*/
+    
+    /*странциа afisha*/
+    
+    .afisha-page .page-content {
+        grid-template-columns: 1fr;
+        grid-column-gap: 0;
+        padding: 0 20px 30px 20px;
+    }
+    
+    .afisha-page-content {
+        padding: 0 0 80px 0;
+        text-align: center;
+    }
+
+    /*raspisanie*/
+    .rasp {
+        padding: 0 20px ;
+    }
+    
+    .rasp-heading {
+       font-size: 2em;
+   }
+    
+    .rasp-logo {
+        max-width: 75px;
+    }
+    
+    .rasp-sep-vertical {
+        min-height: 50px;
+    }
+    
+    .rasp-day , .rasp-day-color-black, .rasp-day-color-yellow {
+        padding: 0;
+        font-size: 1.5em;
+        min-width: 50px;
+    }
+
+    .rasp-description {
+        padding-left: 10px;
+    }
+
+    .rasp-black-bkg {
+        font-size: 1em;
+        padding: 0 2px;
+        margin-right: 3px;
+    }
+    
+    .rasp-yellow-bkg {
+        font-size: 1em;
+        padding: 0 2px;
+        margin-right: 3px;
+    }
+
+    .alabama-span-black {
+        font-size: 1em;
+    }
+
+    .circelight-span-black{
+        font-size: 1em;
+    }
+    
+    .circelight-span-black-yellow-bg {
+        font-size: 1em;
+        padding: 0 2px;
+    }
+    
+    /*raspisanie*/
+    
+    /*конец странциа afisha*/
+    
+    
+    /*страница menu*/
+    
+    .food-menu-categories-line,
+    .food-menu-categories-line-bar {
+        display: none;
+    }
+    
+    .food-menu-top-line ul li {
+        margin: 0;
+    }
+    .food-menu li.active>a,
+    .food-menu li.active>a:link,
+    .food-menu li.active>a:focus,
+    .food-menu li.active>a:visited{
+        background-color: transparent !important;
+        color: #f2c345;
+    }
+    
+    .food-menu-top-line ul li a,
+    .food-menu-top-line ul li a:focus,
+    .food-menu-top-line ul li a:link,
+    .food-menu-top-line ul li a:visited {
+        width: auto;
+        background: transparent;
+        color: #000;
+    }
+    
+     .food-menu-top-line-wrapper {
+        margin:0;
+    }
+    
+    .food-menu-container-osnmenu {
+        margin-top: 20px;
+    }
+    
+    
+    .food-menu-menu {
+        grid-template-columns: 1fr;
+    }
+
+        .food-menu-item {
+        grid-template-columns: auto;
+    }
+    
+    .food-menu-item-content {
+        text-align: center;
+    }
+
+    .food-menu-item-content span {
+        padding: 5px 0;
+    }
+    
+    .menu-item-dop {
+        background: url(../img/food-lunch-price-bgr.png) transparent no-repeat center;
+    }
+    
+     .menu-bar-item-weight {
+        font-size: 1.2em;
+    }
+    
+    .menu-bar-item-price {
+        font-size: 1.81em;
+    }
+    
+        /*вкладка завтраки*/
+    
+    .food-menu-breakfasts {
+        margin: 0;
+        padding: 0 20px;
+    }
+    
+    .food-menu-header {
+        display: none;
+    }
+
+    .food-menu-breakfasts-advertisment {
+        grid-template-columns: repeat(1, 1fr);
+        grid-gap: 30px;
+    }
+    
+    .food-menu-breakfasts-advertisment .left-item, 
+    .food-menu-breakfasts-advertisment .right-item {
+        justify-self: center;
+    }
+    
+    .breakfast-horizontal-separator-header {
+        grid-template-columns: auto auto;
+    }
+    
+    breakfast-horizontal-separator {
+        width: 90%;
+    }
+    
+    .lunch-item-badge {
+        width: 50px;
+        height: 50px;
+    }
+
+    .lunch-item-badge span {
+        font-size: 1.04em;
+    }
+
+    .breakfast-content {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .breakfast-content-3col {
+        padding: 0 0 50px 0;
+    }
+    .breakfast-content-item {
+        margin-bottom: 20px;
+    }
+    
+    .breakfast-content-item-dot,
+    .breakfast-content-item-plus {
+        display: none;
+    }
+    
+        /*конец вкладка завтраки*/
+    
+    /*конец страницы menu*/
+    
+    /*страница bankety*/
+    .bankety-description {
+        grid-template-columns: 1fr;
+    }
+    
+    .bankety-description img {
+        display: none;
+    }
+
+/*конец страницы bankety*/
+}
+
+
+/*very small*/
+@media only screen and (min-width: 1px) and (max-width: 319px) {
+
+
+    body {
+        background-color: transparent;
+        background-image: none;
+    }
+
+    .right-banner {
+        display: none;
+    }
+
+    .wrapper {
+        margin: 0;
+        max-width: inherit;
+    }
+    
+    /*footer*/
+    
+    footer {
+            grid-template-columns: 1fr 1fr;
+    }
+    
+    footer .footer-menu {
+        display: none;
+    }
+    
+    footer .soc {
+        display: none;
+    }
+    
+    footer .copyright {
+        display: none;
+    }
+
+    .footer-work-time {
+        grid-column-end: initial;
+    }
+    
+    .footer-buttons a, 
+    .footer-buttons a:visited,
+    .footer-buttons a:focus,
+    .footer-buttons a:link {
+        width: 150px;
+    }
+    /* конец footer*/
+    
+    
+    .food-menu-categories-line,
+    .food-menu-categories-line-bar {
+        display: none;
+    }
+    
+
+}

@@ -1,0 +1,232 @@
+.food-menu-lunches {
+    
+    text-align: center;
+}
+
+.food-menu-lunch-content {
+    margin: 0 35px;
+}
+
+.food-menu-lunch-header {
+    grid-template-columns: 1fr 2fr;
+    grid-gap: 35px;
+    margin-bottom: 40px;
+}
+
+.fml-heading-left-col>h2 {
+    font-family: 'pf_din_text_comp_pro_light' , sans-serif;
+    font-size: 4.9em;
+    padding: 0;
+    margin: 0;
+    line-height: 0.8;
+}
+
+.fml-heading-time>span {
+    display: inline-block;
+    width: 100%;
+    font-family: 'pf_din_text_comp_promedium' , sans-serif;
+    font-size: 3.3em;
+    background: url(../img/bgr-for-hover.png) transparent repeat-x center /40px;
+}
+
+.fml-heading-left-col>img {
+    margin-top:60px;
+}
+
+.fml-heading-day {
+    grid-template-columns: repeat(3 , 1fr);
+    min-height: 115px;
+    color: #fff;
+}
+
+.fml-heading-day>span {
+    position: relative;
+    font-family: 'lobster' , sans-serif;
+    font-size: 4em;
+}
+
+.fml-heading-advice {
+    position: relative;
+    font-family: 'lobster' , sans-serif;
+    font-size: 2.5em;
+    color: #F3C744;
+    margin-top:90px;
+}
+
+.fml-heading-advice>span:before {
+    content: "";
+    background: url('../img/menu/lunch/venzel-left.png') transparent no-repeat center;
+    position: absolute;
+    width: 125px;
+    height: 11px;
+    bottom: 10px;
+    left: 0;
+}
+
+.fml-heading-advice>span:after {
+    content: "";
+    background: url('../img/menu/lunch/venzel-right.png') transparent no-repeat center;
+    position: absolute;
+    width: 125px;
+    height: 11px;
+    bottom: 10px;
+    right: 0;
+}
+
+.fml-heading-price {
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 15px;
+    min-height: 154px;
+    margin-top: 15px;
+    font-family: 'pf_din_text_comp_probold' , sans-serif;
+    font-size: 5em;
+}
+
+.fml-heading-price span:after {
+    content: "j";
+    font-family: 'rouble', sans-serif;
+}    
+    
+.fml-heading-price-left {
+    background: url('../img/menu/lunch/adv-left.png') transparent no-repeat center / cover;
+}
+.fml-heading-price-right {
+    background: url('../img/menu/lunch/adv-right.png') transparent no-repeat center / cover;
+}
+
+.food-menu-lunch-row {
+    grid-template-columns: 1fr 2fr;
+    grid-gap: 35px;
+    margin-bottom: 25px;
+}
+
+.fml-item {
+    position: relative;
+}
+
+.fml-uppercase {
+    text-transform: uppercase;
+}
+
+.fml-item-heading {
+    font-size: 1.625em;
+    text-align: left;
+    max-width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    min-height: 60px;
+    background-color: #222;
+    color: #fff;
+    padding: 0 5%;
+    grid-template-columns: 3fr 1fr;
+    align-items: center;
+}
+
+.fml-item-heading>span {
+    
+    font-family: 'pf_din_text_comp_pro_light' , 'verdana' , sans-serif;
+    
+    text-transform: uppercase;
+}
+
+.fml-item-col-2 {
+    grid-template-columns: 1fr 1fr;
+}
+
+.fml-item-heading-white {
+    display: grid;
+    max-width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    min-height: 60px;
+    background-color: #fff;
+    color: #222;
+    border-bottom: 1px solid #222;
+
+}
+
+.fml-item-heading-price {
+    color: #F3C744;
+    font-family: 'pf_din_text_comp_probold' , sans-serif;
+    font-size: 1.2em;
+    text-align: right;
+}
+
+
+.fml-item-heading-white>span {
+    font-family: 'pf_din_text_comp_proregular' , 'verdana' , sans-serif;
+    font-size: 2em;
+    align-self: center;
+}
+
+
+.fml-brown{
+    background-color: #241200;
+    color: #fff;
+}
+
+.fml-black{
+    background-color: #222;
+    color: #fff;
+}
+
+.fml-item-no-image {
+    padding-left: 5%;
+    text-align: left;
+    align-self: center;
+    font-family: 'pf_din_text_comp_pro_light' , 'verdana' , sans-serif;
+    font-size: 1.625em;
+}
+
+.fml-white{
+    background-color: #fff;
+    color: #222;
+}
+
+.fml-text {
+    font-family: 'pf_din_text_comp_proregular' , 'verdana' , sans-serif;
+    font-size: 2em;
+}
+
+.fml-footer-adv-heading {
+    text-align: left;
+    font-family: 'pf_din_text_comp_proregular' , 'verdana' , sans-serif;
+    font-size: 2em;
+    color: #F3C744;
+}
+
+.font-rouble {
+    font-family: 'rouble' , sans-serif;
+    text-transform: lowercase;
+}
+
+.fml-footer-adv {
+    min-height: 60px;
+    line-height: 60px;
+    text-align: center;
+    font-family: 'pf_din_text_comp_proregular' , 'verdana' , sans-serif;
+    font-size: 1.625em;
+    background-color: #F3C744;
+    color: #fff;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+.fml-footer-images {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.fml-second-dishes-m,
+.fml-item-heading .lunch-item-badge  {
+    display: none;
+}
+
+.fml-border-rounded {
+    border-radius: 50%;
+}

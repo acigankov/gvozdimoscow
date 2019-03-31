@@ -1,0 +1,125 @@
+@font-face {
+    font-family: 'alabama';
+    src: url('../fonts/alabama.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LaoSangamMN';
+    src: url('../fonts/LaoSangamMN.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'din-alternate-bold';
+    src: url('../fonts/DIN Alternate Bold.ttf') format('truetype'),
+         url('../fonts/DIN Alternate Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'exo_2.0medium';
+    src: url('../fonts/exo2.0_medium-webfont.woff2') format('woff2'),
+         url('../fonts/exo2.0_medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'exo_2.0regular';
+    src: url('../fonts/exo2.0_regular-webfont.woff2') format('woff2'),
+         url('../fonts/exo2.0_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'exo_2.0bold';
+    src: url('exo2.0bold-webfont.woff2') format('woff2'),
+         url('exo2.0bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'lobster';
+    src: url('../fonts/lobster.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'pf_din_text_comp_promedium';
+    src: url('../fonts/PFDinTextCompPro-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'pf_din_text_comp_probold';
+    src: url('../fonts/PFDinTextCompPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'pf_din_text_comp_proregular';
+    src: url('../fonts/PFDinTextCompPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'pf_din_text_comp_pro_light';
+    src: url('../fonts/PFDinTextCompPro-Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'pf_din_text_universalbold';
+    src: url('../fonts/PFDinTextUniversal-Bold.otf') format('opentype') ,
+         url('../fonts/pfdintextuniversal-bold-webfont.woff2') format('woff2'),
+         url('../fonts/pfdintextuniversal-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'CirceBold';
+    src: url('../fonts/Circe-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CirceRegular';
+    src: url('../fonts/Circe-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'CirceLight';
+    src: url('../fonts/Circe-Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'rouble';
+    src: url('../fonts/rouble.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Impact-Regular';
+    src: url('../fonts/Impact-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
