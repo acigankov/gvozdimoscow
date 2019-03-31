@@ -116,7 +116,7 @@
 <!--                    <div class="rasp-description-row">
                         <span class="rasp-black-bkg">18:30 </span>
                         <span class="alabama-span-black">Футбол: </span>
-                        <span class="circelight-span-black">Чемпионат России </span>
+                        <span class="circelight-span-black">Чемпионат Росси</span>
                     </div>-->
                     <div class="rasp-description-row">
                         <span class="rasp-yellow-bkg">20:00 </span>
