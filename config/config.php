@@ -14,7 +14,7 @@ $data = [
 //lunches
 function showLunchTemplate() {
 
-    $weekNum = '1';
+    $weekNum = '2';
 
     switch (date('w')) {
         case '1';
