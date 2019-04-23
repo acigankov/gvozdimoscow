@@ -4,7 +4,6 @@
 <div class="slider-top ">
 
     <div class="header-slider">
-        <a href="http://quiz.gvozdimoscow.ru/"><img src="/img/img7.jpg" alt="slide-1" /></a>
         <img src="/img/img4.jpg" alt="slide-1" />
         <img src="/img/img6.jpg" alt="slide-2" />
         <img src="/img/img2.jpg" alt="slide-3" />
