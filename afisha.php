@@ -17,28 +17,29 @@
                     <span class="yellow-text">неделя</span>
                 </div>
             </div>
-
+                    <!--обновление 24.05.2019-->
+                    
             <!--понедельник-->
             <div class="rasp-row">
                 <div class="rasp-day-color-black">ПН</div>
                 <div class="rasp-sep-vertical"></div>
                 <div class="rasp-description">
-                    <div class="rasp-description-row">
-                        <span class="rasp-black-bkg">17:15 </span>
+<!--                    <div class="rasp-description-row">
+                        <span class="rasp-black-bkg">19:30 </span>
                         <span class="alabama-span-black">Хоккей:  </span>
                         <span class="circelight-span-black">Чемпионат Мира </span>
-                    </div>
+                    </div>-->
                      <div class="rasp-description-row">
                         <span class="rasp-yellow-bkg">19:30 </span>
                         <span class="alabama-span-black">Игры: </span>
-                        <span class="circelight-span-black">Музыкальная лига</span>
+                        <span class="circelight-span-black">Кинолига</span>
                         <span class="circelight-span-black-yellow-bg">60 секунд </span>
                     </div>
-                    <div class="rasp-description-row">
+<!--                    <div class="rasp-description-row">
                         <span class="rasp-black-bkg">21:15 </span>
                         <span class="alabama-span-black">Хоккей:  </span>
                         <span class="circelight-span-black">Чемпионат Мира </span>
-                    </div>
+                    </div>-->
                 </div>
             </div>
             <!--конец понедельниик-->
@@ -48,19 +49,19 @@
                 <div class="rasp-day-color-yellow">ВТ</div>
                 <div class="rasp-sep-vertical"></div>
                 <div class="rasp-description">
-                    <div class="rasp-description-row">
+<!--                    <div class="rasp-description-row">
                         <span class="rasp-black-bkg">17:15 </span>
                         <span class="alabama-span-black">Хоккей:  </span>
                         <span class="circelight-span-black">Чемпионат Мира </span>
-                    </div>
+                    </div>-->
                     <div class="rasp-description-row">
                         <span class="rasp-yellow-bkg">19:30 </span>
                         <span class="alabama-span-black">Игры: </span>
-                        <span class="circelight-span-black">Открытая лига</span>
+                        <span class="circelight-span-black">Открытая лига. Финал</span>
                         <span class="circelight-span-black-yellow-bg">60 секунд </span>
                     </div>
                     <div class="rasp-description-row">
-                        <span class="rasp-black-bkg">21:15 </span>
+                        <span class="rasp-yellow-bkg">21:15 </span>
                         <span class="alabama-span-black">Хоккей:  </span>
                         <span class="circelight-span-black">Чемпионат Мира </span>
                     </div>
@@ -76,7 +77,7 @@
                     <div class="rasp-description-row">
                         <span class="rasp-yellow-bkg">18:00 </span>
                         <span class="alabama-span-black">Футбол: </span>
-                        <span class="circelight-span-black">Российская Премьер-Лига </span>
+                        <span class="circelight-span-black">Кубок России по футболу. Финал </span>
                     </div>
                 </div>
             </div>
@@ -88,21 +89,25 @@
                 <div class="rasp-sep-vertical"></div>
                 <div class="rasp-description">
                     <div class="rasp-description-row">
-                        <span class="rasp-black-bkg">19:30 </span>
-                        <span class="alabama-span-black">Игры: </span>
-                        <span class="circelight-span-black">В Стиле 90-х </span>
-                        <span class="circelight-span-black-yellow-bg">60 секунд </span>
+                        <span class="rasp-yellow-bkg">17:15 </span>
+                        <span class="alabama-span-black">Хоккей: </span>
+                        <span class="circelight-span-black">Чемпионат мира. Четвертьфинал</span>
                     </div>
-<!--                    <div class="rasp-description-row">
+                    <div class="rasp-description-row">
+                        <span class="rasp-yellow-bkg">21:15 </span>
+                        <span class="alabama-span-black">Хоккей: </span>
+                        <span class="circelight-span-black">Чемпионат мира. Четвертьфинал</span>
+                    </div>
+                    <div class="rasp-description-row">
+                        <span class="rasp-yellow-bkg">19:30 </span>
+                        <span class="alabama-span-black">Игры: </span>
+                        <span class="circelight-span-black">Сквиз </span>
+                    </div>
+                    <div class="rasp-description-row">
                         <span class="rasp-yellow-bkg">19:30 </span>
                         <span class="alabama-span-black">Стендап: </span>
-                        <span class="circelight-span-black">Проверка материала </span>
-                    </div>-->
-<!--                    <div class="rasp-description-row">
-                        <span class="rasp-yellow-bkg">22:00 </span>
-                        <span class="alabama-span-black">Футбол: </span>
-                        <span class="circelight-span-black">Лига Европы 1/2 финала </span>
-                    </div>-->
+                        <span class="circelight-span-black">Открытый микрофон </span>
+                    </div>
                 </div>
             </div>
             <!--конец четверг-->
@@ -132,25 +137,30 @@
                 <div class="rasp-sep-vertical"></div>
                 <div class="rasp-description">
                     <div class="rasp-description-row">
-                        <span class="rasp-black-bkg">16:00 </span>
+                        <span class="rasp-yellow-bkg">14:00 </span>
                         <span class="alabama-span-black">Игры: </span>
-                        <span class="circelight-span-black">Гвоздатый Квиз Игра Престолов </span>
+                        <span class="circelight-span-black">Квиз Смузи </span>
                     </div>
                     <div class="rasp-description-row">
-                        <span class="rasp-yellow-bkg">19:00 </span>
-                        <span class="alabama-span-black">Футбол: </span>
-                        <span class="circelight-span-black">Английская Премьер-Лига </span>
+                        <span class="rasp-yellow-bkg">18:00 </span>
+                        <span class="alabama-span-black">Игры: </span>
+                        <span class="circelight-span-black">Квиз Смузи </span>
                     </div>
                     <div class="rasp-description-row">
-                        <span class="rasp-black-bkg">20:00 </span>
-                        <span class="alabama-span-black">Концерт: </span>
-                        <span class="circelight-span-black">2 года альбому "One more light" от Linkin Park </span>
+                        <span class="rasp-yellow-bkg">16:15 </span>
+                        <span class="alabama-span-black">Хоккей: </span>
+                        <span class="circelight-span-black">Чемпионат мира. Полуфинал</span>
                     </div>
-<!--                    <div class="rasp-description-row">
+                    <div class="rasp-description-row">
+                        <span class="rasp-yellow-bkg">20:15 </span>
+                        <span class="alabama-span-black">Хоккей: </span>
+                        <span class="circelight-span-black">Чемпионат мира. Полуфинал</span>
+                    </div>
+                    <div class="rasp-description-row">
                         <span class="rasp-yellow-bkg">21:30 </span>
                         <span class="alabama-span-black">Вечеринка: </span>
-                        <span class="circelight-span-black">Сальса Малекон </span>
-                    </div>-->
+                        <span class="circelight-span-black">Ночник Малекон </span>
+                    </div>
                 </div>
             </div>
             <!--конец суббота-->
@@ -161,9 +171,19 @@
                 <div class="rasp-sep-vertical"></div>
                 <div class="rasp-description">
                     <div class="rasp-description-row">
-                        <span class="rasp-black-bkg">14:00 </span>
+                        <span class="rasp-yellow-bkg">14:00 </span>
                         <span class="alabama-span-black">Игры: </span>
                         <span class="circelight-span-black">Квиз Смузи </span>
+                    </div>
+                    <div class="rasp-description-row">
+                        <span class="rasp-yellow-bkg">14:00 </span>
+                        <span class="alabama-span-black">Футбол: </span>
+                        <span class="circelight-span-black">Российская Премьер - лига. Последний тур </span>
+                    </div>
+                    <div class="rasp-description-row">
+                        <span class="rasp-yellow-bkg">16:45 </span>
+                        <span class="alabama-span-black">Хоккей: </span>
+                        <span class="circelight-span-black">Чемпионат мира. Матч за третье место </span>
                     </div>
                     <div class="rasp-description-row">
                         <span class="rasp-yellow-bkg">18:00 </span>
@@ -171,9 +191,9 @@
                         <span class="circelight-span-black">Квиз Смузи </span>
                     </div>
                     <div class="rasp-description-row">
-                        <span class="rasp-black-bkg">18:00 </span>
-                        <span class="alabama-span-black">Свидания: </span>
-                        <span class="circelight-span-black">Романтичесеий город </span>
+                        <span class="rasp-yellow-bkg">21:15 </span>
+                        <span class="alabama-span-black">Хоккей: </span>
+                        <span class="circelight-span-black">Чемпионат мира. Финал </span>
                     </div>
                 </div>
             </div>
