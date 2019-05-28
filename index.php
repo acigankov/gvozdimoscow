@@ -4,10 +4,11 @@
 <div class="slider-top ">
 
     <div class="header-slider">
-        <img src="/img/img4.jpg" alt="slide-1" />
+<!--        <img src="/img/img4.jpg" alt="slide-1" />
         <img src="/img/img6.jpg" alt="slide-2" />
         <img src="/img/img2.jpg" alt="slide-3" />
-        <img src="/img/img5.jpg" alt="slide-5" />
+        <img src="/img/img5.jpg" alt="slide-5" />-->
+        <img src="/img/img8.jpg" alt="slide-8" />
     </div>
 
 </div>
