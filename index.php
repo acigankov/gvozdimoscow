@@ -8,7 +8,7 @@
         <img src="/img/img6.jpg" alt="slide-2" />
         <img src="/img/img2.jpg" alt="slide-3" />
         <img src="/img/img5.jpg" alt="slide-5" />-->
-        <img src="/img/img8.jpg" alt="slide-8" />
+        <a href="http://quiz.gvozdimoscow.ru/" target="_blank" title="Гвоздатый Квиз"><img src="/img/img8.jpg" alt="Гвоздатый Квиз" /></a>
     </div>
 
 </div>
