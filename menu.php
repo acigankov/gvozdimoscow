@@ -275,9 +275,9 @@
                     </div>
                     <div class="food-menu-item-content">
                         <h3>колбасная миля</h3>
-                        <span class="menu-bar-item-description">[КОЛБАСКИ ИЗ ГОВЯДИНЫ, КОЛБАСКИ ИЗ КУРИЦЫ,
-                            КОЛБАСКИ ИЗ СВИНИНЫ, ОВОЩИ ГРИЛЬ, КАРТОФЕЛЬНЫЕ ДОЛЬКИ,
-                            ГРЕНКИ, КАРТОФЕЛЬ ФРИ, СОУС BBQ, СОУС СЫРНЫЙ]
+                        <span class="menu-bar-item-description">[КОЛБАСКИ-УЛИТКИ ИЗ КУРИЦЫ, КОЛБАСКИ ИЗ СВИНИНЫ,
+                                КУРИНЫЕ КОЛБАСКИ, ОВОЩИ ГРИЛЬ, КАРТОФЕЛЬНЫЕ ДОЛЬКИ,
+                                ГРЕНКИ, КАРТОФЕЛЬ ФРИ, СОУС BBQ, СОУС СЫРНЫЙ]
                         </span>
                         <span class="menu-bar-item-weight">
                             450/120/80/90/130/20/20 гр.
@@ -294,9 +294,9 @@
                         </a>
                     </div>
                     <div class="food-menu-item-content">
-                        <h3>пивной набор</h3>
-                        <span class="menu-bar-item-description">[СЫРНЫЕ ПАЛОЧКИ, ЛУКОВЫЕ КОЛЬЦА, ГРЕНКИ, КАРТОФЕЛЬ ФРИ,
-                            СОУС БЛЮ ЧИЗ, СОУС СЫРНЫЙ]
+                        <h3>пивной сет</h3>
+                        <span class="menu-bar-item-description">[ СЫРНЫЕ НАГГЕТСЫ, ЛУКОВЫЕ КОЛЬЦА, ГРЕНКИ, КАРТОФЕЛЬ ФРИ,
+                            СОУС БЛЮ ЧИЗ, СОУС СЫРНЫЙ ]
                         </span>
                         <span class="menu-bar-item-weight">
                             80/100/110/90/20/20 гр.
@@ -314,7 +314,7 @@
                         </a>
                     </div>
                     <div class="food-menu-item-content">
-                        <h3>большой куш AMG</h3>
+                        <h3>большой куш</h3>
                         <span class="menu-bar-item-description">[СВИНЫЕ РЕБРЫШКИ, КОЛБАСКИ ГОВЯЖЬИ, КОЛБАСКИ СВИНЫЕ, 
                             КРЫЛЫШКИ BBQ, СТЕЙК СКЕРТ, 
                             КАРТОФЕЛЬ ФРИ, ЧЕСНОЧНЫЕ ГРЕНКИ][ПОДАЕТСЯ С БАРБЕКЮ И СМЕТАННО-ЧЕСНОЧНЫМ СОУСАМИ]
@@ -330,6 +330,25 @@
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <div class="new-label"></div>
+                        <a href="img/menu/osn-menu/more-set.jpg" data-fancybox="image-more-set" data-caption="Морской сет">
+                            <img src="img/menu/osn-menu/more-set.jpg" class="item-img img-fluid" title="Морской сет">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>морской сет</h3>
+                        <span class="menu-bar-item-description">[ КРЕВЕТКИ В ТЕМПУРЕ, КОЛЬЦА КАЛЬМАРОВ, ГРЕНКИ,
+                            КАРТОФЕЛЬ ФРИ, СОУС КИСЛО-СЛАДКИЙ, СОУС BBQ ]
+                        </span>
+                        <span class="menu-bar-item-weight">
+                            80/70/70/90/20/20 гр.
+                        </span>
+                        <span class="menu-bar-item-price">
+                            ~599
+                        </span>
+                    </div>    
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
                         <a href="img/menu/osn-menu/jackpot.jpg" data-fancybox="image-jack-pot" data-caption="Джек Пот">
                             <img src="img/menu/osn-menu/jackpot.jpg" class="item-img img-fluid" title="джек пот" alt="">
                         </a>
@@ -370,10 +389,8 @@
                     <div class="food-menu-item-content">
                         <h3>разносолы</h3>
                         <span class="menu-bar-item-description">
-                            [САЛО, ЧЕРЕМША,
-                            ПОМИДОРЫ МАРИНОВАНЫЕ,
-                            ОГУРЦЫ СОЛЕНЫЕ, ПЕРЕЦ ОСТРЫЙ,
-                            ЧЕСНОК МАРИНОВАНЫЙ]
+                            [САЛО, ЧЕРЕМША, ПОМИДОРЫ МАРИНОВАННЫЕ,
+                            ОГУРЦЫ СОЛЕНЫЕ, ПЕРЕЦ ОСТРЫЙ, ЧЕСНОК МАРИНОВАННЫЙ]
                         </span>
                         <span class="menu-bar-item-weight">
                             300 гр.
@@ -392,7 +409,7 @@
                     <div class="food-menu-item-content">
                         <h3>селедочка с картофелем</h3>
                         <span class="menu-bar-item-description">
-                            [ВАРЕНЫЙ КАРТОФЕЛЬ, СЕЛЬДЬ СЛАБОСОЛЕНАЯ,
+                            [КАРТОФЕЛЬ, СЕЛЬДЬ СЛАБОСОЛЕНАЯ,
                             МАРИНОВАННЫЙ ЛУК, СВЕЖАЯ ЗЕЛЕНЬ,
                             ПОДСОЛНЕЧНОЕ МАСЛО]
                         </span>
@@ -413,8 +430,8 @@
                     <div class="food-menu-item-content">
                         <h3>сырное ассорти</h3>
                         <span class="menu-bar-item-description">
-                            [ДОР-БЛЮ, ГОЛЛАНДСКИЙ, ПАРМЕЗАН, ЧЕЧИЛ]
-                            [ПОДАЕТСЯ С МЕДОМ, ОРЕХАМИ,
+                            [ДОРБЛЮ, ГОЛЛАНДСКИЙ, ПАРМЕЗАН, ЧЕЧИЛ ]
+                            [ ПОДАЕТСЯ С МЕДОМ, ОРЕХАМИ,
                             ГРУШЕЙ И ВИНОГРАДОМ]
                         </span>
                         <span class="menu-bar-item-weight">
@@ -435,12 +452,32 @@
                     <div class="food-menu-item-content">
                         <h3>Овощная тарелка</h3>
                         <span class="menu-bar-item-description">
-                            [ДОР-БЛЮ, ГОЛЛАНДСКИЙ, ПАРМЕЗАН, ЧЕЧИЛ]
-                            [ПОДАЕТСЯ С МЕДОМ, ОРЕХАМИ,
-                            ГРУШЕЙ И ВИНОГРАДОМ]
+                            [ОГУРЦЫ, ПОМИДОРЫ, БОЛГАРСКИЙ ПЕРЕЦ,
+                            РЕДИС, ЛИСТ САЛАТА, ЗЕЛЕНЬ]
                         </span>
                         <span class="menu-bar-item-weight">
-                            210 гр.
+                            300 гр.
+                        </span>
+                        <span class="menu-bar-item-price">
+                            ~299
+                        </span>
+                    </div>    
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/menu/osn-menu/kop4enosti.jpg" data-fancybox="image-kopctср" data-caption="Копчености">
+                            <img src="img/menu/osn-menu/kop4enosti.jpg" class="item-img img-fluid" title="Копчености" alt="">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>копчености</h3>
+                        <span class="menu-bar-item-description">
+                            [ДЖЕРКИ ИЗ ИНДЕЙКИ, СЫР ЧЕЧИЛ,
+                            ГРЕНКИ БОРОДИНСКИЕ,
+                            КОЛБАСКИ ПИККОЛИНИ, СОУС BBQ]
+                        </span>
+                        <span class="menu-bar-item-weight">
+                            130/20 гр.
                         </span>
                         <span class="menu-bar-item-price">
                             ~399
@@ -450,21 +487,23 @@
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <div class="new-label"></div>
-                        <a href="img/menu/osn-menu/kop4enosti.jpg" data-fancybox="image-kopctср" data-caption="Копчености">
-                            <img src="img/menu/osn-menu/kop4enosti.jpg" class="item-img img-fluid" title="Копчености" alt="">
+                        <a href="img/menu/osn-menu/kop4enosti_xl.jpg" data-fancybox="image-kopctсрxl" data-caption="Копчености XL">
+                            <img src="img/menu/osn-menu/kop4enosti_xl.jpg" class="item-img img-fluid" title="Копчености XL" alt="">
                         </a>
                     </div>
                     <div class="food-menu-item-content">
-                        <h3>копчености</h3>
+                        <h3>копчености XL</h3>
                         <span class="menu-bar-item-description">
-                            [ДЖЕРКИ ИЗ ИНДЕЙКИ, СЫР ЧЕЧИЛ, ГРЕНКИ БОРОДИНСКИЕ,
-                            КОЛБАСКИ ПИККОЛИНИ, СОУС BBQ]
+                            [АНЧОУСЫ, КОЛБАСКИ ПИККОЛИНИ,
+                            ЛОМТИКИ ОЛЕНИНЫ, БАЛЫЧОК ИЗ ИНДЕЙКИ,
+                            КОПЧЕНЫЙ КАЛЬМАР, СЫР ЧЕЧИЛ,
+                            ГРЕНКИ, СОУС BBQ, СОУС КИСЛО-СЛАДКИЙ]
                         </span>
                         <span class="menu-bar-item-weight">
-                            130/20/20 гр.
+                            230/20/20 гр.
                         </span>
                         <span class="menu-bar-item-price">
-                            ~399
+                            ~599
                         </span>
                     </div>    
                 </div>
@@ -486,8 +525,8 @@
                     <div class="food-menu-item-content">
                         <h3>крылья куриные bbq</h3>
                         <span class="menu-bar-item-description">
-                            [КУРИНЫЕ КРЫЛЬЯ В СОУСЕ БАРБЕКЮ]
-                            [ПОДАЮТСЯ С СОУСОМ БЛЮ ЧИЗ]
+                            [КУРИНЫЕ КРЫЛЬЯ В СОУСЕ BBQ]
+                            [ПОДАЮТСЯ С СОУСОМ БЛЮ ЧИЗ] 
                         </span>
                         <span class="menu-bar-item-weight">
                             265/20 гр.
@@ -542,6 +581,25 @@
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <div class="new-label"></div>
+                        <a href="img/menu/osn-menu/shrimps_.jpg" data-fancybox="image-shrimps_" data-caption="Креветки в панировке">
+                            <img src="img/menu/osn-menu/shrimps_.jpg" class="item-img img-fluid" title="Креветки в панировке" alt="">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>креветки в панировке</h3>
+                        <span class="menu-bar-item-description">
+                            [ПОДАЮТСЯ С КИСЛО-СЛАДКИМ СОУСОМ]
+                        </span>
+                        <span class="menu-bar-item-weight">
+                            90/20 гр.
+                        </span>
+                        <span class="menu-bar-item-price">
+                            ~399
+                        </span>
+                    </div>    
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
                         <a href="img/menu/osn-menu/gedza.jpg" data-fancybox="image-gedza" data-caption="Гедза со свининой">
                             <img src="img/menu/osn-menu/gedza.jpg" class="item-img img-fluid" title="Гедза со свининой" alt="">
                         </a>
@@ -549,20 +607,39 @@
                     <div class="food-menu-item-content">
                         <h3>гедза со свининой</h3>
                         <span class="menu-bar-item-description">
-                            [гедза со свининой]
+                            [ПОДАЕТСЯ С КИСЛО-СЛАДКИМ СОУСОМ]
                         </span>
                         <span class="menu-bar-item-weight">
-                            250 гр.
+                            120/20 гр.
                         </span>
                         <span class="menu-bar-item-price">
-                            ~199
+                            ~249
+                        </span>
+                    </div>    
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <div class="new-label"></div>
+                        <a href="img/menu/osn-menu/spring-roll.jpg" data-fancybox="image-spring-roll" data-caption="Cпринг роллы с говядиной">
+                            <img src="img/menu/osn-menu/spring-roll.jpg" class="item-img img-fluid" title="Cпринг роллы с говядиной" alt="">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>спринг роллы с говядиной</h3>
+                        <span class="menu-bar-item-description">
+                            [ГОВЯДИНА, ЛУК, ПЕРЕЦ БОЛГАРСКИЙ, СОУС ТЕРИЯКИ, СОУС КИСЛО-СЛАДКИЙ]
+                        </span>
+                        <span class="menu-bar-item-weight">
+                            200/20 гр.
+                        </span>
+                        <span class="menu-bar-item-price">
+                            ~399
                         </span>
                     </div>    
                 </div>
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <div class="hot-label"></div>
-                        <div class="new-label" style="left: 67px;top: -9px;"></div>
                         <a href="img/menu/osn-menu/kessadillia-chiken.jpg" data-fancybox="image-kesadilia" data-caption="Кесадилья с курицей">
                             <img src="img/menu/osn-menu/kessadillia-chiken.jpg" class="item-img img-fluid" title="Кесадилья с курицей" alt="">
                         </a>
@@ -570,13 +647,12 @@
                     <div class="food-menu-item-content">
                         <h3>кесадилья с курицей</h3>
                         <span class="menu-bar-item-description">
-                            [ПЕРЕЦ БОЛГАРСКИЙ, ЛУК КРАСНЫЙ, ХАЛАПЕНЬО, КИНЗА,
-                            КУРИНАЯ ГРУДКА, ТОРТИЛЬЯ, СЫР]
+                            [ПЕРЕЦ БОЛГАРСКИЙ, ЛУК КРАСНЫЙ, ХАЛАПЕНЬО,
+                            КИНЗА, КУРИНАЯ ГРУДКА, ТОРТИЛЬЯ, СЫР]
                             [ПОДАЕТСЯ С СОУСОМ САЛЬСА И СМЕТАНОЙ]
                         </span>
                         <span class="menu-bar-item-weight">
-                            30/40/40/10/70/
-                            20/40/20/20 гр.
+                            230/20/20 гр.
                         </span>
                         <span class="menu-bar-item-price">
                             ~399
@@ -630,7 +706,7 @@
                             180 гр.
                         </span>
                         <span class="menu-bar-item-price">
-                            ~299
+                            ~349
                         </span>
                     </div>    
                 </div>
@@ -643,7 +719,7 @@
                     <div class="food-menu-item-content">
                         <h3>цезарь с семгой</h3>
                         <span class="menu-bar-item-description">
-                            [ОРИГИНАЛЬНАЯ ЗАПРАВКА, СЕМГА СЛАБОСОЛЕНАЯ,
+                            [ОРИГИНАЛЬНАЯ ЗАПРАВКА, СЕМГА ХОЛОДНОГО КОПЧЕНИЯ,
                             СЫР, САЛАТНЫЙ ЛИСТ, ПЕРЕПЕЛИНЫЕ ЯЙЦА, ПОМИДОРЫ ЧЕРРИ,
                             ХРУСТЯЩИЕ СУХАРИКИ]
                         </span>
@@ -651,7 +727,7 @@
                             170 гр.
                         </span>
                         <span class="menu-bar-item-price">
-                            ~299
+                            ~399
                         </span>
                     </div>    
                 </div>
@@ -664,32 +740,13 @@
                     <div class="food-menu-item-content">
                         <h3>гриль салат</h3>
                         <span class="menu-bar-item-description">
-                            [ЛИСТЬЯ САЛАТА, ЦУКИНИ, ПЕРЕЦ БОЛГАРСКИЙ, МОРКОВЬ,
-                            ЛУК КРАСНЫЙ, ШАМПИНЬОНЫ, ОБЖАРЕННАЯ КУРИНАЯ ГРУДКА,
+                            [ЛИСТЬЯ САЛАТА, ЦУКИНИ, ПЕРЕЦ БОЛГАРСКИЙ,
+                            БАКЛАЖАН, ЛУК КРАСНЫЙ, ШАМПИНЬОНЫ,
+                            ОБЖАРЕННАЯ КУРИНАЯ ГРУДКА,
                             СОУС ОТ ШЕФ-ПОВАРА]
                         </span>
                         <span class="menu-bar-item-weight">
                             170 гр.
-                        </span>
-                        <span class="menu-bar-item-price">
-                            ~299
-                        </span>
-                    </div>    
-                </div>
-                <div class="food-menu-item grid">
-                    <div class="food-menu-item-img">
-                        <a href="img/menu/osn-menu/salad-cow.jpg" data-fancybox="image-hot-gov-salad" data-caption="Теплый салат с говядиной">
-                            <img src="img/menu/osn-menu/salad-cow.jpg" class="item-img img-fluid" title="Теплый салат с говядиной" alt="">
-                        </a>
-                    </div>
-                    <div class="food-menu-item-content">
-                        <h3>теплый салат с говядиной</h3>
-                        <span class="menu-bar-item-description">
-                            [ОБЖАРЕННАЯ ГОВЯДИНА, ЛИСТЬЯ САЛАТА, ПОМИДОРЫ ЧЕРРИ,
-                            СОУС BBQ, СОУС КРЕМ-БАЛЬЗАМИК]
-                        </span>
-                        <span class="menu-bar-item-weight">
-                            150 гр.
                         </span>
                         <span class="menu-bar-item-price">
                             ~349
@@ -698,25 +755,26 @@
                 </div>
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
-                        <div class="new-label"></div>
-                        <a href="img/menu/osn-menu/feta-salad.jpg" data-fancybox="image-feta-salad" data-caption="Салат с копченой семгой и фетой">
-                            <img src="img/menu/osn-menu/feta-salad.jpg" class="item-img img-fluid" title="Салат с копченой семгой и фетой" alt="">
+                        <a href="img/menu/osn-menu/caezar-shrimps.jpg" data-fancybox="image-caesar-shrimps" data-caption="Цезарь с креветками">
+                            <img src="img/menu/osn-menu/caezar-shrimps.jpg" class="item-img img-fluid" title="Цезарь с креветками" alt="">
                         </a>
                     </div>
                     <div class="food-menu-item-content">
-                        <h3>салат с копченой семгой и фетой</h3>
+                        <h3>цезарь с креветками</h3>
                         <span class="menu-bar-item-description">
-                            [МИКС САЛАТОВ, ЧЕРРИ, ФЕТА, ПОМИДОРЫ ВЫСУШЕННЫЕ, ЗАПРАВКА
-                            БАЛЬЗАМИЧЕСКАЯ, СЕМГА]
+                            [ОРИГИНАЛЬНАЯ ЗАПРАВКА, СЕМГА ХОЛОДНОГО КОПЧЕНИЯ,
+                            СЫР, САЛАТНЫЙ ЛИСТ, ПЕРЕПЕЛИНЫЕ ЯЙЦА, ПОМИДОРЫ ЧЕРРИ,
+                            ХРУСТЯЩИЕ СУХАРИКИ]
                         </span>
                         <span class="menu-bar-item-weight">
-                            35/30/20/15/10/50 гр.
+                            170 гр.
                         </span>
                         <span class="menu-bar-item-price">
                             ~399
                         </span>
                     </div>    
                 </div>
+                
             </div>
 
             <div class="food-menu-advertisment" id="soups">
@@ -728,7 +786,6 @@
             <div class="food-menu-menu grid">
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
-                        <div class="hit-label"></div>
                         <a href="img/menu/osn-menu/borsh.jpg" data-fancybox="image-borsch" data-caption="Борщ с домашним салом">
                             <img src="img/menu/osn-menu/borsh.jpg" class="item-img img-fluid" title="Борщ с домашним салом" alt="">
                         </a>
@@ -751,6 +808,7 @@
                 </div>    
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
+                        <div class="hit-label"></div>
                         <a href="img/menu/osn-menu/solynka.jpg" data-fancybox="image-solynka" data-caption="Cолянка ядреная">
                             <img src="img/menu/osn-menu/solynka.jpg" class="item-img img-fluid" title="Cолянка ядреная" alt="">
                         </a>
@@ -791,13 +849,12 @@
                             250 гр.
                         </span>
                         <span class="menu-bar-item-price">
-                            ~199
+                            ~249
                         </span>
                     </div>    
                 </div>
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
-                        <div class="new-label"></div>
                         <a href="img/menu/osn-menu/thom-yam.jpg" data-fancybox="image-thomyam" data-caption="Том ям">
                             <img src="img/menu/osn-menu/thom-yam.jpg" class="item-img img-fluid" title="Том ям" alt="Том ям">
                         </a>
@@ -808,10 +865,27 @@
                             [БУЛЬОН ТОМ ЯМ, КРЕВЕТКИ, ЛАПША УДОН, ЧЕРРИ, ШАМПИНЬОНЫ, КИНЗА]
                         </span>
                         <span class="menu-bar-item-weight">
-                            170/30/45/30/30/2 гр.
+                            250 гр.
                         </span>
                         <span class="menu-bar-item-price">
                             ~299
+                        </span>
+                    </div>    
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <div class="new-label"></div>
+                        <a href="img/menu/osn-menu/baget_.jpg" data-fancybox="image-baget_" data-caption="Багет с чесноком и сыром">
+                            <img src="img/menu/osn-menu/baget_.jpg" class="item-img img-fluid" title="Том ям" alt="Багет с чесноком и сыром">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>багет с чесноком и сыром</h3>
+                        <span class="menu-bar-item-description">
+                            [БАГЕТ С ЧЕСНОКОМ, МАСЛОМ И СЫРОМ]
+                        </span>
+                        <span class="menu-bar-item-price">
+                            ~99
                         </span>
                     </div>    
                 </div>

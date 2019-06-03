@@ -119,8 +119,8 @@
                         <img src="img/menu/osn-menu/big-kush.jpg" class="item-img img-fluid" title="Большой Куш" alt="Большой Куш">
                     </a>
                     <div class="menu-item-heading">
-                        <h3>большой куш AMG</h3>
-                        <div class="new-label"></div>
+                        <h3>большой куш </h3>
+                        <div class="hit-label"></div>
                     </div>
                     <span class="menu-bar-item-description">[ СВИНЫЕ РЕБРЫШКИ, КОЛБАСКИ ГОВЯЖЬИ, КОЛБАСКИ СВИНЫЕ,  КРЫЛЫШКИ BBQ, СТЕЙК СКЕРТ, 
                         КАРТОФЕЛЬ ФРИ, ЧЕСНОЧНЫЕ ГРЕНКИ ][ ПОДАЕТСЯ С БАРБЕКЮ И СМЕТАННО-ЧЕСНОЧНЫМ СОУСАМИ ]
