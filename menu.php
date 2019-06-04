@@ -32,8 +32,6 @@
                 </ul>
             </div>    
 
-
-
             <!--категории еды-->
             <div class="food-menu-categories-line grid" id="scroll-to">
                 <div class="item">
@@ -68,7 +66,7 @@
                 </div>
                 <div class="item">
                     <a href="#pasta"><img src="img/menu/menu-categories/pasta.jpg" alt="Паста"/></a>
-                    <div class="title">Паста</div>
+                    <div class="title">Паста и пицца</div>
                     <span class="price">от 399<i class="fas fa-ruble-sign"></i></span>
                 </div>
                 <div class="item">
@@ -900,17 +898,62 @@
             <div class="food-menu-menu grid">
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
-                        <a href="img/menu/osn-menu/shrimps-chesn.jpg" data-fancybox="image-krevietki" data-caption="Креветки в чесночном соусе">
-                            <img src="img/menu/osn-menu/shrimps-chesn.jpg" class="item-img img-fluid" title="Креветки в чесночном соусе" alt="">
+                        <div class="hit-label"></div>
+                        <a href="img/menu/osn-menu/grill-rebra.jpg" data-fancybox="image-rebra-bbq" data-caption="Ребрышки свиные с соусом BBQ">
+                            <img src="img/menu/osn-menu/grill-rebra.jpg" class="item-img img-fluid" title="Ребрышки свиные с соусом BBQ" alt="">
                         </a>
                     </div>
                     <div class="food-menu-item-content">
-                        <h3>креветки в чесночном соусе</h3>
+                        <h3>ребрышки свиные с соусом bbq</h3>
                         <span class="menu-bar-item-description">
-                            [ТИГРОВЫЕ КРЕВЕТКИ, ОБЖАРЕННЫЕ В ФИРМЕННОМ СОУСЕ ОТ ШЕФ-ПОВАРА]
+                            [РЕБРА, ЗАПЕЧЕННЫЕ С СОУСОМ БАРБЕКЮ, ПОДАЮТСЯ С КАРТОФЕЛЕМ ФРИ,
+                            ПОМИДОРАМИ ЧЕРРИ]
                         </span>
                         <span class="menu-bar-item-weight">
-                            120/20 гр.
+                            215/90/30/20 гр.
+                        </span>
+                        <span class="menu-bar-item-price">
+                            ~449
+                        </span>
+                    </div>    
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/menu/osn-menu/home-potato.jpg" data-fancybox="image-zkart-kur-svin" data-caption="Картофель жаренный по-домашнему с курицей / со свининой">
+                            <img src="img/menu/osn-menu/home-potato.jpg" class="item-img img-fluid" title="Картофель жаренный по-домашнему с курицей / со свининой" alt="">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>картофель жареный по-домашнему</h3>
+                        <span class="menu-bar-item-description">
+                            [КАРТОФЕЛЬ, ОБЖАРЕННЫЙ С ЛУКОМ И ШАМПИНЬОНАМИ И СЛИВКАМИ,
+                            ПОДАЕТСЯ С СОЛЕНЫМИ ОГУРЧИКАМИ]
+                        </span>
+                        <span class="menu-bar-item-weight">
+                            350/30 гр.
+                        </span>
+                        <span class="menu-bar-item-price">
+                            ~399
+                        </span>
+                        <span class="menu-item-dop">
+                            ДОБАВЬ КУРИЦУ 99<strong>j</strong>
+                        </span>
+                    </div>    
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/menu/osn-menu/lazania-boloneze.jpg" data-fancybox="image-lazania-boloneze" data-caption="Лазанья Болоньезе">
+                            <img src="img/menu/osn-menu/lazania-boloneze.jpg" class="item-img img-fluid" title="Лазанья Болоньезе" alt="">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>лазанья болоньезе</h3>
+                        <span class="menu-bar-item-description">
+                            [ЛАЗАНЬЯ С СОУСАМИ БОЛОНЬЕЗЕ И БЕШАМЕЛЬ,
+                            ЗАПЕЧЕННАЯ С МОЦАРЕЛЛОЙ И СЫРОМ ПАРМЕЗАН]
+                        </span>
+                        <span class="menu-bar-item-weight">
+                            30 гр.
                         </span>
                         <span class="menu-bar-item-price">
                             ~399
@@ -930,33 +973,10 @@
                             БОЛГАРСКИМ ПЕРЦЕМ И ШАМПИНЬОНАМИ]
                         </span>
                         <span class="menu-bar-item-weight">
-                            300 гр.
+                            280 гр.
                         </span>
                         <span class="menu-bar-item-price">
-                            ~399
-                        </span>
-                    </div>    
-                </div>
-                <div class="food-menu-item grid">
-                    <div class="food-menu-item-img">
-                        <a href="img/menu/osn-menu/home-potato.jpg" data-fancybox="image-zkart-kur-svin" data-caption="Картофель жаренный по-домашнему с курицей / со свининой">
-                            <img src="img/menu/osn-menu/home-potato.jpg" class="item-img img-fluid" title="Картофель жаренный по-домашнему с курицей / со свининой" alt="">
-                        </a>
-                    </div>
-                    <div class="food-menu-item-content">
-                        <h3>картофель жареный по-домашнему</h3>
-                        <span class="menu-bar-item-description">
-                            [КАРТОФЕЛЬ, ОБЖАРЕННЫЙ С ЛУКОМ И ШАМПИНЬОНАМИ И СЛИВКАМИ,
-                            ПОДАЕТСЯ С КВАШЕНОЙ КАПУСТОЙ И СОЛЕНЫМИ ОГУРЧИКАМИ]
-                        </span>
-                        <span class="menu-bar-item-weight">
-                            400/30/30 гр.
-                        </span>
-                        <span class="menu-bar-item-price">
-                            ~399
-                        </span>
-                        <span class="menu-item-dop">
-                            ДОБАВЬ КУРИЦУ / СВИНИНУ ЗА 49<strong>j</strong>
+                            ~499
                         </span>
                     </div>    
                 </div>
@@ -969,12 +989,12 @@
                     <div class="food-menu-item-content">
                         <h3>колбаски-гриль с гарнирами и соусом BBQ</h3>
                         <span class="menu-bar-item-description">
-                            [ГОВЯЖЬИ / КУРИНЫЕ / СВИНЫЕ] [СОЧНЫЕ КОЛБАСКИ,
-                            НА ГРИЛЕ]
-                            [ПОДАЮТСЯ С ПЮРЕ, ТУШЕНОЙ КАПУСТОЙ С БЕКОНОМ]
+                            [<span style="color:#ffc800;display: inline">КУРИНЫЕ</span> / <span style="color:#59AA47;display: inline">СВИНЫЕ</span>]
+                            [СОЧНЫЕ КОЛБАСКИ,ПРИГОТОВЛЕННЫЕ НА ГРИЛЕ]
+                            [ПОДАЮТСЯ С КАРТОФЕЛЬНЫМИ ДОЛЬКАМИ, ТУШЕНОЙ КАПУСТОЙ С БЕКОНОМ]
                         </span>
                         <span class="menu-bar-item-weight">
-                            150/75/75 гр.
+                            150/90/75 гр.
                         </span>
                         <span class="menu-bar-item-price">
                             ~399
@@ -986,61 +1006,34 @@
                 </div>
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
-                        <div class="hit-label"></div>
-                        <a href="img/menu/osn-menu/grill-rebra.jpg" data-fancybox="image-rebra-bbq" data-caption="Ребрышки свиные с соусом BBQ">
-                            <img src="img/menu/osn-menu/grill-rebra.jpg" class="item-img img-fluid" title="Ребрышки свиные с соусом BBQ" alt="">
-                        </a>
-                    </div>
-                    <div class="food-menu-item-content">
-                        <h3>ребрышки свиные с соусом bbq</h3>
-                        <span class="menu-bar-item-description">
-                            [РЕБРА, ЗАПЕЧЕННЫЕ С СОУСОМ БАРБЕКЮ, ПОДАЮТСЯ С КАРТОФЕЛЕМ ФРИ,
-                            ПОМИДОРАМИ ЧЕРРИ]
-                        </span>
-                        <span class="menu-bar-item-weight">
-                            215/90/30 гр.
-                        </span>
-                        <span class="menu-bar-item-price">
-                            ~449
-                        </span>
-                    </div>    
-                </div>
-                <div class="food-menu-item grid">
-                    <div class="food-menu-item-img">
                         <a href="img/menu/osn-menu/indeika-pure.jpg" data-fancybox="image-indeika-gril" data-caption="Индейка с картофельным пюре и овощами гриль">
                             <img src="img/menu/osn-menu/indeika-pure.jpg" class="item-img img-fluid" title="Индейка с картофельным пюре и овощами гриль" alt="">
                         </a>
                     </div>
                     <div class="food-menu-item-content">
-                        <h3>индейка с картофельным пюре и овощами гриль</h3>
-                        <span class="menu-bar-item-description">
-                            [ИНДЕЙКА ГРИЛЬ]
-                        </span>
+                        <h3>Индейка с картофельными дольками и овощами гриль</h3>
                         <span class="menu-bar-item-weight">
                             280 гр.
                         </span>
                         <span class="menu-bar-item-price">
-                            ~449
+                            ~499
                         </span>
                     </div>    
                 </div>
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
-                        <div class="hot-label"></div>
-                        <div class="new-label" style="left:67px;top:-9px;"></div>
-                        <a href="img/menu/osn-menu/fahitos.jpg" data-fancybox="image-fahitos" data-caption="Фахитос">
-                            <img src="img/menu/osn-menu/fahitos.jpg" class="item-img img-fluid" title="Фахитос" alt="">
+                        <div class="new-label"></div>
+                        <a href="img/menu/osn-menu/shashliki-assorti.jpg" data-fancybox="image-shashliki-assorti" data-caption="Ассорти из шашлычков">
+                            <img src="img/menu/osn-menu/shashliki-assorti.jpg" class="item-img img-fluid" title="Ассорти из шашлычков" alt="Ассорти из шашлычков">
                         </a>
                     </div>
                     <div class="food-menu-item-content">
-                        <h3>фахитос</h3>
+                        <h3>Ассорти из шашлычков</h3>
                         <span class="menu-bar-item-description">
-                            [ГОВЯДИНА, ПЕРЕЦ БОЛГАРСКИЙ, ЛУК КРАСНЫЙ, ФАСОЛЬ ЗЕЛЕНАЯ,
-                            ПЕРЕЦ ХАЛАПЕНЬО, ТАБАСКО, КИНЗА, ЛАЙМ, ТОРТИЛЬЯ, СОУС САЛЬСА,
-                            СОУС ЧИМИЧУРРИ]
+                            [ШАШЛЫЧКИ ИЗ КРЕВЕТОК, ИНДЕЙКИ, ЧЕРРИ В БЕКОНЕ, ОВОЩИ-ГРИЛЬ]
                         </span>
                         <span class="menu-bar-item-weight">
-                            100/50/50/50/15/15/20/20 гр.
+                            200 гр.
                         </span>
                         <span class="menu-bar-item-price">
                             ~599
@@ -1051,51 +1044,11 @@
 
             <div class="food-menu-advertisment" id="pasta">
                 <span>
-                    паста ● от 399<i class="fas fa-ruble-sign"></i>
+                    паста и пицца ● от 399<i class="fas fa-ruble-sign"></i>
                 </span>
             </div>
 
             <div class="food-menu-menu grid">
-                <div class="food-menu-item grid">
-                    <div class="food-menu-item-img">
-                        <a href="img/menu/osn-menu/carbonara.jpg" data-fancybox="image-karbonara" data-caption="Спагетти карбонара">
-                            <img src="img/menu/osn-menu/carbonara.jpg" class="item-img img-fluid" title="Спагетти карбонара" alt="">
-                        </a>
-                    </div>
-                    <div class="food-menu-item-content">
-                        <h3>спагетти карбонара</h3>
-                        <span class="menu-bar-item-description">
-                            [ВЕЛИКОЛЕПНЫЕ ИТАЛЬЯНСКИЕ СПАГЕТТИ, ОБЖАРЕННЫЕ
-                            С НЕЖНЕЙШИМ БЕКОНОМ В СЛИВОЧНОМ СОУСЕ]
-                        </span>
-                        <span class="menu-bar-item-weight">
-                            300 гр.
-                        </span>
-                        <span class="menu-bar-item-price">
-                            ~399
-                        </span>
-                    </div>    
-                </div>
-                <div class="food-menu-item grid">
-                    <div class="food-menu-item-img">
-                        <a href="img/menu/osn-menu/fettuccini.jpg" data-fancybox="image-fettucini" data-caption="Феттучини с ветчиной и грибами">
-                            <img src="img/menu/osn-menu/fettuccini.jpg" class="item-img img-fluid" title="Феттучини с ветчиной и грибами" alt="">
-                        </a>
-                    </div>
-                    <div class="food-menu-item-content">
-                        <h3>феттучини с ветчиной и грибами</h3>
-                        <span class="menu-bar-item-description">
-                            [ФЕТТУЧИНИ С ВЕТЧИНОЙ И ШАМПИНЬОНАМИ
-                            В СЛИВОЧНОМ СОУСЕ]
-                        </span>
-                        <span class="menu-bar-item-weight">
-                            285 гр.
-                        </span>
-                        <span class="menu-bar-item-price">
-                            ~399
-                        </span>
-                    </div>    
-                </div>
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/osn-menu/spagetty-shrimps.jpg" data-fancybox="image-spagetti-krev" data-caption="Спагетти с креветками и сёмгой в сливочном соусе">
@@ -1109,7 +1062,67 @@
                             С ДОБАВЛЕНИЕМ ПОМИДОРОВ ЧЕРРИ]
                         </span>
                         <span class="menu-bar-item-weight">
-                            285 гр.
+                            280 гр.
+                        </span>
+                        <span class="menu-bar-item-price">
+                            ~499
+                        </span>
+                    </div>    
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/menu/osn-menu/fettuccini.jpg" data-fancybox="image-fettucini" data-caption="Феттучини с индейкой">
+                            <img src="img/menu/osn-menu/fettuccini.jpg" class="item-img img-fluid" title="Феттучини с индейкой" alt="Феттучини с индейкой">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>феттучини с индейкой</h3>
+                        <span class="menu-bar-item-description">
+                            [ИНДЕЙКА, ЛУК, ГРИБЫ ШАМПИНЬОНЫ, СОУС ПЕСТО,
+                            БУЛЬОН КУРИНЫЙ, ЧЕРРИ, ФЕТТУЧИНИ СО ШПИНАТОМ]
+                        </span>
+                        <span class="menu-bar-item-weight">
+                            280 гр.
+                        </span>
+                        <span class="menu-bar-item-price">
+                            ~399
+                        </span>
+                    </div>    
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/menu/osn-menu/spaggett-vetchina.jpg" data-fancybox="image-spaggett-vetchina" data-caption="Спагетти с ветчиной и грибами">
+                            <img src="img/menu/osn-menu/spaggett-vetchina.jpg" class="item-img img-fluid" title="Спагетти с ветчиной и грибами" alt="Спагетти с ветчиной и грибами">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Спагетти с ветчиной и грибами</h3>
+                        <span class="menu-bar-item-description">
+                            [СПАГЕТТИ С ВЕТЧИНОЙ И ШАМПИНЬОНАМИ В СЛИВОЧНОМ СОУСЕ]
+                        </span>
+                        <span class="menu-bar-item-weight">
+                            280 гр.
+                        </span>
+                        <span class="menu-bar-item-price">
+                            ~399
+                        </span>
+                    </div>    
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/menu/osn-menu/carbonara.jpg" data-fancybox="image-karbonara" data-caption="Спагетти карбонара">
+                            <img src="img/menu/osn-menu/carbonara.jpg" class="item-img img-fluid" title="Спагетти карбонара" alt="">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>спагетти карбонара</h3>
+                        <span class="menu-bar-item-description">
+                            [ВЕЛИКОЛЕПНЫЕ ИТАЛЬЯНСКИЕ СПАГЕТТИ, ОБЖАРЕННЫЕ
+                            С НЕЖНЕЙШИМ БЕКОНОМ В СЛИВОЧНОМ
+                            СОУСЕ С КУРИНЫМ ЯЙЦОМ]
+                        </span>
+                        <span class="menu-bar-item-weight">
+                            280 гр.
                         </span>
                         <span class="menu-bar-item-price">
                             ~399
@@ -1119,21 +1132,84 @@
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <div class="new-label"></div>
-                        <a href="img/menu/osn-menu/udon.jpg" data-fancybox="image-udon-gov" data-caption="Удон с говядиной">
-                            <img src="img/menu/osn-menu/udon.jpg" class="item-img img-fluid" title="Удон с говядиной" alt="">
+                        <a href="img/menu/osn-menu/pepperoni.jpg" data-fancybox="image-pepperoni" data-caption="Пицца пепперони">
+                            <img src="img/menu/osn-menu/pepperoni.jpg" class="item-img img-fluid" title="Пицца пепперони" alt="Пицца пепперони">
                         </a>
                     </div>
                     <div class="food-menu-item-content">
-                        <h3>удон с говядиной</h3>
+                        <h3>Пицца пепперони</h3>
                         <span class="menu-bar-item-description">
-                            [ЛАПША УДОН, ГОВЯДИНА, ПЕРЕЦ БОЛГАРСКИЙ, КРАСНЫЙ ЛУК,
-                            ЦУККИНИ, СОУС ТЕРИЯКИ]
+                            [СОУС ТОМАТНЫЙ, СЫР МОЦАРЕЛЛА, ПЕППЕРОНИ, ПЕРЕЦ ЧЕРНЫЙ]
                         </span>
                         <span class="menu-bar-item-weight">
-                            300 гр.
+                            380 гр.
+                        </span>
+                        <span class="menu-bar-item-price">
+                            ~399
+                        </span>
+                    </div>    
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <div class="new-label"></div>
+                        <a href="img/menu/osn-menu/pizza-cow.jpg" data-fancybox="image-pizza-cow" data-caption="Пицца с говядиной и беконом">
+                            <img src="img/menu/osn-menu/pizza-cow.jpg" class="item-img img-fluid" title="Пицца с говядиной и беконом" alt="Пицца с говядиной и беконом">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Пицца с говядиной и беконом</h3>
+                        <span class="menu-bar-item-description">
+                            [СОУС 1000 ОСТРОВОВ, СЫР МОЦАРЕЛЛА, СЫР ЧЕДДЕР,
+                            ГОВЯДИНА, ПОМИДОРЫ, ОГУРЦЫ СОЛЕНЫЕ, БЕКОН,
+                            ХАЛАПЕНЬО, КРАСНЫЙ ЛУК, ПЕРЕЦ ЧЕРНЫЙ]
+                        </span>
+                        <span class="menu-bar-item-weight">
+                            380 гр.
                         </span>
                         <span class="menu-bar-item-price">
                             ~499
+                        </span>
+                    </div>    
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <div class="new-label"></div>
+                        <a href="img/menu/osn-menu/pizza-4-cheeze.jpg" data-fancybox="image-pizza-4-cheeze" data-caption="Пицца 4 сыра">
+                            <img src="img/menu/osn-menu/pizza-4-cheeze.jpg" class="item-img img-fluid" title="Пицца 4 сыра" alt="Пицца 4 сыра">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Пицца 4 сыра</h3>
+                        <span class="menu-bar-item-description">
+                            [СЛИВКИ, СЫР МОЦАРЕЛЛА, СЫР ЭДАМ, СЫР ЧЕДДЕР,
+                            СЫР ДОРБЛЮ, ПЕРЕЦ ЧЕРНЫЙ]
+                        </span>
+                        <span class="menu-bar-item-weight">
+                            380 гр.
+                        </span>
+                        <span class="menu-bar-item-price">
+                            ~449
+                        </span>
+                    </div>    
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <div class="new-label"></div>
+                        <a href="img/menu/osn-menu/pizza-veget.jpg" data-fancybox="image-pizza-veget" data-caption="Пицца вегетарианская">
+                            <img src="img/menu/osn-menu/pizza-veget.jpg" class="item-img img-fluid" title="Пицца вегетарианская" alt="Пицца вегетарианская">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Пицца вегетарианская</h3>
+                        <span class="menu-bar-item-description">
+                            [ТОМАТНЫЙ СОУС, ПЕРЕЦ БОЛГАРСКИЙ, ШАМПИНЬОНЫ, КАБАЧКИ,
+                            ЛУК КРАСНЫЙ, МАСЛИНЫ, ОЛИВКОВОЕ МАСЛО, СОЛЬ, ПЕРЕЦ]
+                        </span>
+                        <span class="menu-bar-item-weight">
+                            380 гр.
+                        </span>
+                        <span class="menu-bar-item-price">
+                            ~399
                         </span>
                     </div>    
                 </div>
@@ -1146,6 +1222,26 @@
             </div>
 
             <div class="food-menu-menu grid" >
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <div class="hit-label"></div>
+                        <a href="img/menu/osn-menu/steik-semga-big.jpg" data-fancybox="image-steik-semga" data-caption="Cтейк из семги">
+                            <img src="img/menu/osn-menu/steik-semga-big.jpg" class="item-img img-fluid" title="Cтейк из семги" alt="Cтейк из семги">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Cтейк из семги</h3>
+                        <span class="menu-bar-item-description">
+                            [СТЕЙК ИЗ СЕМГИ С КАРТОФЕЛЕМ]
+                        </span>
+                        <span class="menu-bar-item-weight">
+                            250 гр.
+                        </span>
+                        <span class="menu-bar-item-price">
+                            ~599
+                        </span>
+                    </div>    
+                </div>
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <div class="new-label"></div>
@@ -1194,25 +1290,6 @@
                         <span class="menu-bar-item-description"> 
                             [КОТЛЕТА ИЗ ГОВЯДИНЫ,ПОДАЕТСЯ С КАРТОФЕЛЬНЫМИ
                             ДОЛЬКАМИ]
-                        </span>
-                        <span class="menu-bar-item-weight">
-                            270 гр. в сыром виде
-                        </span>
-                        <span class="menu-bar-item-price">
-                            ~499
-                        </span>
-                    </div>    
-                </div>
-                <div class="food-menu-item grid">
-                    <div class="food-menu-item-img">
-                        <div class="hit-label"></div>
-                        <a href="img/menu/osn-menu/steik-semga-big.jpg" data-fancybox="image-steik-semga" data-caption="Cтейк из семги">
-                            <img src="img/menu/osn-menu/steik-semga-big.jpg" class="item-img img-fluid" title="Cтейк из семги" alt="Cтейк из семги">
-                        </a>
-                    </div>
-                    <div class="food-menu-item-content">
-                        <h3>Cтейк из семги</h3>
-                        <span class="menu-bar-item-description">[СТЕЙК ИЗ СЕМГИ С ОВОЩАМИ]
                         </span>
                         <span class="menu-bar-item-weight">
                             270 гр. в сыром виде
