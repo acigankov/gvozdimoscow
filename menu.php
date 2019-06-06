@@ -1637,14 +1637,57 @@
             <div class="food-menu-menu grid">
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
+                        <a href="img/menu/osn-menu/ice-cream.jpg" data-fancybox="image-ice-cream" data-caption="Мороженное з шарика">
+                            <img src="img/menu/osn-menu/ice-cream.jpg" class="item-img img-fluid" title="Мороженное з шарика">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Безалкогольное мороженое</h3>
+                        <span class="menu-bar-item-description">
+                            <span>♣Мятное ♣Имбирное ♣Ванильное</span>
+                            <span>♣Нефть ♣Бабл гам ♣Энерджи айс</span>
+                            <span>♣Шоколадное ♣Фисташковое ♣Малиновое</span>
+                        </span>
+                        <span class="menu-item-dop">
+                            1 шарик ~ 99<strong>j</strong>
+                        </span>
+                        <span class="menu-item-dop">
+                            3 шарика ~ 299<strong>j</strong>
+                        </span>
+                    </div>    
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/menu/osn-menu/ice-cream.jpg" data-fancybox="image-ice-cream-alko" data-caption="Мороженное з шарика">
+                            <img src="img/menu/osn-menu/ice-cream.jpg" class="item-img img-fluid" title="Мороженное з шарика">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Алкогольное мороженое</h3>
+                        <span class="menu-bar-item-description">
+                            <span>♥Б-52 ♥Ром айс</span>
+                            <span>♥Голубые Гавайи ♥Пина колада</span>
+                            <span>♥Секс на пляже</span>
+                        </span>
+                        <span class="menu-item-dop">
+                            1 шарик ~ 149<strong>j</strong>
+                        </span>
+                        <span class="menu-item-dop">
+                            3 шарика ~ 349<strong>j</strong>
+                        </span>
+                    </div>    
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
                         <a href="img/menu/osn-menu/cheese-cake-big.jpg" data-fancybox="image-cheese-cake" data-caption="Классический Чизкейк">
                             <img src="img/menu/osn-menu/cheese-cake-big.jpg" class="item-img img-fluid" title="cheese-cake">
                         </a>
                     </div>
                     <div class="food-menu-item-content">
                         <h3>Классический Чизкейк</h3>
-                        <span class="menu-bar-item-description">[КЛАССИЧЕСКИЙ ЧИЗКЕЙК ИЗ СЛИВОЧНОГО СЫРА, С ДОБАВЛЕНИЕМ
-                            НАТУРАЛЬНОЙ ВАНИЛИ]
+                        <span class="menu-bar-item-description">
+                            [КЛАССИЧЕСКИЙ ЧИЗКЕЙК ИЗ СЛИВОЧНОГО СЫРА,
+                            С ДОБАВЛЕНИЕМ НАТУРАЛЬНОЙ ВАНИЛИ]
                         </span>
                         <span class="menu-bar-item-weight">
                             110 гр.
@@ -1656,14 +1699,15 @@
                 </div>
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
-                        <a href="img/menu/osn-menu/cheesecake-mango-big.jpg" data-fancybox="image-cheesecake-mango" data-caption="Чизкейк «манго-маракуйя»">
-                            <img src="img/menu/osn-menu/cheesecake-mango-big.jpg" class="item-img img-fluid" title="cheese-cake-mango">
+                        <a href="img/menu/osn-menu/cheese-cake-big.jpg" data-fancybox="image-cheesecake-mango" data-caption="Чизкейк «тропические фрукты»">
+                            <img src="img/menu/osn-menu/cheese-cake-big.jpg" class="item-img img-fluid" title="cheese-cake-mango">
                         </a>
                     </div>
                     <div class="food-menu-item-content">
-                        <h3>чизкейк «манго-маракуйя»</h3>
-                        <span class="menu-bar-item-description">[ЛЕГКИЙ ФРУКТОВО-ТВОРОЖНЫЙ ТОРТ НА ОСНОВЕ СЛИВОЧНОГО СЫРА,
-                            СЛИВОК И ПЮРЕ ИЗ ТРОПИЧЕСКОГО МАНГО]
+                        <h3>чизкейк «тропические фрукты»</h3>
+                        <span class="menu-bar-item-description">
+                            [ЛЕГКИЙ ФРУКТОВО-ТВОРОЖНЫЙ ТОРТ НА ОСНОВЕ
+                            СЛИВОЧНОГО СЫРА, СЛИВОК И ПЮРЕ ИЗ ТРОПИЧЕСКОГО МАНГО]
                         </span>
                         <span class="menu-bar-item-weight">
                             110 гр.
@@ -1675,17 +1719,78 @@
                 </div> 
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
-                        <a href="img/menu/osn-menu/cheesecake-caramel-big.jpg" data-fancybox="image-cheesecake-caramel" data-caption="Чизкейк «карамель»">
-                            <img src="img/menu/osn-menu/cheesecake-caramel-big.jpg" class="item-img img-fluid" title="cheesecake-caramel">
+                        <a href="img/menu/osn-menu/cheese-cake-big.jpg" data-fancybox="image-cheesecake-caramel" data-caption="Чизкейк «карамель»">
+                            <img src="img/menu/osn-menu/cheese-cake-big.jpg" class="item-img img-fluid" title="cheesecake-caramel">
                         </a>
                     </div>
                     <div class="food-menu-item-content">
                         <h3>чизкейк «карамель»</h3>
-                        <span class="menu-bar-item-description">[КЛАССИЧЕСКИЙ ЧИЗКЕЙК В ШОКОЛАДНО-ПЕСОЧНОЙ КОРЗИНКЕ, С КАРАМЕЛЬНЫМ
-                            ГЛАССАЖЕМ И ШОКОЛАДНОЙ КРОШКОЙ]
+                        <span class="menu-bar-item-description">
+                            [КЛАССИЧЕСКИЙ ЧИЗКЕЙК В ШОКОЛАДНО-ПЕСОЧНОЙ
+                            КОРЗИНКЕ, С КАРАМЕЛЬНОЙ
+                            ГЛАЗУРЬЮ И ШОКОЛАДНОЙ КРОШКОЙ]
                         </span>
                         <span class="menu-bar-item-weight">
                             110 гр.
+                        </span>
+                        <span class="menu-bar-item-price">
+                            ~199
+                        </span>
+                    </div>    
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/menu/osn-menu/blini.jpg" data-fancybox="image-bliny" data-caption="Блины с клубникой и кремом маскарпоне">
+                            <img src="img/menu/osn-menu/blini.jpg" class="item-img img-fluid" title="Блины с клубникой и кремом маскарпоне" alt="Блины">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Блинчики с маскарпоне</h3>
+                        <span class="menu-bar-item-description">
+                            [БЛИНЫ, КЛУБНИКА, КРЕМ ИЗ МАСКАРПОНЕ, СОУС КЛУБНИЧНЫЙ,
+                            МЯТА, САХАРНАЯ ПУДРА]
+                        </span>
+                        <span class="menu-bar-item-weight">
+                            230 гр.
+                        </span>
+                        <span class="menu-bar-item-price">
+                            ~299
+                        </span>
+                    </div>  
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/menu/osn-menu/fruit-assorti-big.jpg" data-fancybox="image-fruit-assorti" data-caption="Фруктовое ассорти">
+                            <img src="img/menu/osn-menu/fruit-assorti-big.jpg" class="item-img img-fluid" title="fruit-assorti">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>фруктовое ассорти</h3>
+                        <span class="menu-bar-item-description">
+                            [АПЕЛЬСИН, ЯБЛОКО, КИВИ, ВИНОГРАД]
+                        </span>
+                        <span class="menu-bar-item-weight">
+                            200 гр.
+                        </span>
+                        <span class="menu-bar-item-price">
+                            ~199
+                        </span>
+                    </div>    
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/menu/osn-menu/brauni-big.jpg" data-fancybox="image-brauni" data-caption="Брауни шоколадный с грецким орехом">
+                            <img src="img/menu/osn-menu/brauni-big.jpg" class="item-img img-fluid" title="brauni" alt="Брауни">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>брауни шоколадный с грецким орехом</h3>
+                        <span class="menu-bar-item-description">
+                            [НЕЖНЫЙ И ТАЮЩИЙ ВО РТУ ДЕСЕРТ С ЯРКИМ
+                            ВКУСОМ ШОКОЛАДА И ГРЕЦКИМ ОРЕХОМ]
+                        </span>
+                        <span class="menu-bar-item-weight">
+                            90 гр.
                         </span>
                         <span class="menu-bar-item-price">
                             ~199
@@ -1700,7 +1805,8 @@
                     </div>
                     <div class="food-menu-item-content">
                         <h3>медовик</h3>
-                        <span class="menu-bar-item-description">[КЛАССИЧЕСКИЙ МЕДОВЫЙ ТОРТ С ПРОСЛОЙКОЙ ИЗ СЛИВОЧНОГО КРЕМА]
+                        <span class="menu-bar-item-description">
+                            [КЛАССИЧЕСКИЙ МЕДОВЫЙ ТОРТ С ПРОСЛОЙКОЙ ИЗ СЛИВОЧНОГО КРЕМА]
                             [ПОДАЕТСЯ С КАРАМЕЛЬНЫМ СОУСОМ И ГРЕЦКИМИ ОРЕХАМИ]
                         </span>
                         <span class="menu-bar-item-weight">
@@ -1708,6 +1814,22 @@
                         </span>
                         <span class="menu-bar-item-price">
                             ~199
+                        </span>
+                    </div>    
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/menu/osn-menu/rafaello.jpg" data-fancybox="image-rafaello" data-caption="Рафаэлло">
+                            <img src="img/menu/osn-menu/rafaello.jpg" class="item-img img-fluid" title="Рафаэлло">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Рафаэлло</h3>
+                        <span class="menu-bar-item-weight">
+                            90 гр.
+                        </span>
+                        <span class="menu-bar-item-price">
+                            ~299
                         </span>
                     </div>    
                 </div>
@@ -1721,33 +1843,15 @@
                     <div class="food-menu-item-content">
                         <h3>банана сплит</h3>
                         <span class="menu-bar-item-description">
-                            [МОРОЖЕНОЕ, БАНАН, ВЗБИТЫЕ СЛИВКИ, ШОКОЛАДНЫЙ СОУС, КЛУБНИЧНЫЙ СОУС,
-                            КЕДРОВЫЕ ОРЕХИ]
+                            [МОРОЖЕНОЕ, БАНАН, ВЗБИТЫЕ СЛИВКИ,
+                            ШОКОЛАДНЫЙ СОУС, КЛУБНИЧНЫЙ СОУС,
+                            КЕДРОВЫЕ ОРЕХИ, КЛУБНИКА]
                         </span>
                         <span class="menu-bar-item-weight">
-                            100/55/30/10/10/3 гр.
+                            100/55/30/10/10/3/10 гр.
                         </span>
                         <span class="menu-bar-item-price">
                             ~299
-                        </span>
-                    </div>    
-                </div>
-                <div class="food-menu-item grid">
-                    <div class="food-menu-item-img">
-                        <a href="img/menu/osn-menu/tort-morkovny-big.jpg" data-fancybox="image-tort-morkovny" data-caption="Торт «морковный»">
-                            <img src="img/menu/osn-menu/tort-morkovny-big.jpg" class="item-img img-fluid" title="tort-morkovny">
-                        </a>
-                    </div>
-                    <div class="food-menu-item-content">
-                        <h3>торт «морковный»</h3>
-                        <span class="menu-bar-item-description">[ТРАДИЦИОННЫЙ АМЕРИКАНСКИЙ ТОРТ С МОРКОВЬЮ, ГРЕЦКИМ ОРЕХОМ, ИЗЮМОМ
-                            И ПРОСЛОЙКОЙ СЛИВОЧНО-ЛИМОННОГО КРЕМ]
-                        </span>
-                        <span class="menu-bar-item-weight">
-                            110 гр.
-                        </span>
-                        <span class="menu-bar-item-price">
-                            ~199
                         </span>
                     </div>    
                 </div>
@@ -1759,92 +1863,22 @@
                     </div>
                     <div class="food-menu-item-content">
                         <h3>тирамису</h3>
-                        <span class="menu-bar-item-description">[ДОМАШНИЙ ТИРАМИСУ С КРЕМОМ ИЗ МАСКАРПОНЕ]
+                        <span class="menu-bar-item-description">
+                            [ДОМАШНЕЕ ТИРАМИСУ
+                            С КРЕМОМ ИЗ МАСКАРПОНЕ]
                         </span>
                         <span class="menu-bar-item-weight">
                             150 гр.
                         </span>
                         <span class="menu-bar-item-price">
-                            ~199
+                            ~299
                         </span>
                     </div>    
                 </div>
-                <div class="food-menu-item grid">
-                    <div class="food-menu-item-img">
-                        <a href="img/menu/osn-menu/fruit-assorti-big.jpg" data-fancybox="image-fruit-assorti" data-caption="Фруктовое ассорти">
-                            <img src="img/menu/osn-menu/fruit-assorti-big.jpg" class="item-img img-fluid" title="fruit-assorti">
-                        </a>
-                    </div>
-                    <div class="food-menu-item-content">
-                        <h3>фруктовое ассорти</h3>
-                        <span class="menu-bar-item-description">[АПЕЛЬСИН, ЯБЛОКО, КИВИ, ВИНОГРАД]
-                        </span>
-                        <span class="menu-bar-item-weight">
-                            200 гр.
-                        </span>
-                        <span class="menu-bar-item-price">
-                            ~199
-                        </span>
-                    </div>    
-                </div>
-                <div class="food-menu-item grid">
-                    <div class="food-menu-item-img">
-                        <a href="img/menu/osn-menu/ice-cream.jpg" data-fancybox="image-ice-cream" data-caption="Мороженное з шарика">
-                            <img src="img/menu/osn-menu/ice-cream.jpg" class="item-img img-fluid" title="Мороженное з шарика">
-                        </a>
-                    </div>
-                    <div class="food-menu-item-content">
-                        <h3>мороженное з шарика</h3>
-                        <span class="menu-bar-item-description">
-                            [ФИСТАШКОВОЕ, ШОКОЛАДНОЕ, МАНГО, МАЛИНА]
-                        </span>
-                        <span class="menu-bar-item-weight">
-                            150 гр.
-                        </span>
-                        <span class="menu-bar-item-price">
-                            ~199
-                        </span>
-                    </div>    
-                </div>
-                <div class="food-menu-item grid">
-                    <div class="food-menu-item-img">
-                        <a href="img/menu/osn-menu/blini.jpg" data-fancybox="image-bliny" data-caption="Блины с клубникой и кремом маскарпоне">
-                            <img src="img/menu/osn-menu/blini.jpg" class="item-img img-fluid" title="Блины с клубникой и кремом маскарпоне" alt="Блины">
-                        </a>
-                    </div>
-                    <div class="food-menu-item-content">
-                        <h3>Блины с клубникой и кремом маскарпоне</h3>
-                        <span class="menu-bar-item-description">
-                            [БЛИНЫ, КЛУБНИКА, КРЕМ ИЗ МАСКАРПОНЕ, СОУС КЛУБНИЧНЫЙ,
-                            МЯТА, САХАРНАЯ ПУДРА]
-                        </span>
-                        <span class="menu-bar-item-weight">
-                            230 гр.
-                        </span>
-                        <span class="menu-bar-item-price">
-                            ~249
-                        </span>
-                    </div>  
-                </div>
-                <div class="food-menu-item grid">
-                    <div class="food-menu-item-img">
-                        <a href="img/menu/osn-menu/brauni-big.jpg" data-fancybox="image-brauni" data-caption="Брауни шоколадный с грецким орехом">
-                            <img src="img/menu/osn-menu/brauni-big.jpg" class="item-img img-fluid" title="brauni" alt="Брауни">
-                        </a>
-                    </div>
-                    <div class="food-menu-item-content">
-                        <h3>брауни шоколадный с грецким орехом</h3>
-                        <span class="menu-bar-item-description">[БЛИНЫ, КЛУБНИКА, КРЕМ ИЗ МАСКАРПОНЕ, СОУС КЛУБНИЧНЫЙ,
-                            МЯТА, САХАРНАЯ ПУДРА]
-                        </span>
-                        <span class="menu-bar-item-weight">
-                            90 гр.
-                        </span>
-                        <span class="menu-bar-item-price">
-                            ~199
-                        </span>
-                    </div>    
-                </div>
+                
+                
+
+
             </div>
 
 
