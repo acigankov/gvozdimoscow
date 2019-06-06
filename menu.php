@@ -1713,7 +1713,7 @@
                             110 гр.
                         </span>
                         <span class="menu-bar-item-price">
-                            ~199
+                            ~299
                         </span>
                     </div>    
                 </div> 
@@ -1734,7 +1734,7 @@
                             110 гр.
                         </span>
                         <span class="menu-bar-item-price">
-                            ~199
+                            ~299
                         </span>
                     </div>    
                 </div>
