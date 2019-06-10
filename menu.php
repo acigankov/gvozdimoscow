@@ -3549,7 +3549,7 @@
                             3000 мл. ~699
                         </span>
                         <span class="menu-item-dop">
-                            на вынос 1000мл ● 299<strong>j</strong>
+                            на вынос 1000мл ● 249<strong>j</strong>
                         </span>
                         <span class="menu-item-dop">
                             на вынос 3000мл ● 599<strong>j</strong>
@@ -3557,37 +3557,7 @@
                     </div>    
                 </div>
 
-                <div class="food-menu-item grid">
-                    <div class="food-menu-item-img">
-                        <a href="img/menu/bar/sider.jpg" data-fancybox="image-sider" data-caption="Сидр фирменный грушевый">
-                            <img src="img/menu/bar/sider.jpg" class="item-img img-fluid" title="Сидр фирменный грушевый" alt="сидр фирменный грушевый">
-                        </a>
-                    </div>
-                    <div class="food-menu-item-content">
-                        <h3>сидр фирменный грушевый</h3>
-                        <span class="menu-bar-item-description">
-                            [крепость 4.7%]
-                        </span>
-                        <span class="menu-bar-item-price">
-                            300 мл. ~119
-                        </span>
-                        <span class="menu-bar-item-price">
-                            500 мл. ~199
-                        </span>
-                        <span class="menu-bar-item-price">
-                            1000 мл. ~299
-                        </span>
-                        <span class="menu-bar-item-price">
-                            3000 мл. ~699
-                        </span>
-                        <span class="menu-item-dop">
-                            на вынос 1000мл ● 299<strong>j</strong>
-                        </span>
-                        <span class="menu-item-dop">
-                            на вынос 3000мл ● 599<strong>j</strong>
-                        </span>
-                    </div>    
-                </div>
+               
             </div>
 
             <div class="food-menu-advertisment" id="f_craft_beer">
@@ -3654,20 +3624,9 @@
                             300 мл. ~299
                         </span>
                         <span class="menu-bar-item-price">
-                            500 мл. ~399
+                            500 мл. ~499
                         </span>
-                        <span class="menu-bar-item-price">
-                            1000 мл. ~749
-                        </span>
-                        <span class="menu-bar-item-price">
-                            3000 мл. ~1999
-                        </span>
-                        <span class="menu-item-dop">
-                            на вынос 1000мл ● 699<strong>j</strong>
-                        </span>
-                        <span class="menu-item-dop">
-                            на вынос 3000мл ● 1799<strong>j</strong>
-                        </span>
+                        
                     </div>    
                 </div>
                 <div class="food-menu-item grid">
@@ -3685,19 +3644,7 @@
                             300 мл. ~299
                         </span>
                         <span class="menu-bar-item-price">
-                            500 мл. ~399
-                        </span>
-                        <span class="menu-bar-item-price">
-                            1000 мл. ~749
-                        </span>
-                        <span class="menu-bar-item-price">
-                            3000 мл. ~1999
-                        </span>
-                        <span class="menu-item-dop">
-                            на вынос 1000мл ● 699<strong>j</strong>
-                        </span>
-                        <span class="menu-item-dop">
-                            на вынос 3000мл ● 1799<strong>j</strong>
+                            500 мл. ~499
                         </span>
                     </div>    
                 </div>
@@ -3717,19 +3664,7 @@
                             300 мл. ~299
                         </span>
                         <span class="menu-bar-item-price">
-                            500 мл. ~399
-                        </span>
-                        <span class="menu-bar-item-price">
-                            1000 мл. ~749
-                        </span>
-                        <span class="menu-bar-item-price">
-                            3000 мл. ~1999
-                        </span>
-                        <span class="menu-item-dop">
-                            на вынос 1000мл ● 699<strong>j</strong>
-                        </span>
-                        <span class="menu-item-dop">
-                            на вынос 3000мл ● 1799<strong>j</strong>
+                            500 мл. ~499
                         </span>
                     </div>    
                 </div>
