@@ -82,7 +82,7 @@
                 <div class="item">
                     <a href="#burgers"><img src="img/menu/menu-categories/burgers.jpg" alt="Бургеры"/></a>
                     <div class="title">Бургеры</div>
-                    <span class="price">от 299<i class="fas fa-ruble-sign"></i></span>
+                    <span class="price">от 399<i class="fas fa-ruble-sign"></i></span>
                 </div>
                 <div class="item">
                     <a href="#hot_dogs"><img src="img/menu/menu-categories/hot_dogs.jpg" alt="Бешенные Псы"/></a>
@@ -1244,6 +1244,26 @@
                 </div>
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
+                        <a href="img/menu/osn-menu/steik-new-york-big.jpg" data-fancybox="image-steik-new-york" data-caption="Cтейк «нью-йорк»">
+                            <img src="img/menu/osn-menu/steik-new-york-big.jpg" class="item-img img-fluid" title="Стейк «нью-йорк»" alt="Стейк «нью-йорк»">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>стейк стриплойн</h3>
+                        <span class="menu-bar-item-description">
+                            [НЕЖНЕЙШИЙ СТЕЙК ИЗ ГОВЯДИНЫ
+                            ДЛЯ НАСТОЯЩИХ ЦЕНИТЕЛЕЙ МЯСА]
+                        </span>
+                        <span class="menu-bar-item-weight">
+                            250 гр. в сыром виде
+                        </span>
+                        <span class="menu-bar-item-price">
+                            ~1199
+                        </span>
+                    </div>    
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
                         <div class="new-label"></div>
                         <a href="img/menu/osn-menu/steik-ribay-big.jpg" data-fancybox="image-steik-ribay" data-caption="Стейк рибай">
                             <img src="img/menu/osn-menu/steik-ribay-big.jpg" class="item-img img-fluid" title="steik-ribay">
@@ -1251,31 +1271,14 @@
                     </div>
                     <div class="food-menu-item-content">
                         <h3>стейк рибай</h3>
-                        <span class="menu-bar-item-description">[СТЕЙК ИЗ ГОВЯДИНЫ С КАРТОФЕЛЬНЫМИ ДОЛЬКАМИ]
+                        <span class="menu-bar-item-description">
+                            [СТЕЙК ИЗ ГОВЯДИНЫ С КАРТОФЕЛЬНЫМИ ДОЛЬКАМИ]
                         </span>
                         <span class="menu-bar-item-weight">
-                            270 гр. в сыром виде
+                            250 гр. в сыром виде
                         </span>
                         <span class="menu-bar-item-price">
-                            ~1499
-                        </span>
-                    </div>    
-                </div>
-                <div class="food-menu-item grid">
-                    <div class="food-menu-item-img">
-                        <a href="img/menu/osn-menu/steik-new-york-big.jpg" data-fancybox="image-steik-new-york" data-caption="Cтейк «нью-йорк»">
-                            <img src="img/menu/osn-menu/steik-new-york-big.jpg" class="item-img img-fluid" title="Стейк «нью-йорк»" alt="Стейк «нью-йорк»">
-                        </a>
-                    </div>
-                    <div class="food-menu-item-content">
-                        <h3>стейк «нью-йорк»</h3>
-                        <span class="menu-bar-item-description">[СТЕЙК ИЗ ГОВЯДИНЫ С КАРТОФЕЛЬНЫМИ ДОЛЬКАМИ]
-                        </span>
-                        <span class="menu-bar-item-weight">
-                            270 гр. в сыром виде
-                        </span>
-                        <span class="menu-bar-item-price">
-                            ~999
+                            ~1599
                         </span>
                     </div>    
                 </div>
@@ -1288,14 +1291,14 @@
                     <div class="food-menu-item-content">
                         <h3>бифштекс</h3>
                         <span class="menu-bar-item-description"> 
-                            [КОТЛЕТА ИЗ ГОВЯДИНЫ,ПОДАЕТСЯ С КАРТОФЕЛЬНЫМИ
-                            ДОЛЬКАМИ]
+                            [КОТЛЕТА ИЗ ГОВЯДИНЫ, ЯЙЦО, СЫР ЧЕДДЕР]
+                            [ПОДАЕТСЯ С КАРТОФЕЛЬНЫМИ ДОЛЬКАМИ]
                         </span>
                         <span class="menu-bar-item-weight">
                             270 гр. в сыром виде
                         </span>
                         <span class="menu-bar-item-price">
-                            ~499
+                            ~599
                         </span>
                     </div>    
                 </div>
@@ -1310,45 +1313,32 @@
             <div class="food-menu-menu grid" >
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
-                        <div class="hit-label"></div>
-                        <a href="img/menu/osn-menu/potato-fri-big.jpg" data-fancybox="image-potato-fri" data-caption="Картофель Фри">
-                            <img src="img/menu/osn-menu/potato-fri-big.jpg" class="item-img img-fluid" title="potato-fri">
+                        <a href="img/menu/osn-menu/vegetables-big.jpg" data-fancybox="image-vegetables" data-caption="Овощи гриль">
+                            <img src="img/menu/osn-menu/vegetables-big.jpg" class="item-img img-fluid" alt="vegetables">
                         </a>
                     </div>
                     <div class="food-menu-item-content">
-                        <h3>картофель фри</h3>
+                        <h3>овощи гриль</h3>
+                        <span class="menu-bar-item-description">
+                            [БОЛГАРСКИЙ ПЕРЕЦ, КАБАЧОК, БАКЛАЖАН,
+                            ЛУК КРАСНЫЙ, ШАМПИНЬОНЫ]
+                        </span>
                         <span class="menu-bar-item-weight">
-                            120/20 гр.
+                            130 гр.
                         </span>
                         <span class="menu-bar-item-price">
-                            ~149
+                            ~199
                         </span>
                     </div>    
                 </div>
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
-                        <a href="img/menu/osn-menu/po-derevenski-big.jpg" data-fancybox="image-po-derevenski" data-caption="Картофель По - Деревенски">
-                            <img src="img/menu/osn-menu/po-derevenski-big.jpg" class="item-img img-fluid" title="po-derevenski">
+                        <a href="img/menu/osn-menu/potato-mini.jpg" data-fancybox="image-potato-mini" data-caption="Мини - картофель">
+                            <img src="img/menu/osn-menu/potato-mini.jpg" class="item-img img-fluid" alt="potato-mini">
                         </a>
                     </div>
                     <div class="food-menu-item-content">
-                        <h3>картофель по-деревенски</h3>
-                        <span class="menu-bar-item-weight">
-                            150 гр.
-                        </span>
-                        <span class="menu-bar-item-price">
-                            ~149
-                        </span>
-                    </div>    
-                </div>
-                <div class="food-menu-item grid">
-                    <div class="food-menu-item-img">
-                        <a href="img/menu/osn-menu/pure-big.jpg" data-fancybox="image-pure" data-caption="Картофельное Пюре">
-                            <img src="img/menu/osn-menu/pure-big.jpg" class="item-img img-fluid" title="pure">
-                        </a>
-                    </div>
-                    <div class="food-menu-item-content">
-                        <h3>Картофельное Пюре</h3>
+                        <h3>Мини - картофель</h3>
                         <span class="menu-bar-item-weight">
                             150 гр.
                         </span>
@@ -1360,7 +1350,7 @@
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/osn-menu/brokkoli-big.jpg" data-fancybox="image-brokkoli" data-caption="Брокколи на пару">
-                            <img src="img/menu/osn-menu/brokkoli-big.jpg" class="item-img img-fluid" title="brokkoli">
+                            <img src="img/menu/osn-menu/brokkoli-big.jpg" class="item-img img-fluid" alt="brokkoli">
                         </a>
                     </div>
                     <div class="food-menu-item-content">
@@ -1375,14 +1365,12 @@
                 </div>
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
-                        <a href="img/menu/osn-menu/kapusta-big.jpgg" data-fancybox="image-kapusta" data-caption="Капуста тушеная с беконом">
-                            <img src="img/menu/osn-menu/kapusta-big.jpg" class="item-img img-fluid" title="kapusta">
+                        <a href="img/menu/osn-menu/po-derevenski.jpg" data-fancybox="image-po-derevenski" data-caption="Картофель По - Деревенски">
+                            <img src="img/menu/osn-menu/po-derevenski.jpg" class="item-img img-fluid" alt="po-derevenski">
                         </a>
                     </div>
                     <div class="food-menu-item-content">
-                        <h3>капуста тушеная с беконом</h3>
-                        <span class="menu-bar-item-description">[БЕКОН, КАПУСТА, СПЕЦИИ, ЗЕЛЕНЬ]
-                        </span>
+                        <h3>Картофель По - Деревенски</h3>
                         <span class="menu-bar-item-weight">
                             150 гр.
                         </span>
@@ -1393,27 +1381,43 @@
                 </div>
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
-                        <a href="img/menu/osn-menu/vegetables-big.jpg" data-fancybox="image-vegetables" data-caption="Овощи гриль">
-                            <img src="img/menu/osn-menu/vegetables-big.jpg" class="item-img img-fluid" title="vegetables">
+                        <div class="hit-label"></div>
+                        <a href="img/menu/osn-menu/potato-fri-big.jpg" data-fancybox="image-potato-fri" data-caption="Картофель Фри">
+                            <img src="img/menu/osn-menu/potato-fri-big.jpg" class="item-img img-fluid" alt="potato-fri">
                         </a>
                     </div>
                     <div class="food-menu-item-content">
-                        <h3>овощи гриль</h3>
-                        <span class="menu-bar-item-description">[БОЛГАРСКИЙ ПЕРЕЦ, КАБАЧОК, МОРКОВЬ, ЛУК КРАСНЫЙ,ШАМПИНЬОНЫ]
-                        </span>
+                        <h3>картофель фри</h3>
                         <span class="menu-bar-item-weight">
-                            150 гр.
+                            120/20 гр.
                         </span>
                         <span class="menu-bar-item-price">
                             ~149
                         </span>
                     </div>    
                 </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/menu/osn-menu/fri-becon.jpg" data-fancybox="image-pure" data-caption="Картофель фри с беконом">
+                            <img src="img/menu/osn-menu/fri-becon.jpg" class="item-img img-fluid" alt="fri-becon">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Картофель фри с беконом</h3>
+                        <span class="menu-bar-item-weight">
+                            150 гр.
+                        </span>
+                        <span class="menu-bar-item-price">
+                            ~199
+                        </span>
+                    </div>    
+                </div>
+
             </div>
 
             <div class="food-menu-advertisment" id="burgers">
                 <span>
-                    бургеры ● от 299<i class="fas fa-ruble-sign"></i>
+                    бургеры ● от 399<i class="fas fa-ruble-sign"></i>
                 </span>
             </div>
 
@@ -1422,63 +1426,44 @@
                     <div class="food-menu-item-img">
                         <div class="hit-label"></div>
                         <a href="img/menu/osn-menu/buffallo-bill-big.jpg" data-fancybox="image-buffallo-bill-big" data-caption="Бургер Буффало Билл">
-                            <img src="img/menu/osn-menu/buffallo-bill-big.jpg" class="item-img img-fluid" title="buffallo-bill">
+                            <img src="img/menu/osn-menu/buffallo-bill-big.jpg" class="item-img img-fluid" alt="buffallo-bill">
                         </a>
                     </div>
                     <div class="food-menu-item-content">
                         <h3>буффало билл</h3>
-                        <span class="menu-bar-item-description">[БУЛОЧКА С КУНЖУТОМ, КОТЛЕТА ИЗ ГОВЯДИНЫ, СОУС БАРБЕКЮ,
+                        <span class="menu-bar-item-description">
+                            [БУЛОЧКА С КУНЖУТОМ, КОТЛЕТА ИЗ ГОВЯДИНЫ, СОУС BBQ,
                             ПОДЖАРЕНЫЙ БЕКОН, ХРУСТЯЩИЙ ЛИСТ САЛАТА, СВЕЖИЙ ПОМИДОР,
-                            СОЛЁНЫЙ ОГУРЕЦ, ЛУК ФРИ]
+                            СОЛЁНЫЙ ОГУРЕЦ, ЛУК ФРИ, МАЙОНЕЗ]
                             [ПОДАЕТСЯ С КАРТОФЕЛЕМ ФРИ И КЕТЧУПОМ]
                         </span>
                         <span class="menu-bar-item-weight">
-                            300/90/20 гр.
+                            280/90/20 гр.
                         </span>
                         <span class="menu-bar-item-price">
-                            ~349
-                        </span>
-                    </div>    
-                </div>
-                <div class="food-menu-item grid">
-                    <div class="food-menu-item-img">
-                        <a href="img/menu/osn-menu/club-sandwich.jpg" data-fancybox="image-club-sandwich" data-caption="Клаб-сэндвич с окороком">
-                            <img src="img/menu/osn-menu/club-sandwich.jpg" class="item-img img-fluid" title="Клаб-сэндвич с окороком">
-                        </a>
-                    </div>
-                    <div class="food-menu-item-content">
-                        <h3>клаб-сэндвич с окороком</h3>
-                        <span class="menu-bar-item-description">
-                            [ПОДЖАРЕННЫЙ ТОСТОВЫЙ ХЛЕБ, ОКОРОК, ЛИСТ САЛАТА,
-                            СВЕЖИЙ ПОМИДОР И ОГУРЕЦ]
-                            [ПОДАЕТСЯ С КАРТОФЕЛЕМ ФРИ И ТОМАТНЫМ СОУСОМ]
-                        </span>
-                        <span class="menu-bar-item-weight">
-                            165/70 гр.
-                        </span>
-                        <span class="menu-bar-item-price">
-                            ~299
+                            ~399
                         </span>
                     </div>    
                 </div>
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/osn-menu/old-jack-big.jpg" data-fancybox="image-old-jack-big" data-caption="Бургер Старина Джек">
-                            <img src="img/menu/osn-menu/old-jack-big.jpg" class="item-img img-fluid" title="old-jack">
+                            <img src="img/menu/osn-menu/old-jack-big.jpg" class="item-img img-fluid" alt="old-jack">
                         </a>
                     </div>
                     <div class="food-menu-item-content">
                         <h3>старина джек</h3>
-                        <span class="menu-bar-item-description">[КОТЛЕТА ИЗ ГОВЯДИНЫ, СОУС БЛЮ ЧИЗ, СОУС ДЖЕК ДЭНИЕЛС,
+                        <span class="menu-bar-item-description">
+                            [КОТЛЕТА ИЗ ГОВЯДИНЫ, СОУС БЛЮ ЧИЗ, СОУС ДЖЕК ДЭНИЕЛС,
                             САЛАТ АЙСБЕРГ, СЫР, БЕКОН, КРАСНЫЙ ЛУК,
                             ПОМИДОР, СОЛЕНЫЙ ОГУРЕЦ, СЫРНЫЙ СОУС]
                             [ПОДАЕТСЯ С КАРТОФЕЛЕМ ФРИ И КЕТЧУПОМ]
                         </span>
                         <span class="menu-bar-item-weight">
-                            300/90/20 гр.
+                            280/90/20 гр.
                         </span>
                         <span class="menu-bar-item-price">
-                            ~399
+                            ~449
                         </span>
                     </div>    
                 </div>
@@ -1486,39 +1471,18 @@
                     <div class="food-menu-item-img">
                         <div class="veget-label"></div>
                         <a href="img/menu/osn-menu/lasvegas-big.jpg" data-fancybox="image-lasvegas" data-caption="Бургер Лас Вегас">
-                            <img src="img/menu/osn-menu/lasvegas-big.jpg" class="item-img img-fluid" title="lasvegas">
+                            <img src="img/menu/osn-menu/lasvegas-big.jpg" class="item-img img-fluid" alt="lasvegas">
                         </a>
                     </div>
                     <div class="food-menu-item-content">
-                        <h3>лас вегас</h3>
+                        <h3>Бургер лас вегас</h3>
                         <span class="menu-bar-item-description">[САЛАТ АЙСБЕРГ, КАБАЧОК ГРИЛЬ, ПЕРЕЦ БОЛГАРСКИЙ ГРИЛЬ,
                             ШАМПИНЬОНЫ ГРИЛЬ, ПОМИДОР, ОГУРЕЦ СВЕЖИЙ,
                             КРАСНЫЙ ЛУК, СОУС ЗЕЛЕНЫЙ]
                             [ПОДАЕТСЯ С КАРТОФЕЛЕМ ФРИ И КЕТЧУПОМ]
                         </span>
                         <span class="menu-bar-item-weight">
-                            285/90/20 гр.
-                        </span>
-                        <span class="menu-bar-item-price">
-                            ~349
-                        </span>
-                    </div>    
-                </div>
-                <div class="food-menu-item grid">
-                    <div class="food-menu-item-img">
-                        <a href="img/menu/osn-menu/mexican-big.jpg" data-fancybox="image-mexican" data-caption="Бургер Мексиканец">
-                            <img src="img/menu/osn-menu/mexican-big.jpg" class="item-img img-fluid" title="mexican">
-                        </a>
-                    </div>
-                    <div class="food-menu-item-content">
-                        <h3>мексиканец</h3>
-                        <span class="menu-bar-item-description">[БУЛОЧКА ДЛЯ БУРГЕРА С КУНЖУТОМ, МАЙОНЕЗ, ЛИСТЬЯ САЛАТА,
-                            КОТЛЕТА ИЗ ГОВЯДИНЫ, СОУС САЛЬСА, СЫР, БЕКОН, СОЛЕНЫЕ ОГУРЦЫ,
-                            ХАЛАПЕНЬО, КРАСНЫЙ ЛУК]
-                            [ПОДАЕТСЯ С КАРТОФЕЛЕМ ФРИ И КЕТЧУПОМ]
-                        </span>
-                        <span class="menu-bar-item-weight">
-                            290/90/20 гр.
+                            280/90/20 гр.
                         </span>
                         <span class="menu-bar-item-price">
                             ~399
@@ -1527,14 +1491,12 @@
                 </div>
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
-                        <div class="hot-label"></div>
-                        <div class="new-label" style="left:67px;top:-9px;"></div>
-                        <a href="img/menu/osn-menu/nitro-burger.jpg" data-fancybox="image-nitro-burger" data-caption="Нитро бургер">
-                            <img src="img/menu/osn-menu/nitro-burger.jpg" class="item-img img-fluid" title="Нитро бургер">
+                        <a href="img/menu/osn-menu/tarantino.jpg" data-fancybox="image-tarantino" data-caption="Бургер Тарантино">
+                            <img src="img/menu/osn-menu/tarantino.jpg" class="item-img img-fluid" alt="Бургер Тарантино">
                         </a>
                     </div>
                     <div class="food-menu-item-content">
-                        <h3>нитро бургер</h3>
+                        <h3>Бургер Тарантино</h3>
                         <span class="menu-bar-item-description">
                             [БУЛОЧКА ДЛЯ БУРГЕРА, КОТЛЕТА ИЗ ГОВЯДИНЫ, САЛАТ АЙСБЕРГ,
                             СОУС СЫРНЫЙ, СЫР ЧЕДДЕР, БЕКОН, СОУС РЕЛИШ, ХАЛАПЕНЬО,
@@ -1542,11 +1504,31 @@
                             [ПОДАЕТСЯ С КАРТОФЕЛЕМ ФРИ И КЕТЧУПОМ]
                         </span>
                         <span class="menu-bar-item-weight">
-                            240/15/20/20/20/15/
-                            10/20/15/20/120/20 гр.
+                            280/90/20 гр.
                         </span>
                         <span class="menu-bar-item-price">
-                            ~499
+                            ~549
+                        </span>
+                    </div>    
+                </div>
+                 <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/menu/osn-menu/club-sandwich.jpg" data-fancybox="image-club-sandwich" data-caption="Клаб-сэндвич с окороком">
+                            <img src="img/menu/osn-menu/club-sandwich.jpg" class="item-img img-fluid" alt="Клаб-сэндвич с окороком">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>клаб-сэндвич с окороком</h3>
+                        <span class="menu-bar-item-description">
+                            [ПОДЖАРЕННЫЙ ТОСТОВЫЙ ХЛЕБ, ОКОРОК,
+                            ЛИСТ САЛАТА, СВЕЖИЙ ПОМИДОР И ОГУРЕЦ]
+                            [ПОДАЕТСЯ С КАРТОФЕЛЕМ ФРИ И ТОМАТНЫМ СОУСОМ]
+                        </span>
+                        <span class="menu-bar-item-weight">
+                            190/90/20 гр.
+                        </span>
+                        <span class="menu-bar-item-price">
+                            ~299
                         </span>
                     </div>    
                 </div>
@@ -1569,13 +1551,14 @@
                     </div>
                     <div class="food-menu-item-content">
                         <h3>Хороший Парень</h3>
-                        <span class="menu-bar-item-description">[БУЛОЧКА ДЛЯ ХОТ-ДОГА, КОЛБАСКА КУРИНАЯ,
-                            ОГУРЕЦ СОЛЕНЫЙ, ФИРМЕНЫЙ СОУС, ЛУК ФРИ]
+                        <span class="menu-bar-item-description">
+                            [БУЛОЧКА ДЛЯ ХОТ-ДОГА, КОЛБАСКА КУРИНАЯ,
+                            ОГУРЕЦ СОЛЕНЫЙ, ФИРМЕНЫЙ СОУС, ЛУК ФРИ, СОУС BBQ]
                             [ПОДАЕТСЯ С КАРТОФЕЛЕМ
                             ПО-ДЕРЕВЕНСКИ И С СЫРНЫМ И BBQ СОУСАМИ]
                         </span>
                         <span class="menu-bar-item-weight">
-                            200/120/10/20/20 гр.
+                            200/90/20/20 гр.
                         </span>
                         <span class="menu-bar-item-price">
                             ~349
@@ -1590,14 +1573,15 @@
                     </div>
                     <div class="food-menu-item-content">
                         <h3>Мистер Оранжевый</h3>
-                        <span class="menu-bar-item-description">[БУЛОЧКА ДЛЯ ХОТ-ДОГА, КОЛБАСКА СВИНАЯ,
+                        <span class="menu-bar-item-description">
+                            [БУЛОЧКА ДЛЯ ХОТ-ДОГА, КОЛБАСКА СВИНАЯ,
                             СОЛЕНЫЙ ОГУРЕЦ, ЛУК ФРИ, ЛУКОВЫЙ СОУС,
                             СОЛОМКА ИЗ БЕКОНА, СОУС ОВОЩНОЙ]
                             [ПОДАЕТСЯ С КАРТОФЕЛЕМ
                             ПО-ДЕРЕВЕНСКИ И С СЫРНЫМ И BBQ СОУСАМИ]
                         </span>
                         <span class="menu-bar-item-weight">
-                            200/120/10/20/20 гр.
+                            200/90/20/20 гр.
                         </span>
                         <span class="menu-bar-item-price">
                             ~349
@@ -1606,23 +1590,22 @@
                 </div> 
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
-                        <a href="img/menu/osn-menu/big-boss-big.jpg" data-fancybox="image-big-boss" data-caption="Большой БОСС">
-                            <img src="img/menu/osn-menu/big-boss-big.jpg" class="item-img img-fluid" title="big-boss">
+                        <a href="img/menu/osn-menu/burrito.jpg" data-fancybox="image-burrito" data-caption="Буррито">
+                            <img src="img/menu/osn-menu/burrito.jpg" class="item-img img-fluid" alt="Буррито">
                         </a>
                     </div>
                     <div class="food-menu-item-content">
-                        <h3>Большой БОСС</h3>
-                        <span class="menu-bar-item-description">[БУЛОЧКА ДЛЯ ХОТ-ДОГА, КОЛБАСКА ГОВЯЖЬЯ,
-                            СОУС БЛЮ-ЧИЗ, СОЛЕНЫЙ ОГУРЕЦ, ЛИСТЬЯ САЛАТА,
-                            ЛУК ФРИ, СОУС ОВОЩНОЙ, КРАСНЫЙ ЛУК]
-                            [ПОДАЕТСЯ С КАРТОФЕЛЕМ
-                            ПО-ДЕРЕВЕНСКИ И С СЫРНЫМ И BBQ СОУСАМИ]
+                        <h3>Буррито блэк с курицей</h3>
+                        <span class="menu-bar-item-description">
+                            [КУРИНАЯ ГРУДКА, ЛУК КРАСНЫЙ, ПЕРЕЦ БОЛГАРСКИЙ,
+                            ПЕРЕЦ ЧИПОТЛЕ, СОУС САЛЬСА, ЛУК ЖАРЕНЫЙ, ЧЕДДЕР,
+                            ТОРТИЛЬЯ, КАРТОФЕЛЬНЫЕ ДОЛЬКИ, СОУС СЫРНЫЙ ]]
                         </span>
                         <span class="menu-bar-item-weight">
-                            200/120/10/20/20 гр.
+                            270/90/20 гр.
                         </span>
                         <span class="menu-bar-item-price">
-                            ~349
+                            ~399
                         </span>
                     </div>
                 </div> 

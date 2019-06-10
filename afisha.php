@@ -17,7 +17,7 @@
                     <span class="yellow-text">неделя</span>
                 </div>
             </div>
-                    <!--обновление 28.05.2019-->
+                    <!--обновление 11.06.2019-->
                     
             <!--понедельник-->
             <div class="rasp-row">
@@ -25,9 +25,9 @@
                 <div class="rasp-sep-vertical"></div>
                 <div class="rasp-description">
                      <div class="rasp-description-row">
-                        <span class="rasp-yellow-bkg">19:30 </span>
-                        <span class="alabama-span-black">Стендап: </span>
-                        <span class="circelight-span-black-yellow-bg">Открытый микрофон </span>
+                        <span class="rasp-yellow-bkg">20:00 </span>
+                        <span class="alabama-span-black">Игры: </span>
+                        <span class="circelight-span-black-yellow-bg">Гвоздатый квиз Гарри Поттер 1.4 </span>
                     </div>
                 </div>
             </div>
@@ -44,28 +44,28 @@
                         <span class="circelight-span-black">Открытая лига</span>
                         <span class="circelight-span-black-yellow-bg">60 секунд </span>
                     </div>
-<!--                    <div class="rasp-description-row">
-                        <span class="rasp-yellow-bkg">19:30 </span>
-                        <span class="alabama-span-black">Игры: </span>
-                        <span class="circelight-span-black">Квиз на английском языке</span>
-                    </div>-->
+                    <div class="rasp-description-row">
+                        <span class="rasp-yellow-bkg">21:45 </span>
+                        <span class="alabama-span-black">Футбол: </span>
+                        <span class="circelight-span-black">Отборочные туры на чемпионат Европы 2020</span>
+                    </div>
 
                 </div>
             </div>
             <!--конец вторник-->
 
             <!--среда-->
-<!--            <div class="rasp-row">
+            <div class="rasp-row">
                 <div class="rasp-day-color-black">СР</div>
                 <div class="rasp-sep-vertical"></div>
                 <div class="rasp-description">
                     <div class="rasp-description-row">
-                        <span class="rasp-yellow-bkg">22:00 </span>
+                        <span class="rasp-yellow-bkg">14:00 </span>
                         <span class="alabama-span-black">Футбол: </span>
-                        <span class="circelight-span-black">Лига Европы. Финал </span>
+                        <span class="circelight-span-black-yellow-bg">Гвоздатый квиз Игра Престолов 1.2 </span>
                     </div>
                 </div>
-            </div>-->
+            </div>
             <!--конец среда-->
 
             <!--четверг-->
@@ -74,10 +74,9 @@
                 <div class="rasp-sep-vertical"></div>
                 <div class="rasp-description">
                     <div class="rasp-description-row">
-                        <span class="rasp-yellow-bkg">19:30 </span>
+                        <span class="rasp-yellow-bkg">20:00 </span>
                         <span class="alabama-span-black">Игры: </span>
-                        <span class="circelight-span-black">Гарри Поттер</span>
-                        <span class="circelight-span-black-yellow-bg">60 секунд </span>
+                        <span class="circelight-span-black">Сквиз</span>
                     </div>
 <!--                    <div class="rasp-description-row">
                         <span class="rasp-yellow-bkg">20:00 </span>
@@ -118,20 +117,15 @@
                         <span class="circelight-span-black-yellow-bg">Квиз Смузи </span>
                     </div>
                     <div class="rasp-description-row">
-                        <span class="rasp-yellow-bkg">18:00 </span>
-                        <span class="alabama-span-black">Свидания: </span>
-                        <span class="circelight-span-black">Романтические свидания </span>
-                    </div>
-                    <div class="rasp-description-row">
                         <span class="rasp-yellow-bkg">19:00 </span>
-                        <span class="alabama-span-black">Футбол: </span>
-                        <span class="circelight-span-black">Отборочный матч к Чемпионату Европы по футболу 2020</span>
+                        <span class="alabama-span-black">Стендап: </span>
+                        <span class="circelight-span-black">Открытый микрофон</span>
                     </div>
-                    <div class="rasp-description-row">
+<!--                    <div class="rasp-description-row">
                         <span class="rasp-yellow-bkg">22:00 </span>
                         <span class="alabama-span-black">Вечеринка: </span>
                         <span class="circelight-span-black">Ночник Малекон </span>
-                    </div>
+                    </div>-->
                 </div>
             </div>
             <!--конец суббота-->
@@ -150,6 +144,11 @@
                         <span class="rasp-yellow-bkg">18:00 </span>
                         <span class="alabama-span-black">Игры: </span>
                         <span class="circelight-span-black">Квиз Смузи </span>
+                    </div>
+                    <div class="rasp-description-row">
+                        <span class="rasp-yellow-bkg">18:00 </span>
+                        <span class="alabama-span-black">Свидания: </span>
+                        <span class="circelight-span-black">Романтические свидания </span>
                     </div>
                 </div>
             </div>
