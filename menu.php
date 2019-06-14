@@ -4047,6 +4047,70 @@
                         </span>
                     </div>    
                 </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/no-image.gif" data-fancybox="image-raf-mos" data-caption="Раф Московский">
+                            <img src="img/no-image.gif" class="item-img img-fluid" title="Раф Московский" alt="Раф Московский">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Раф Московский</h3>
+                        <span class="menu-bar-item-description">
+                            [230мл]                 
+                        </span>
+                        <span class="menu-bar-item-price">
+                            ~299
+                        </span>
+                    </div>    
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/no-image.gif" data-fancybox="image-raf-alaska" data-caption="Раф Аляска">
+                            <img src="img/no-image.gif" class="item-img img-fluid" title="Раф Аляска" alt="Раф Аляска">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Раф Аляска</h3>
+                        <span class="menu-bar-item-description">
+                            [230мл]                 
+                        </span>
+                        <span class="menu-bar-item-price">
+                            ~299
+                        </span>
+                    </div>    
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/no-image.gif" data-fancybox="image-taiga" data-caption="Раф Таежный сбор">
+                            <img src="img/no-image.gif" class="item-img img-fluid" title="Раф Таежный сбор" alt="Раф Таежный сбор">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Раф Таежный сбор</h3>
+                        <span class="menu-bar-item-description">
+                            [230мл]                 
+                        </span>
+                        <span class="menu-bar-item-price">
+                            ~299
+                        </span>
+                    </div>    
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/no-image.gif" data-fancybox="image-lemon" data-caption="Раф Лимонно-имбирный">
+                            <img src="img/no-image.gif" class="item-img img-fluid" title="Раф Лимонно-имбирный" alt="Раф Лимонно-имбирный">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Раф Лимонно-имбирный</h3>
+                        <span class="menu-bar-item-description">
+                            [230мл]                 
+                        </span>
+                        <span class="menu-bar-item-price">
+                            ~299
+                        </span>
+                    </div>    
+                </div>
             </div>
 
             <div class="food-menu-advertisment" id="f_cold_drinks">
@@ -4221,23 +4285,7 @@
             </div>
 
             <div class="food-menu-menu grid">
-                <div class="food-menu-item grid">
-                    <div class="food-menu-item-img">
-                        <a href="img/menu/bar/dreams.jpg" data-fancybox="image-sweat-dreams" data-caption="Сладкие сны">
-                            <img src="img/menu/bar/dreams.jpg" class="item-img img-fluid" title="Сладкие сны" alt="Сладкие сны">
-                        </a>
-                    </div>
-                    <div class="food-menu-item-content">
-                        <h3>сладкие сны</h3>
-                        <span class="menu-bar-item-description">
-                            [ СПРАЙТ, BLUE CURASAO, SOUR MIX] <br/>
-                            275 мл./ 20 гр.
-                        </span>
-                        <span class="menu-bar-item-price">
-                            ~299
-                        </span>
-                    </div>    
-                </div>  
+
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/bar/tropical.jpg" data-fancybox="image-tropicmix" data-caption="Тропический микс">
@@ -4249,23 +4297,6 @@
                         <span class="menu-bar-item-description">
                             [СОДОВАЯ, СИРОП МАРАКУЙЯ, ДЫНЯ И МЯТНЫЙ СИРОП, ЛИМОН] <br/>
                             190 мл./ 20 гр.
-                        </span>
-                        <span class="menu-bar-item-price">
-                            ~299
-                        </span>
-                    </div>    
-                </div>  
-                <div class="food-menu-item grid">
-                    <div class="food-menu-item-img">
-                        <a href="img/menu/bar/dream-pink.jpg" data-fancybox="image-pinkdream" data-caption="Розовая мечта">
-                            <img src="img/menu/bar/dream-pink.jpg" class="item-img img-fluid" title="Розовая мечта" alt="Розовая мечта">
-                        </a>
-                    </div>
-                    <div class="food-menu-item-content">
-                        <h3>розовая мечта</h3>
-                        <span class="menu-bar-item-description">
-                            [МОЛОКО, МОРОЖЕНОЕ, БАНАН, КЛУБНИЧНЫЙ СИРОП, ЛЕД] <br/>
-                            350 мл.
                         </span>
                         <span class="menu-bar-item-price">
                             ~299
@@ -4359,23 +4390,6 @@
                         </span>
                     </div>    
                 </div>  
-                <div class="food-menu-item grid">
-                    <div class="food-menu-item-img">
-                        <a href="img/menu/bar/mojito-imbir.jpg" data-fancybox="image-mohitoimb" data-caption="Имбирный мохито">
-                            <img src="img/menu/bar/mojito-imbir.jpg" class="item-img img-fluid" title="Имбирный мохито" alt="Имбирный мохито">
-                        </a>
-                    </div>
-                    <div class="food-menu-item-content">
-                        <h3>имбирный мохито</h3>
-                        <span class="menu-bar-item-description">
-                            [ИМБИРНЫЙ ЭЛЬ, МЯТА, ЛАЙМ, ЛЕД, САХАР]<br/>
-                            350 мл.
-                        </span>
-                        <span class="menu-bar-item-price">
-                            ~299
-                        </span>
-                    </div>    
-                </div>  
             </div>
 
             <div class="food-menu-advertisment" id="f_lemonades">
@@ -4447,6 +4461,25 @@
                     </div>
                     <div class="food-menu-item-content">
                         <h3>лимонад ягодный</h3>
+                        <span class="menu-bar-item-description">
+                            [СИРОП МАЛИНА, СИРОП ЧЕРНАЯ СМОРОДИНА,
+                            СИРОП КЛУБНИКА, СИРОП МЯТА,
+                            МАЛИНА С/Мб, ЕЖЕВИКА С/М, МЯТА, ЛЕД, ГАЗ.ВОДА]<br/>
+                            1000 мл.
+                        </span>
+                        <span class="menu-bar-item-price">
+                            ~349
+                        </span>
+                    </div>    
+                </div> 
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/no-image.gif" data-fancybox="image-limonad-tarhun" data-caption="Лимонад тархун">
+                            <img src="img/no-image.gif" class="item-img img-fluid" title="Лимонад тархун" alt="Лимонад тархун">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Лимонад тархун</h3>
                         <span class="menu-bar-item-description">
                             [СИРОП МАЛИНА, СИРОП ЧЕРНАЯ СМОРОДИНА,
                             СИРОП КЛУБНИКА, СИРОП МЯТА,
