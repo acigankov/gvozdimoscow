@@ -1682,8 +1682,8 @@
                 </div>
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
-                        <a href="img/menu/osn-menu/cheese-cake-big.jpg" data-fancybox="image-cheesecake-mango" data-caption="Чизкейк «тропические фрукты»">
-                            <img src="img/menu/osn-menu/cheese-cake-big.jpg" class="item-img img-fluid" title="cheese-cake-mango">
+                        <a href="img/menu/osn-menu/cheesecake-mango-big.jpg" data-fancybox="image-cheesecake-mango" data-caption="Чизкейк «тропические фрукты»">
+                            <img src="img/menu/osn-menu/cheesecake-mango-big.jpg" class="item-img img-fluid" title="cheese-cake-mango">
                         </a>
                     </div>
                     <div class="food-menu-item-content">
@@ -1702,8 +1702,8 @@
                 </div> 
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
-                        <a href="img/menu/osn-menu/cheese-cake-big.jpg" data-fancybox="image-cheesecake-caramel" data-caption="Чизкейк «карамель»">
-                            <img src="img/menu/osn-menu/cheese-cake-big.jpg" class="item-img img-fluid" title="cheesecake-caramel">
+                        <a href="img/menu/osn-menu/cheesecake-caramel-big.jpg" data-fancybox="image-cheesecake-caramel" data-caption="Чизкейк «карамель»">
+                            <img src="img/menu/osn-menu/cheesecake-caramel-big.jpg" class="item-img img-fluid" title="cheesecake-caramel">
                         </a>
                     </div>
                     <div class="food-menu-item-content">
