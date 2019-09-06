@@ -1877,6 +1877,7 @@
 
         <div class="tabs__content animated fadeIn" id="breakfasts">
             <div class="food-menu-breakfasts">
+                
 
                <div class="food-menu-breakfasts-advertisment grid">
                     <div class="left-item">
@@ -1888,8 +1889,12 @@
                     <div class="right-item">
                         <span>от 149<strong>j</strong> до 179<strong>j</strong> </span>
                     </div>
-                </div> 
-                <div class="breakfast-content-border grid">
+                </div>
+                
+                <img style="margin-bottom: 40px;" src="img/menu/breakfast/breakfast.jpg" alt="" class="img-fluid">
+                
+                
+<!--                <div class="breakfast-content-border grid">
                     <div class="breakfast-horizontal-separator"></div>
                     <div class="breakfast-horizontal-separator-header header-font grid">
                         <span class="center">горячее + напиток</span>
@@ -1898,8 +1903,8 @@
                         </div>
                     </div>
                     <div class="breakfast-horizontal-separator"></div>
-                </div>
-                <div class="breakfast-content ">
+                </div>-->
+<!--                <div class="breakfast-content ">
                     <div class="breakfast-content-item">
                         <img src="img/menu/breakfast/img1.jpg" alt="Яичница" title="Яичница" class="img-fluid img-hover"> 
                         <p>ЯИЧНИЦА С ТОППИНГАМИ НА ВЫБОР (БЕКОН, ПОМИДОРЫ, ЛУК)</p>
@@ -1919,9 +1924,9 @@
                         <img src="img/menu/breakfast/tea-black.jpg" alt="Чай" title="Чай" class="img-fluid img-hover">
                         <p>ЧАЙ ЧЕРНЫЙ / ЧАЙ ЗЕЛЕНЫЙ / КОФЕ АМЕРИКАНО / СОК / АМЕРИКАНО</p>
                     </div>
-                </div>
+                </div>-->
 
-                <div class="breakfast-content-border-2 grid">
+<!--                <div class="breakfast-content-border-2 grid">
                     <div class="breakfast-horizontal-separator"></div>
                     <div class="breakfast-horizontal-separator-header header-font grid">
                         <span class="center">горячее + напиток + десерт или сендвич</span>
@@ -1930,8 +1935,8 @@
                         </div>
                     </div>
                     <div class="breakfast-horizontal-separator"></div>
-                </div>
-                <div class="breakfast-content">    
+                </div>-->
+<!--                <div class="breakfast-content">    
                     <div class="breakfast-content-item">
                         <img src="img/menu/breakfast/img1.jpg" alt="Яичница" title="Яичница" class="img-fluid img-hover"> 
                         <p>ЯИЧНИЦА С ТОППИНГАМИ НА ВЫБОР (БЕКОН, ПОМИДОРЫ, ЛУК)</p>
@@ -1951,8 +1956,8 @@
                         <img src="img/menu/breakfast/tea-black.jpg" alt="Чай" title="Чай" class="img-fluid img-hover">
                         <p>ЧАЙ ЧЕРНЫЙ / ЧАЙ ЗЕЛЕНЫЙ / КОФЕ АМЕРИКАНО / СОК / АМЕРИКАНО</p>
                     </div>
-                </div>
-                <div class="breakfast-content breakfast-content-3col">
+                </div>-->
+<!--                <div class="breakfast-content breakfast-content-3col">
                     <div class="breakfast-content-item-plus"></div>
                     <div class="breakfast-content-item">
                         <img src="img/menu/breakfast/sandwich.jpg" alt="сендвич" title="сендвич" class="img-fluid img-hover"> 
@@ -1970,7 +1975,7 @@
                         <img src="img/menu/breakfast/syrniki.jpg" alt="сыринки" title="сырники" class="img-fluid img-hover">
                         <p>СЫРНИКИ С ТОППИНГАМИ НА ВЫБОР (СМЕТАНА, МЕД, ДЖЕМ)</p>
                     </div>
-                </div>    
+                </div>    -->
 
             </div>   
 
