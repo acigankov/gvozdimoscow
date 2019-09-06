@@ -28,10 +28,10 @@
         <!--левая колонка-->
         <div class="fml-item-col-1"> 
             <div class="fml-item img-hover">
-                <a href="/img/menu/lunch/template-parts/vinegret.jpg" data-fancybox="dish-1" data-caption="Винегрет">
-                    <img src="/img/menu/lunch/template-parts/vinegret.jpg" alt="Винегрет"  class="img-fluid"/>
+                <a href="/img/menu/lunch/template-parts/seld-shuba.jpg" data-fancybox="dish-1" data-caption="м">
+                    <img src="/img/menu/lunch/template-parts/seld-shuba.jpg" alt="Сельдь под шубой"  class="img-fluid"/>
                 </a>
-                <div class="fml-item-heading grid"><span class="fml-uppercase">Винегрет</span> 
+                <div class="fml-item-heading grid"><span class="fml-uppercase">Сельдь под шубой</span> 
                     <div class="fml-item-heading-price"><span>99</span><i class="fas fa-ruble-sign"></i></div>
                     <div class="lunch-item-badge">
                         <span>99</span>
@@ -88,7 +88,7 @@
                                 <span>Том Ям</span> <!--первое блюдо из правой колонки для моб-->
                             </div>
                             <div class="fml-second-dishes-row fml-uppercase">+49<i class="fas fa-ruble-sign"></i>
-                                <span>Солянка</span> <!--второе блюдо из правой колонки для моб-->
+                                <span>Окрошка</span> <!--второе блюдо из правой колонки для моб-->
                             </div>
                         </div>
                     </div>
@@ -104,9 +104,9 @@
                 </a>
             </div>
             <div class="fml-item img-hover">
-                <a href="/img/menu/lunch/template-parts/solynka.jpg" data-fancybox="dish-6" data-caption="Солянка">
-                    <img src="/img/menu/lunch/template-parts/solynka.jpg" alt="Солянка"  class="img-fluid"/>
-                    <div class="fml-item-heading-white"><span>Солянка</span></div>
+                <a href="/img/menu/lunch/template-parts/okroshka.jpg" data-fancybox="dish-6" data-caption="Окрошка">
+                    <img src="/img/menu/lunch/template-parts/okroshka.jpg" alt="Окрошка"  class="img-fluid"/>
+                    <div class="fml-item-heading-white"><span>Окрошка</span></div>
                 </a>
             </div>
         </div>
@@ -117,9 +117,9 @@
         <!--левая колонка-->
         <div class="fml-item-col-1"> 
             <div class="fml-item img-hover">
-                <a href="/img/menu/lunch/template-parts/bitochki-pure.jpg" data-fancybox="dish-7" data-caption="Биточки куриные с пюре">
-                    <img src="/img/menu/lunch/template-parts/bitochki-pure.jpg" alt="Биточки куриные с пюре"  class="img-fluid"/>
-                    <div class="fml-item-heading grid"><span class="fml-uppercase">Биточки куриные с пюре</span>
+                <a href="/img/menu/lunch/template-parts/tefteli-fuzilli.jpg" data-fancybox="dish-7" data-caption="Тефтели с макаронами">
+                    <img src="/img/menu/lunch/template-parts/tefteli-fuzilli.jpg" alt="Тефтели с макаронами"  class="img-fluid"/>
+                    <div class="fml-item-heading grid"><span class="fml-uppercase">Тефтели с макаронами</span>
                         <div class="fml-item-heading-price"><span>129</span><i class="fas fa-ruble-sign"></i></div>
                         <div class="lunch-item-badge">
                             <span>129</span>
@@ -132,7 +132,7 @@
                                 <span>Гамбургер с карторшкой</span> <!--первое блюдо из правой колонки для моб-->
                             </div>
                             <div class="fml-second-dishes-row fml-uppercase">+49<i class="fas fa-ruble-sign"></i>
-                                <span>Картофель со свининой</span> <!--второе блюдо из правой колонки для моб-->
+                                <span>Спагетти Карбонара мини</span> <!--второе блюдо из правой колонки для моб-->
                             </div>
                         </div>
                     </div>
@@ -148,9 +148,9 @@
                 </a>
             </div>
             <div class="fml-item img-hover">
-                <a href="/img/menu/lunch/template-parts/kartofel-s.jpg" data-fancybox="dish-9" data-caption="Рис с овощами и красной рыбой">
-                    <img src="/img/menu/lunch/template-parts/kartofel-s.jpg" alt="Рис с овощами и красной рыбой"  class="img-fluid"/>
-                    <div class="fml-item-heading-white"><span>Картофель со свининой</span></div>
+                <a href="/img/menu/lunch/template-parts/karbonara.jpg" data-fancybox="dish-9" data-caption="Спагетти Карбонара мини">
+                    <img src="/img/menu/lunch/template-parts/karbonara.jpg" alt="Спагетти Карбонара мини"  class="img-fluid"/>
+                    <div class="fml-item-heading-white"><span>Спагетти Карбонара мини</span></div>
                 </a>
             </div>
         </div>
@@ -201,10 +201,10 @@
     <!--футер ланча-->
     <div class="fml-footer">
         <div class="fml-footer-adv-heading fml-uppercase">
-            меню за 229<span class="font-rouble">j</span> на понедельник
+            меню за 249<span class="font-rouble">j</span> на понедельник
         </div>
         <div class="fml-footer-adv">
-            Суп с курицей и лапшой • Пельмени со сметаной • Салат Столичный
+            Солянка • Шницель куриный с картофельным пюре • Салат краски лета
         </div>
         <div class="fml-footer-images">
             <div><img src="/img/menu/lunch/hand-pink.png" alt="Тырк" /></div>

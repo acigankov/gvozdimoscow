@@ -302,12 +302,12 @@
     <div class="slider-for">
         <div class="page-content">
             <div class="main-image">
-                <a href="img/akcii/beerunlim.png" data-fancybox="images-3" data-caption="Акция Пивной безлимит">
-                    <img class="img-hover" src="img/akcii/beerunlim.png" title="Пивной безлимит" alt="Акция Пивной безлимит">
+                <a href="img/akcii/beerunlim.jpg" data-fancybox="images-3" data-caption="Акция Пивной безлимит">
+                    <img class="img-hover" src="img/akcii/beerunlim.jpg" title="Пивной безлимит" alt="Акция Пивной безлимит">
                 </a>
             </div>
             <div class="akcii-description">
-                <span class="akcii-description-time">с 01.08.2018 по 31.05.2019</span>
+                <span class="akcii-description-time">с 01.08.2018 по 31.12.2019</span>
                 <h2 class="header-font">Пивной безлимит</h2>
                 <p>Сколько пива ты можешь выпить за один раз? Хочешь проверить свои силы?
                     Плати один раз и пей сколько влезет любого пива!
@@ -319,43 +319,25 @@
         </div>
         <div class="page-content">
             <div class="main-image">
-                <a href="img/akcii/beerout.png" data-fancybox="images-4" data-caption="Акция Пиво на вынос">
-                    <img class="img-hover" src="img/akcii/beerout.png" title="Акция Пиво на вынос" alt="Акция Пиво на вынос">
+                <a href="img/akcii/beerout.jpg" data-fancybox="images-4" data-caption="Акция Пиво на вынос">
+                    <img class="img-hover" src="img/akcii/beerout.jpg" title="Акция Пиво на вынос" alt="Акция Пиво на вынос">
                 </a>
             </div>
             <div class="akcii-description">
-                <span class="akcii-description-time">с 01.08.2018 по 30.04.2019</span>
+                <span class="akcii-description-time">с 01.08.2018 по 31.12.2019</span>
                 <h2 class="header-font">Пиво на вынос</h2>
                 <p>Возьми любимый пенный напиток с собой с еще большей выгодой
                     Акция распространяется на любое разливное пиво обьемом 1 и 3 литра
                 </p>
             </div>
         </div>
-        <div class="page-content">
-            <div class="main-image">
-                <a href="img/akcii/evening.png" data-fancybox="images-5" data-caption="Акция Ужин">
-                    <img class="img-hover" src="img/akcii/evening.png" title="Акция Ужин" alt="Акция Ужин">
-                </a>
-            </div>
-            <div class="akcii-description">
-                <span class="akcii-description-time">с 01.11.2018 по 30.04.2019</span>
-                <h2 class="header-font">Ужин</h2>
-                <p>Каждый день в период с 17.00 до 21.00 ты можешь поужинать в Гвоздях всего за 499р
-                    Салат, горячее и напиток по смешной цене.
-                    Подробности акции у менеджера ресторана
-                </p>
-            </div>
-        </div>
     </div>    
     <div class="slider-nav">
         <div class="akcii-description-right">
-            <img class="img-hover img-fluid" src="img/akcii/beerunlim.png" title="Акция Пивной безлимит" alt="Акция Пивной безлимит"> 
+            <img class="img-hover img-fluid" src="img/akcii/beerunlim.jpg" title="Акция Пивной безлимит" alt="Акция Пивной безлимит"> 
         </div>
         <div class="akcii-description-right">
-            <img class="img-hover img-fluid" src="img/akcii/beerout.png" title="Акция Пиво на вынос" alt="Акция Пиво на вынос"> 
-        </div>
-        <div class="akcii-description-right">
-            <img class="img-hover img-fluid"  src="img/akcii/evening.png" title="Акция Ужин" alt="Акция Ужин"> 
+            <img class="img-hover img-fluid" src="img/akcii/beerout.jpg" title="Акция Пиво на вынос" alt="Акция Пиво на вынос"> 
         </div>
     </div>
 </section>

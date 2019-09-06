@@ -17,7 +17,7 @@
                     <span class="yellow-text">неделя</span>
                 </div>
             </div>
-                    <!--обновление 29.07.2019-->
+                    <!--обновление 02.09.2019-->
                     
             <!--понедельник-->
             <div class="rasp-row">
@@ -27,7 +27,7 @@
                     <div class="rasp-description-row">
                         <span class="rasp-yellow-bkg">20:00 </span>
                         <span class="alabama-span-black">Игры: </span>
-                        <span class="circelight-span-black-yellow-bg">Гвоздатый Квиз Общие Темы #1.1</span>
+                        <span class="circelight-span-black-yellow-bg">Гвоздатый Квиз Гарри Поттер</span>
                     </div>
                 </div>
             </div>
@@ -41,14 +41,13 @@
                     <div class="rasp-description-row">
                         <span class="rasp-yellow-bkg">19:30 </span>
                         <span class="alabama-span-black">Игры: </span>
-                        <span class="circelight-span-black">Открытая лига</span>
-                        <span class="circelight-span-black-yellow-bg">60 секунд </span>
+                        <span class="circelight-span-black">Открытая лига 60 секунд</span>
                     </div>
-<!--                    <div class="rasp-description-row">
-                        <span class="rasp-yellow-bkg">21:45 </span>
-                        <span class="alabama-span-black">Футбол: </span>
-                        <span class="circelight-span-black">Отборочные туры на чемпионат Европы 2020</span>
-                    </div>-->
+                    <div class="rasp-description-row">
+                        <span class="rasp-yellow-bkg">20:00 </span>
+                        <span class="alabama-span-black">Игры: </span>
+                        <span class="circelight-span-black">Пивз Квиз Гарри Поттер</span>
+                    </div>
 
                 </div>
             </div>
@@ -60,9 +59,9 @@
                 <div class="rasp-sep-vertical"></div>
                 <div class="rasp-description">
                     <div class="rasp-description-row">
-                        <span class="rasp-yellow-bkg">14:00 </span>
-                        <span class="alabama-span-black">Футбол: </span>
-                        <span class="circelight-span-black-yellow-bg">Гвоздатый квиз Игра Престолов 1.2 </span>
+                        <span class="rasp-yellow-bkg">19:30 </span>
+                        <span class="alabama-span-black">Игры: </span>
+                        <span class="circelight-span-black">Первая лига 60 секунд</span>
                     </div>
                 </div>
             </div>-->
@@ -115,12 +114,12 @@
                         <span class="rasp-yellow-bkg">17:00 </span>
                         <span class="alabama-span-black">Романтические свидания </span>
                     </div>
-                    <div class="rasp-description-row">
+-->                 <div class="rasp-description-row">
                         <span class="rasp-yellow-bkg">18:00 </span>
                         <span class="alabama-span-black">Игры: </span>
-                        <span class="circelight-span-black-yellow-bg">Гвоздатый Квиз Общие темы</span>
-                    </div>-->
-                    <div class="rasp-description-row">
+                        <span class="circelight-span-black-yellow-bg">Гвоздатый Квиз Друзья</span>
+                    </div>
+<!--                    <div class="rasp-description-row">
                         <span class="rasp-yellow-bkg">19:00 </span>
                         <span class="alabama-span-black">Футбол: </span>
                         <span class="circelight-span-black">Россия. Премьер - Лига. Спартак - Динамо</span>
@@ -129,7 +128,7 @@
                         <span class="rasp-yellow-bkg">21:30 </span>
                         <span class="alabama-span-black">Футбол: </span>
                         <span class="circelight-span-black">Россия. Премьер - Лига. Зенит - Краснодар</span>
-                    </div>
+                    </div>-->
 <!--                    <div class="rasp-description-row">
                         <span class="rasp-yellow-bkg">21:30 </span>
                         <span class="alabama-span-black">Вечеринка: </span>
@@ -144,19 +143,18 @@
                 <div class="rasp-day-color-black">ВС</div>
                 <div class="rasp-sep-vertical"></div>
                 <div class="rasp-description">
-<!--                    <div class="rasp-description-row">
-                        <span class="rasp-yellow-bkg">16:00 </span>
-                        <span class="alabama-span-black">Игры: </span>
-                        <span class="circelight-span-black-yellow-bg">Гвоздатый Квиз Секс в Большом Городе</span>
-                    </div>
                     <div class="rasp-description-row">
-                        <span class="rasp-yellow-bkg">16:30 </span>
-                        <span class="alabama-span-black">Футбол: </span>
-                        <span class="circelight-span-black">Россия. Премьер - Лига. Крылья Советов - ЦСКА</span>
+                        <span class="rasp-yellow-bkg">17:00 </span>
+                        <span class="alabama-span-black">Игры: </span>
+                        <span class="circelight-span-black">Сквиз</span>
+                    </div><!--
+                    <div class="rasp-description-row">
+                        <span class="rasp-yellow-bkg">18:00 </span>
+                        <span class="alabama-span-black">Романтические свидания </span>
                     </div>-->
                     <div class="rasp-description-row">
-                        <span class="rasp-yellow-bkg">18:30 </span>
-                        <span class="alabama-span-black">(сбор гостей) Стендап: </span>
+                        <span class="rasp-yellow-bkg">19:00 </span>
+                        <span class="alabama-span-black">Стендап: </span>
                         <span class="circelight-span-black">Открытый микрофон</span>
                     </div>
                 </div>

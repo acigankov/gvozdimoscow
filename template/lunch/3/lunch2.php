@@ -28,10 +28,10 @@
         <!--левая колонка-->
         <div class="fml-item-col-1"> 
             <div class="fml-item img-hover">
-                <a href="/img/menu/lunch/template-parts/salad-ovosh-morkov.jpg" data-fancybox="dish-1" data-caption="Салат овощной с морковью">
-                    <img src="/img/menu/lunch/template-parts/salad-ovosh-morkov.jpg" alt="Салат овощной с морковью"  class="img-fluid"/>
+                <a href="/img/menu/lunch/template-parts/salad-stolichniy.jpg" data-fancybox="dish-1" data-caption="Салат столичный">
+                    <img src="/img/menu/lunch/template-parts/salad-stolichniy.jpg" alt="Салат столичный"  class="img-fluid"/>
                 </a>
-                <div class="fml-item-heading grid"><span class="fml-uppercase">Салат овощной с морковью</span> 
+                <div class="fml-item-heading grid"><span class="fml-uppercase">Салат столичный</span> 
                     <div class="fml-item-heading-price"><span>99</span><i class="fas fa-ruble-sign"></i></div>
                     <div class="lunch-item-badge">
                         <span>99</span>
@@ -44,7 +44,7 @@
                             <span>гриль салат с курицей</span> <!--первое блюдо из правой колонки для моб-->
                         </div>
                         <div class="fml-second-dishes-row fml-uppercase">+49<i class="fas fa-ruble-sign"></i>
-                            <span>цезарь мини</span> <!--второе блюдо из правой колонки для моб-->
+                            <span>Греческий мини</span> <!--второе блюдо из правой колонки для моб-->
                         </div>
                     </div>
                 </div>
@@ -59,9 +59,9 @@
                 </a>
             </div>
             <div class="fml-item img-hover">
-                <a href="/img/menu/lunch/template-parts/caesar-mini.jpg" data-fancybox="dish-3" data-caption="Цезарь Мини">
-                    <img src="/img/menu/lunch/template-parts/caesar-mini.jpg" alt="Цезарь Мини"  class="img-fluid"/>
-                    <div class="fml-item-heading-white"><span>Цезарь мини</span></div>
+                <a href="/img/menu/lunch/template-parts/greek-salad-mini.jpg" data-fancybox="dish-3" data-caption="Греческий Мини">
+                    <img src="/img/menu/lunch/template-parts/greek-salad-mini.jpg" alt="Греческий Мини"  class="img-fluid"/>
+                    <div class="fml-item-heading-white"><span>Греческий мини</span></div>
                 </a>
             </div>
         </div>
@@ -116,9 +116,9 @@
         <!--левая колонка-->
         <div class="fml-item-col-1"> 
             <div class="fml-item img-hover">
-                <a href="/img/menu/lunch/template-parts/grecha-tomat.jpg" data-fancybox="dish-7" data-caption="Гречневая каша с говядиной в томатном соусе">
-                    <img src="/img/menu/lunch/template-parts/grecha-tomat.jpg" alt="Гречневая каша с говядиной в томатном соусе"  class="img-fluid"/>
-                    <div class="fml-item-heading grid"><span class="fml-uppercase">Гречневая каша с говядиной в томатном соусе</span>
+                <a href="/img/menu/lunch/template-parts/pasta-bekon.jpg" data-fancybox="dish-7" data-caption="Паста с беконом">
+                    <img src="/img/menu/lunch/template-parts/pasta-bekon.jpg" alt="Паста с беконом"  class="img-fluid"/>
+                    <div class="fml-item-heading grid"><span class="fml-uppercase">Паста с беконом</span>
                         <div class="fml-item-heading-price"><span>129</span><i class="fas fa-ruble-sign"></i></div>
                         <div class="lunch-item-badge">
                             <span>129</span>
@@ -200,10 +200,10 @@
     <!--футер ланча-->
     <div class="fml-footer">
         <div class="fml-footer-adv-heading fml-uppercase">
-            меню за 229<span class="font-rouble">j</span> на среду
+            меню за 249<span class="font-rouble">j</span> на среду
         </div>
         <div class="fml-footer-adv">
-            Минестроне с курицей • Шницель куриный с сыром и пюре • Салат с картофелем ветчиной и сыром
+            Солянка • Фрикадельки с гарниром • Салат с фасолью, курицей и опятами 
         </div>
         <div class="fml-footer-images">
             <div><img src="/img/menu/lunch/hand-pink.png" alt="Тырк" /></div>
