@@ -58,8 +58,6 @@
     <!-- Optional JavaScript -->
     <script  src="js/custom.js"></script>
     <!-- Yandex.Metrika counter -->
-    <?php if ($_SERVER['HTTP_HOST'] === 'gvozdimoscow.ru'): ?>
-    
 	<script type="text/javascript" >
 	   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
 	   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
@@ -74,8 +72,7 @@
 	   });
 	</script>
 	<noscript><div><img src="https://mc.yandex.ru/watch/51894698" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-    <?php endif; ?>
-        <!-- /Yandex.Metrika counter -->
+	<!-- /Yandex.Metrika counter -->
   </body>
 </html>
 

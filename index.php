@@ -8,9 +8,9 @@
         <img src="/img/img6.jpg" alt="slide-2" />
         <img src="/img/img2.jpg" alt="slide-3" />
         <img src="/img/img5.jpg" alt="slide-5" />-->
-        <a href="http://quiz.gvozdimoscow.ru/" target="_blank" title="Гвоздатый Квиз"><img src="/img/img8.jpg" alt="Гвоздатый Квиз" /></a>
+        <a href="http://quiz.gvozdimoscow.ru/" target="_blank" title="Гвоздатый Квиз"><img src="/img/img9.jpg" alt="Гвоздатый Квиз" /></a>
     </div>
-
+        
 </div>
 
 <section class="about">
@@ -269,8 +269,8 @@
         </div>
         <div class="lunch-item">
             <div class="lunch-item-photo">
-                <a href="img/menu/osn-menu/grill-rebra.jpg" data-fancybox="image-gor" data-caption="горячее + гарнир / на выбор">
-                    <img src="img/menu/osn-menu/grill-rebra.jpg" class="item-img img-fluid" title="горячее + гарнир / на выбор" alt="горячее + гарнир / на выбор">
+                <a href="img/menu/osn-menu/buffallo-bill-big.jpg" data-fancybox="image-gor" data-caption="горячее + гарнир / на выбор">
+                    <img src="img/menu/osn-menu/buffallo-bill-big.jpg" class="item-img img-fluid" title="горячее + гарнир / на выбор" alt="горячее + гарнир / на выбор">
                 </a>
                 <div class="lunch-item-badge">
                     <span>129</span>
@@ -302,23 +302,6 @@
     <div class="slider-for">
         <div class="page-content">
             <div class="main-image">
-                <a href="img/akcii/beerunlim.jpg" data-fancybox="images-3" data-caption="Акция Пивной безлимит">
-                    <img class="img-hover" src="img/akcii/beerunlim.jpg" title="Пивной безлимит" alt="Акция Пивной безлимит">
-                </a>
-            </div>
-            <div class="akcii-description">
-                <span class="akcii-description-time">с 01.08.2018 по 31.12.2019</span>
-                <h2 class="header-font">Пивной безлимит</h2>
-                <p>Сколько пива ты можешь выпить за один раз? Хочешь проверить свои силы?
-                    Плати один раз и пей сколько влезет любого пива!
-                    Каждый день  <strong>ВСЕГО</strong> за <strong>990р!</strong> рублей 
-                    ты получаешь неограниченное количество подходов к любому разливному пиву!
-                    Подробности акции у менеджера ресторана
-                </p>
-            </div>
-        </div>
-        <div class="page-content">
-            <div class="main-image">
                 <a href="img/akcii/beerout.jpg" data-fancybox="images-4" data-caption="Акция Пиво на вынос">
                     <img class="img-hover" src="img/akcii/beerout.jpg" title="Акция Пиво на вынос" alt="Акция Пиво на вынос">
                 </a>
@@ -331,13 +314,26 @@
                 </p>
             </div>
         </div>
+        <div class="page-content">
+            <div class="main-image">
+                <a href="img/akcii/lunch_free.jpg" data-fancybox="images-6" data-caption="Акция Ланч в подарок">
+                    <img class="img-hover" src="img/akcii/lunch_free.jpg" title="Акция Ланч в подарок" alt="Акция Ланч в подарок">
+                </a>
+            </div>
+            <div class="akcii-description">
+                <span class="akcii-description-time">с 01.10.2018 по 31.12.2019</span>
+                <h2 class="header-font">Ланч в подарок</h2>
+                <p>Возьми любимый ланч восемь раз и получи девятый в подарок. И компот :)
+                </p>
+            </div>
+        </div>
     </div>    
     <div class="slider-nav">
         <div class="akcii-description-right">
-            <img class="img-hover img-fluid" src="img/akcii/beerunlim.jpg" title="Акция Пивной безлимит" alt="Акция Пивной безлимит"> 
+            <img class="img-hover img-fluid" src="img/akcii/beerout.jpg" title="Акция Пиво на вынос" alt="Акция Пиво на вынос"> 
         </div>
         <div class="akcii-description-right">
-            <img class="img-hover img-fluid" src="img/akcii/beerout.jpg" title="Акция Пиво на вынос" alt="Акция Пиво на вынос"> 
+            <img class="img-hover img-fluid" src="img/akcii/lunch_free.jpg" title="Акция Ланч в подарок" alt="Акция Ланч в подарок"> 
         </div>
     </div>
 </section>

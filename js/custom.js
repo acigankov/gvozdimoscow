@@ -14,25 +14,25 @@ function fadeOutnojquery(el){
     },16);
 }
 
-window.onload = function () {
-        setTimeout(function () {
-            fadeOutnojquery(preloader);
-        }, 300); //время показа после загрузки 
-    };
-
+window.onload = function(){
+    setTimeout(function(){
+        fadeOutnojquery(preloader);
+    },300); //время показа после загрузки 
+};
+    
     if (window.location.pathname === '/menu.php') {
-        //убираем баннер на странице меню
-        $('.right-banner').css({'display': 'none'});
-    }
+    //убираем баннер на странице меню
+    $('.right-banner').css({'display' : 'none'});
+}
 
 
     //ссылки на категории на странице меню
 
-    if ($(window).width() < 768) {
-        $(".food-menu-categories-line , .food-menu-categories-line-bar").css({'display': 'none'});
-    }
+if ($(window).width() < 768) {
+    $(".food-menu-categories-line , .food-menu-categories-line-bar").css({'display': 'none'});
+}
 
-    if ($(window).width() >= 768) { //если ширина окна >= 768 пикселов
+if ($(window).width() >= 768) { //если ширина окна >= 768 пикселов
 
 //убираем при кликах на табы, где ссылки на категории не нужы
         $(".food-menu-top-line").on("click", "a", function (e) {
