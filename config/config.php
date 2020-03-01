@@ -12,9 +12,9 @@ $data = [
 //lunches
 function showLunchTemplate() {
 
-    $weekNum = '3'; //поменял 08.12.2019 
+    $weekNum = '1'; //поменял 01.03.2020 
 
-    switch (date('1')) {
+    switch (date('w')) {
         case '1';
             $imgLunchUrl = "template/lunch/" . $weekNum . "/lunch1.php";
             break;
