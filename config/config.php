@@ -12,7 +12,7 @@ $data = [
 //lunches
 function showLunchTemplate() {
 
-    $weekNum = '2'; //поменял 08.12.2019 
+    $weekNum = '3'; //поменял 08.12.2019 
 
     switch (date('1')) {
         case '1';
