@@ -82,7 +82,7 @@
             
         </div>
         
-        <!--конец всплывающая плшка меню при скролле-->
+        <!--конец всплывающая плашка меню при скролле-->
         
             <header class="top-header">
                 <!-- левый контейнер в шапке -->
@@ -118,8 +118,8 @@
                     <div class="top-contacts">
                         <img src="../img/work-time.png" title="часы   работы" class="work-time-img center">
                         <div class="work-time">
-                            <p>вс-чт с 8:00 до 00:00</p>
-                            <p>пт-сб с 8:00 до 02:00</p>
+                            <p>вс-чт с 08:00 до 00:00</p>
+                            <p>пт-сб с 08:00 до 02:00</p>
                         </div>
                         <div class="top-contacts-phone">
                             <p class="tel"><a href="tel:+7(495)276-19-87">+7 (495) 276-19-87</a></p>

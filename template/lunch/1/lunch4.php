@@ -40,11 +40,11 @@
                 <div class="fml-second-dishes-m">
                     <img src="/img/menu/lunch/reload.png" alt="Замени Любое Блюдо" />
                     <div class="fml-second-dishes-col">
+                        <div class="fml-second-dishes-row fml-uppercase">+99<i class="fas fa-ruble-sign"></i>
+                            <span>Гриль салат с курицей/тофу</span> <!--первое блюдо из правой колонки для моб-->
+                        </div>
                         <div class="fml-second-dishes-row fml-uppercase">+49<i class="fas fa-ruble-sign"></i>
                             <span>Цезарь мини</span> <!--второе блюдо из правой колонки для моб-->
-                        </div>
-                        <div class="fml-second-dishes-row fml-uppercase">+99<i class="fas fa-ruble-sign"></i>
-                            <span>Гриль салат с курицей</span> <!--первое блюдо из правой колонки для моб-->
                         </div>
                     </div>
                 </div>
@@ -53,15 +53,15 @@
         <!--правая колонка-->
         <div class="fml-item-col-2 grid">
             <div class="fml-item img-hover">
-                <a href="/img/menu/lunch/template-parts/caesar-mini.jpg" data-fancybox="dish-3" data-caption="Цезарь Мини">
-                    <img src="/img/menu/lunch/template-parts/caesar-mini.jpg" alt="Цезарь Мини"  class="img-fluid"/>
-                    <div class="fml-item-heading-white"><span>Цезарь мини</span></div>
+                <a href="/img/menu/lunch/template-parts/salad-grill.jpg" data-fancybox="dish-2" data-caption="Гриль салат с курицей/тофу">
+                    <img src="/img/menu/lunch/template-parts/salad-grill.jpg" alt="Гриль салат с курицей/тофу"  class="img-fluid"/>
+                    <div class="fml-item-heading-white"><span>Гриль салат с курицей/тофу</span></div>
                 </a>
             </div>
             <div class="fml-item img-hover">
-                <a href="/img/menu/lunch/template-parts/salad-grill.jpg" data-fancybox="dish-2" data-caption="Гриль салат с курицей">
-                    <img src="/img/menu/lunch/template-parts/salad-grill.jpg" alt="Гриль салат с курицей"  class="img-fluid"/>
-                    <div class="fml-item-heading-white"><span>Гриль салат с курицей</span></div>
+                <a href="/img/menu/lunch/template-parts/caesar-mini.jpg" data-fancybox="dish-3" data-caption="Цезарь Мини">
+                    <img src="/img/menu/lunch/template-parts/caesar-mini.jpg" alt="Цезарь Мини"  class="img-fluid"/>
+                    <div class="fml-item-heading-white"><span>Цезарь мини</span></div>
                 </a>
             </div>
         </div>
@@ -84,11 +84,11 @@
                     <div class="fml-second-dishes-m">
                         <img src="/img/menu/lunch/reload.png" alt="Замени Любое Блюдо" />
                         <div class="fml-second-dishes-col">
-                            <div class="fml-second-dishes-row fml-uppercase">+49<i class="fas fa-ruble-sign"></i>
-                                <span>Борщ</span> <!--второе блюдо из правой колонки для моб-->
-                            </div>
                             <div class="fml-second-dishes-row fml-uppercase">+99<i class="fas fa-ruble-sign"></i>
                                 <span>Том Ям</span> <!--первое блюдо из правой колонки для моб-->
+                            </div>
+                            <div class="fml-second-dishes-row fml-uppercase">+49<i class="fas fa-ruble-sign"></i>
+                                <span>Борщ/Овощной</span> <!--второе блюдо из правой колонки для моб-->
                             </div>
                         </div>
                     </div>
@@ -98,17 +98,18 @@
         <!--правая колонка-->
         <div class="fml-item-col-2 grid">
             <div class="fml-item img-hover">
-                <a href="/img/menu/lunch/template-parts/borshch.jpg" data-fancybox="dish-6" data-caption="Борщ">
-                    <img src="/img/menu/lunch/template-parts/borshch.jpg" alt="Борщ"  class="img-fluid"/>
-                    <div class="fml-item-heading-white"><span>Борщ</span></div>
-                </a>
-            </div>
-            <div class="fml-item img-hover">
+                <div class="fml-item img-hover">
                 <a href="/img/menu/lunch/template-parts/thom-yam.jpg" data-fancybox="dish-5" data-caption="Том Ям">
                     <img src="/img/menu/lunch/template-parts/thom-yam.jpg" alt="Том Ям"  class="img-fluid"/>
                     <div class="fml-item-heading-white"><span>Том Ям</span></div>
                 </a>
             </div>
+                <a href="/img/menu/lunch/template-parts/borshch.jpg" data-fancybox="dish-6" data-caption="Борщ">
+                    <img src="/img/menu/lunch/template-parts/borshch.jpg" alt="Борщ"  class="img-fluid"/>
+                    <div class="fml-item-heading-white"><span>Борщ/Овощной</span></div>
+                </a>
+            </div>
+            
         </div>
     </div>
 
@@ -128,11 +129,11 @@
                     <div class="fml-second-dishes-m">
                         <img src="/img/menu/lunch/reload.png" alt="Замени Любое Блюдо" />
                         <div class="fml-second-dishes-col">
-                            <div class="fml-second-dishes-row fml-uppercase">+49<i class="fas fa-ruble-sign"></i>
-                                <span>Спагетти карбонара мини</span> <!--второе блюдо из правой колонки для моб-->
-                            </div>
                             <div class="fml-second-dishes-row fml-uppercase">+99<i class="fas fa-ruble-sign"></i>
-                                <span>Гамбургер с карторшкой</span> <!--первое блюдо из правой колонки для моб-->
+                                <span>Бифштекс/Бургер постный</span> <!--первое блюдо из правой колонки для моб-->
+                            </div>
+                            <div class="fml-second-dishes-row fml-uppercase">+49<i class="fas fa-ruble-sign"></i>
+                                <span>Спагетти карбонара</span> <!--второе блюдо из правой колонки для моб-->
                             </div>
                         </div>
                     </div>
@@ -142,15 +143,15 @@
         <!--правая колонка-->
         <div class="fml-item-col-2 grid">
             <div class="fml-item img-hover">
-                <a href="/img/menu/lunch/template-parts/burger.jpg" data-fancybox="dish-8" data-caption="Гамбургер с карторшкой">
-                    <img src="/img/menu/lunch/template-parts/burger.jpg" alt="Гамбургер с карторшкой"  class="img-fluid"/>
-                    <div class="fml-item-heading-white"><span>Гамбургер с карторшкой</span></div>
+                <a href="/img/menu/lunch/template-parts/burger.jpg" data-fancybox="dish-8" data-caption="Бифштекс/Бургер постный">
+                    <img src="/img/menu/lunch/template-parts/burger.jpg" alt="Бифштекс/Бургер постный"  class="img-fluid"/>
+                    <div class="fml-item-heading-white"><span>Бифштекс/Бургер постный</span></div>
                 </a>
             </div>
             <div class="fml-item img-hover">
                 <a href="/img/menu/lunch/template-parts/karbonara.jpg" data-fancybox="dish-9" data-caption="Спагетти карбонара мини">
                     <img src="/img/menu/lunch/template-parts/karbonara.jpg" alt="Спагетти карбонара мини"  class="img-fluid"/>
-                    <div class="fml-item-heading-white"><span>Спагетти карбонара мини</span></div>
+                    <div class="fml-item-heading-white"><span>Спагетти карбонара</span></div>
                 </a>
             </div>
         </div>
@@ -204,7 +205,7 @@
             меню за 249<span class="font-rouble">j</span> на пятницу
         </div>
         <div class="fml-footer-adv">
-            Харчо с говядиной • Тефтели с макаронами в томатном соусе • Овощной салат
+            Харчо с говядиной • Тефтели с булгуром и овощами • Овощной салат
         </div>
         <div class="fml-footer-images">
             <div><img src="/img/menu/lunch/hand-pink.png" alt="Тырк" /></div>

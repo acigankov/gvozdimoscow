@@ -292,6 +292,9 @@
     </div>
 </section>
 
+
+<?php $showaccii = false; ?>
+<?php if($showaccii) : ?>
 <!--секция акции-->
 <section class="akcii">
     <div class="separator">
@@ -339,7 +342,7 @@
 </section>
 
 <!--конец секция акции-->
-
+<?php endif; ?>
 
 <section class="gallery">
     <div class="separator">
@@ -428,10 +431,10 @@
     </div>
 </section>
 
-<section class="afisha">
 
-</section>
+<?php $showInstagramSection = false; ?>
 
+<?php if($showInstagramSection) : ?>
 <section class="instagram">
     <div class="separator">
         <div class="instagram-separator-left"></div>
@@ -477,7 +480,8 @@
         </div>
     </div>
 </section>
-</div>
+<?php endif; ?>
+
 
 <section class="map">
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3777.6126822325623!2d37.65681684109336!3d55.737967713856634!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54ae77f997671%3A0x543257eb3ab95a90!2z0JLQvtGA0L7QvdGG0L7QstGB0LrQsNGPINGD0LsuLCAyMCwg0JzQvtGB0LrQstCwLCAxMDkxNDc!5e0!3m2!1sru!2sru!4v1551736577710" ></iframe>  

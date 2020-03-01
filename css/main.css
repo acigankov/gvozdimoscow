@@ -1606,7 +1606,7 @@ span.akcii-description-time {
 }
 
 .food-menu-breakfasts-advertisment {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns:  1fr;
     grid-gap: 100px;
     padding: 50px 0;
 }
@@ -1614,7 +1614,7 @@ span.akcii-description-time {
 .food-menu-breakfasts-advertisment .left-item {
     font-family: 'din-alternate-bold' , sans-serif;
     text-align: center;
-    justify-self: end;
+    justify-self: center;
 
 }
 

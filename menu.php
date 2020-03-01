@@ -37,7 +37,7 @@
                 <div class="item">
                     <a href="#on_company"><img src="img/menu/menu-categories/on_company.jpg" alt="Блюда на Компанию"/></a>
                     <div class="title">Блюда на Компанию</div>
-                    <span class="price">от 499<i class="fas fa-ruble-sign"></i></span>
+                    <span class="price">от 599<i class="fas fa-ruble-sign"></i></span>
                 </div>
                 <div class="item">
                     <a href="#hol_zakuski"><img src="img/menu/menu-categories/hol_zakuski.jpg" alt="Холодные Закуски"/></a>
@@ -47,12 +47,12 @@
                 <div class="item">
                     <a href="#piv_zakuski"><img src="img/menu/menu-categories/piv_zakuski.jpg" alt="Пивные Закуски"/></a>
                     <div class="title">Пивные Закуски</div>
-                    <span class="price">от 199<i class="fas fa-ruble-sign"></i></span>
+                    <span class="price">от 299<i class="fas fa-ruble-sign"></i></span>
                 </div>
                 <div class="item">
                     <a href="#salads"><img src="img/menu/menu-categories/salads.jpg" alt="Салаты"/></a>
                     <div class="title">Салаты</div>
-                    <span class="price">от 299<i class="fas fa-ruble-sign"></i></span>
+                    <span class="price">от 399<i class="fas fa-ruble-sign"></i></span>
                 </div>
                 <div class="item">
                     <a href="#soups"><img src="img/menu/menu-categories/soups.jpg" alt="Первые Блюда"/></a>
@@ -66,14 +66,14 @@
                 </div>
                 <div class="item">
                     <a href="#pasta"><img src="img/menu/menu-categories/pasta.jpg" alt="Паста"/></a>
-                    <div class="title">Паста и пицца</div>
+                    <div class="title">Паста</div>
                     <span class="price">от 399<i class="fas fa-ruble-sign"></i></span>
                 </div>
-                <div class="item">
+<!--                <div class="item">
                     <a href="#steiks"><img src="img/menu/menu-categories/steiks.jpg" alt="Стейки"/></a>
                     <div class="title">Стейки</div>
                     <span class="price">от 499<i class="fas fa-ruble-sign"></i></span>
-                </div>
+                </div>-->
                 <div class="item">
                     <a href="#garniry"><img src="img/menu/menu-categories/garniry.jpg" alt="Гарниры"/></a>
                     <div class="title">Гарниры</div>
@@ -81,14 +81,14 @@
                 </div>
                 <div class="item">
                     <a href="#burgers"><img src="img/menu/menu-categories/burgers.jpg" alt="Бургеры"/></a>
-                    <div class="title">Бургеры</div>
+                    <div class="title">Бургеры и сендвичи</div>
                     <span class="price">от 399<i class="fas fa-ruble-sign"></i></span>
                 </div>
-                <div class="item">
+<!--                <div class="item">
                     <a href="#hot_dogs"><img src="img/menu/menu-categories/hot_dogs.jpg" alt="Бешенные Псы"/></a>
                     <div class="title">Бешенные Псы</div>
                     <span class="price">от 349<i class="fas fa-ruble-sign"></i></span>
-                </div>
+                </div>-->
                 <div class="item">
                     <a href="#deserts"><img src="img/menu/menu-categories/deserts.jpg" alt="Десерты"/></a>
                     <div class="title">Десерты</div>
@@ -104,12 +104,12 @@
                 <div class="item">
                     <a href="#f_igristoevino"><img src="img/menu/menu-categories/igristoe_vino.jpg" alt="Игристое Вино"/></a>
                     <div class="title">Игристое Вино</div>
-                    <span class="price">от 149<i class="fas fa-ruble-sign"></i></span>
+                    <span class="price">от 199<i class="fas fa-ruble-sign"></i></span>
                 </div>
                 <div class="item">
                     <a href="#f_vine"><img src="img/menu/menu-categories/vine.jpg" alt="Вино"/></a>
                     <div class="title">Вино</div>
-                    <span class="price">от 199<i class="fas fa-ruble-sign"></i></span>
+                    <span class="price">от 249<i class="fas fa-ruble-sign"></i></span>
                 </div>
                 <div class="item">
                     <a href="#f_ling-drinks"><img src="img/menu/menu-categories/long.jpg" alt="Лонг Дринки"/></a>
@@ -134,7 +134,7 @@
                 <div class="item">
                     <a href="#f_vodka"><img src="img/menu/menu-categories/vodka.jpg" alt="Водка"/></a>
                     <div class="title">Водка</div>
-                    <span class="price">от 149<i class="fas fa-ruble-sign"></i></span>
+                    <span class="price">от 129<i class="fas fa-ruble-sign"></i></span>
                 </div>
                 <div class="item">
                     <a href="#f_samogon"><img src="img/menu/menu-categories/samogon.jpg" alt="Самогон"/></a>
@@ -144,7 +144,7 @@
                 <div class="item">
                     <a href="#f_whisky"><img src="img/menu/menu-categories/whisky.jpg" alt="Виски"/></a>
                     <div class="title">Виски</div>
-                    <span class="price">от 149<i class="fas fa-ruble-sign"></i></span>
+                    <span class="price">от 199<i class="fas fa-ruble-sign"></i></span>
                 </div>
                 <div class="item">
                     <a href="#f_jin"><img src="img/menu/menu-categories/jin.jpg" alt="Джин"/></a>
@@ -154,12 +154,12 @@
                 <div class="item">
                     <a href="#f_rum"><img src="img/menu/menu-categories/rum.jpg" alt="Ром"/></a>
                     <div class="title">Ром</div>
-                    <span class="price">от 249<i class="fas fa-ruble-sign"></i></span>
+                    <span class="price">от 299<i class="fas fa-ruble-sign"></i></span>
                 </div>
                 <div class="item">
                     <a href="#f_tequila"><img src="img/menu/menu-categories/tequila.jpg" alt="Текила"/></a>
                     <div class="title">Текила</div>
-                    <span class="price">от 249<i class="fas fa-ruble-sign"></i></span>
+                    <span class="price">от 299<i class="fas fa-ruble-sign"></i></span>
                 </div>
                 <div class="item">
                     <a href="#f_cogniac"><img src="img/menu/menu-categories/cogniac.jpg" alt="Коньяк"/></a>
@@ -169,7 +169,7 @@
                 <div class="item">
                     <a href="#f_vermut"><img src="img/menu/menu-categories/vermut.jpg" alt="Вермут"/></a>
                     <div class="title">Вермут</div>
-                    <span class="price">от 249<i class="fas fa-ruble-sign"></i></span>
+                    <span class="price">от 299<i class="fas fa-ruble-sign"></i></span>
                 </div>
                 <div class="item">
                     <a href="#f_liquer"><img src="img/menu/menu-categories/liquer.jpg" alt="Ликер"/></a>
@@ -199,7 +199,7 @@
                 <div class="item">
                     <a href="#f_tea"><img src="img/menu/menu-categories/tea.jpg" alt="Чай"/></a>
                     <div class="title">Чай</div>
-                    <span class="price">от 199<i class="fas fa-ruble-sign"></i></span>
+                    <span class="price">от 299<i class="fas fa-ruble-sign"></i></span>
                 </div>
                 <div class="item">
                     <a href="#f_hot_coctails"><img src="img/menu/menu-categories/hot_coctails.jpg" alt="Горячие Коктейли"/></a>
@@ -241,7 +241,7 @@
 
             <div class="food-menu-advertisment" id="on_company">
                 <span>
-                    блюда на компанию ● от 499<i class="fas fa-ruble-sign"></i>
+                    блюда на компанию ● от 599<i class="fas fa-ruble-sign"></i>
                 </span>
             </div>
 
@@ -254,18 +254,19 @@
                     </div>
                     <div class="food-menu-item-content">
                         <h3>мясной сет</h3>
-                        <span class="menu-bar-item-description">[КРЫЛЬЯ КУРИНЫЕ, НАГГЕТСЫ КУРИНЫЕ,КАРТОФЕЛЬ ФРИ, 
-                            ГРЕНКИ, СОУС БЛЮ ЧИЗ, СОУС BBQ]
+                        <span class="menu-bar-item-description">
+                            [Куриные колбаски, крылышки и наггетсы,
+                            картофельные крокеты, картофель фри и соуса]
                         </span>
-                        <span class="menu-bar-item-weight">
+<!--                        <span class="menu-bar-item-weight">
                             150/100/90/80/20/20 гр.
-                        </span>
+                        </span>-->
                         <span class="menu-bar-item-price">
-                            ~499
+                            ~999
                         </span>
                     </div>    
                 </div>
-                <div class="food-menu-item grid">
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/osn-menu/kolbas-mile-big.jpg" data-fancybox="image-kolb-mile" data-caption="Колбасная Миля">
                             <img src="img/menu/osn-menu/kolbas-mile-big.jpg" class="item-img img-fluid" title="Колбасная Миля">
@@ -284,27 +285,28 @@
                             ~999
                         </span>
                     </div>    
-                </div>
+                </div>-->
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
-                        <a href="img/menu/osn-menu/beer-set-big.jpg" data-fancybox="image-beer-set" data-caption="Пивной Набор">
+                        <a href="img/menu/osn-menu/beer-set-big.jpg" data-fancybox="image-beer-set" data-caption="Пивной сет">
                             <img src="img/menu/osn-menu/beer-set-big.jpg" class="item-img img-fluid" title="Пивной Сет">
                         </a>
                     </div>
                     <div class="food-menu-item-content">
                         <h3>пивной сет</h3>
-                        <span class="menu-bar-item-description">[ СЫРНЫЕ НАГГЕТСЫ, ЛУКОВЫЕ КОЛЬЦА, ГРЕНКИ, КАРТОФЕЛЬ ФРИ,
-                            СОУС БЛЮ ЧИЗ, СОУС СЫРНЫЙ ]
+                        <span class="menu-bar-item-description">
+                            [ Сырные палочки, луковые кольца, 
+                            картофельные крокеты, картофель фри и соуса ]
                         </span>
-                        <span class="menu-bar-item-weight">
+<!--                        <span class="menu-bar-item-weight">
                             80/100/110/90/20/20 гр.
-                        </span>
+                        </span>-->
                         <span class="menu-bar-item-price">
-                            ~499
+                            ~599
                         </span>
                     </div>    
                 </div>
-                <div class="food-menu-item grid">
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <div class="hit-label"></div>
                         <a href="img/menu/osn-menu/big-kush.jpg" data-fancybox="image-big-kush" data-caption="Большой Куш">
@@ -324,8 +326,8 @@
                             ~1999
                         </span>
                     </div>    
-                </div>
-                <div class="food-menu-item grid">
+                </div>-->
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <div class="new-label"></div>
                         <a href="img/menu/osn-menu/more-set.jpg" data-fancybox="image-more-set" data-caption="Морской сет">
@@ -344,7 +346,7 @@
                             ~599
                         </span>
                     </div>    
-                </div>
+                </div>-->
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/osn-menu/jackpot.jpg" data-fancybox="image-jack-pot" data-caption="Джек Пот">
@@ -353,16 +355,18 @@
                     </div>
                     <div class="food-menu-item-content">
                         <h3>джек пот</h3>
-                        <span class="menu-bar-item-description">[КОЛБАСКИ КУРИНЫЕ, СВИНЫЕ, ГОВЯЖЬИ; КРЫЛЬЯ BBQ, РЕБРА СВИНЫЕ,
-                            СЫРНЫЕ ПАЛОЧКИ, ЛУК. КОЛЬЦА, НАГГЕТСЫ, ГРЕНКИ,
-                            КАРТОФЕЛЬ ФРИ, КАРТОФЕЛЬНЫЕ. ДОЛЬКИ]
-                            [ПОДАЕТСЯ С БАРБЕКЮ, СЫРНЫМ, БЛЮ ЧИЗ,
-                            КЛЮКВЕННЫМ СОУСАМИ]
+                        <span class="menu-bar-item-description">
+                            [Колбаски куриные и свиные, 
+                            колбаски-улитки, куриные крылышки, 
+                            свиные ребрышки, сырные палочки, луковые
+                            кольца, куриные наггетсы , картофельные 
+                            крокеты, картофель фри, помидоры черри
+                            и соуса]
                         </span>
-                        <span class="menu-bar-item-weight">
+<!--                        <span class="menu-bar-item-weight">
                             600/350/250/140/150/120/
                             200/240/20/20/20/20/20 гр.
-                        </span>
+                        </span>-->
                         <span class="menu-bar-item-price">
                             ~2999
                         </span>
@@ -378,7 +382,7 @@
             </div>
 
             <div class="food-menu-menu grid" >
-                <div class="food-menu-item grid">
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/osn-menu/raznosoli.jpg" data-fancybox="image-raznosol" data-caption="Разносолы">
                             <img src="img/menu/osn-menu/raznosoli.jpg" class="item-img img-fluid" title="raznosol" alt="">
@@ -397,7 +401,7 @@
                             ~299
                         </span>
                     </div>    
-                </div>
+                </div>-->
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/osn-menu/seledka-kart.jpg" data-fancybox="image-seld-kartofel" data-caption="Cеледочка с картофелем">
@@ -407,13 +411,11 @@
                     <div class="food-menu-item-content">
                         <h3>селедочка с картофелем</h3>
                         <span class="menu-bar-item-description">
-                            [КАРТОФЕЛЬ, СЕЛЬДЬ СЛАБОСОЛЕНАЯ,
-                            МАРИНОВАННЫЙ ЛУК, СВЕЖАЯ ЗЕЛЕНЬ,
-                            ПОДСОЛНЕЧНОЕ МАСЛО]
+                            [ Селедочка с картофелем и красным луком ]
                         </span>
-                        <span class="menu-bar-item-weight">
+<!--                        <span class="menu-bar-item-weight">
                             100/120/20 гр.
-                        </span>
+                        </span>-->
                         <span class="menu-bar-item-price">
                             ~299
                         </span>
@@ -421,22 +423,21 @@
                 </div>
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
-                        <a href="img/menu/osn-menu/chezze-plate.jpg" data-fancybox="image-cheese-assort" data-caption="Сырное ассорти">
-                            <img src="img/menu/osn-menu/chezze-plate.jpg" class="item-img img-fluid" title="Сырное ассорти" alt="">
+                        <a href="img/menu/osn-menu/chezze-plate.jpg" data-fancybox="image-cheese-assort" data-caption="Сырное тарелка">
+                            <img src="img/menu/osn-menu/chezze-plate.jpg" class="item-img img-fluid" title="Сырное тарелка" alt="">
                         </a>
                     </div>
                     <div class="food-menu-item-content">
-                        <h3>сырное ассорти</h3>
+                        <h3>сырная тарелка</h3>
                         <span class="menu-bar-item-description">
-                            [ДОРБЛЮ, ГОЛЛАНДСКИЙ, ПАРМЕЗАН, ЧЕЧИЛ ]
-                            [ ПОДАЕТСЯ С МЕДОМ, ОРЕХАМИ,
-                            ГРУШЕЙ И ВИНОГРАДОМ]
+                            [ Ассорти из четырех сыров с виноградом,
+                            орехами, медом и грушей ]
                         </span>
-                        <span class="menu-bar-item-weight">
+<!--                        <span class="menu-bar-item-weight">
                             210 гр.
-                        </span>
+                        </span>-->
                         <span class="menu-bar-item-price">
-                            ~399
+                            ~499
                         </span>
                     </div>    
                 </div>
@@ -450,12 +451,11 @@
                     <div class="food-menu-item-content">
                         <h3>Овощная тарелка</h3>
                         <span class="menu-bar-item-description">
-                            [ОГУРЦЫ, ПОМИДОРЫ, БОЛГАРСКИЙ ПЕРЕЦ,
-                            РЕДИС, ЛИСТ САЛАТА, ЗЕЛЕНЬ]
+                            [ Ассорти из свежих овощей с листьми салата ]
                         </span>
-                        <span class="menu-bar-item-weight">
+<!--                        <span class="menu-bar-item-weight">
                             300 гр.
-                        </span>
+                        </span>-->
                         <span class="menu-bar-item-price">
                             ~299
                         </span>
@@ -470,19 +470,18 @@
                     <div class="food-menu-item-content">
                         <h3>копчености</h3>
                         <span class="menu-bar-item-description">
-                            [ДЖЕРКИ ИЗ ИНДЕЙКИ, СЫР ЧЕЧИЛ,
-                            ГРЕНКИ БОРОДИНСКИЕ,
-                            КОЛБАСКИ ПИККОЛИНИ, СОУС BBQ]
+                            [ Джерки из индейки, сырокопченые колбаски,
+                            копченый сыр, гренки, сушеные анчоусы и соус BBQ ]
                         </span>
-                        <span class="menu-bar-item-weight">
+<!--                        <span class="menu-bar-item-weight">
                             130/20 гр.
-                        </span>
+                        </span>-->
                         <span class="menu-bar-item-price">
-                            ~399
+                            ~599
                         </span>
                     </div>    
                 </div>
-                <div class="food-menu-item grid">
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <div class="new-label"></div>
                         <a href="img/menu/osn-menu/kop4enosti_xl.jpg" data-fancybox="image-kopctсрxl" data-caption="Копчености XL">
@@ -504,12 +503,12 @@
                             ~599
                         </span>
                     </div>    
-                </div>
+                </div>-->
             </div>                
 
             <div class="food-menu-advertisment" id="piv_zakuski">
                 <span>
-                    пивные закуски ● от 199<i class="fas fa-ruble-sign"></i>
+                    пивные закуски ● от 299<i class="fas fa-ruble-sign"></i>
                 </span>
             </div>
 
@@ -523,14 +522,13 @@
                     <div class="food-menu-item-content">
                         <h3>крылья куриные bbq</h3>
                         <span class="menu-bar-item-description">
-                            [КУРИНЫЕ КРЫЛЬЯ В СОУСЕ BBQ]
-                            [ПОДАЮТСЯ С СОУСОМ БЛЮ ЧИЗ] 
+                            [Куриные крылышки и соус BBQ] 
                         </span>
-                        <span class="menu-bar-item-weight">
+<!--                        <span class="menu-bar-item-weight">
                             265/20 гр.
-                        </span>
+                        </span>-->
                         <span class="menu-bar-item-price">
-                            ~399
+                            ~499
                         </span>
                     </div>    
                 </div>
@@ -543,19 +541,17 @@
                     <div class="food-menu-item-content">
                         <h3>жареный сыр</h3>
                         <span class="menu-bar-item-description">
-                            [МЯГКИЙ ГОЛАНДСКИЙ СЫР, ОБЖАРЕННЫЙ ВО ФРИТЮРЕ]
-                            [ПОДАЕТСЯ С ЧЕСНОЧНЫМИ ГРЕНКАМИ,
-                            КЛЮКВЕННЫМ И БЛЮ ЧИЗ СОУСАМИ]
+                            [Сыр, панировка, лесные ягоды и мята]
                         </span>
-                        <span class="menu-bar-item-weight">
+<!--                        <span class="menu-bar-item-weight">
                             120/80/20/20 гр.
-                        </span>
+                        </span>-->
                         <span class="menu-bar-item-price">
-                            ~399
+                            ~599
                         </span>
                     </div>    
                 </div>
-                <div class="food-menu-item grid">
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/osn-menu/onion-circles.jpg" data-fancybox="image-jaren-onion" data-caption="Луковые кольца">
                             <img src="img/menu/osn-menu/onion-circles.jpg" class="item-img img-fluid" title="Луковые кольца" alt="">
@@ -575,8 +571,8 @@
                             ~199
                         </span>
                     </div>    
-                </div>
-                <div class="food-menu-item grid">
+                </div>-->
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <div class="new-label"></div>
                         <a href="img/menu/osn-menu/shrimps_.jpg" data-fancybox="image-shrimps_" data-caption="Креветки в панировке">
@@ -595,7 +591,7 @@
                             ~399
                         </span>
                     </div>    
-                </div>
+                </div>-->
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/osn-menu/gedza.jpg" data-fancybox="image-gedza" data-caption="Гедза со свининой">
@@ -605,17 +601,17 @@
                     <div class="food-menu-item-content">
                         <h3>гедза со свининой</h3>
                         <span class="menu-bar-item-description">
-                            [ПОДАЕТСЯ С КИСЛО-СЛАДКИМ СОУСОМ]
+                            [Гедза с говядиной и соус]
                         </span>
-                        <span class="menu-bar-item-weight">
+<!--                        <span class="menu-bar-item-weight">
                             120/20 гр.
-                        </span>
+                        </span>-->
                         <span class="menu-bar-item-price">
-                            ~249
+                            ~299
                         </span>
                     </div>    
                 </div>
-                <div class="food-menu-item grid">
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <div class="new-label"></div>
                         <a href="img/menu/osn-menu/spring-roll.jpg" data-fancybox="image-spring-roll" data-caption="Cпринг роллы с говядиной">
@@ -634,10 +630,10 @@
                             ~399
                         </span>
                     </div>    
-                </div>
+                </div>-->
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
-                        <div class="hot-label"></div>
+                        <!--<div class="hot-label"></div>-->
                         <a href="img/menu/osn-menu/kessadillia-chiken.jpg" data-fancybox="image-kesadilia" data-caption="Кесадилья с курицей">
                             <img src="img/menu/osn-menu/kessadillia-chiken.jpg" class="item-img img-fluid" title="Кесадилья с курицей" alt="">
                         </a>
@@ -645,13 +641,11 @@
                     <div class="food-menu-item-content">
                         <h3>кесадилья с курицей</h3>
                         <span class="menu-bar-item-description">
-                            [ПЕРЕЦ БОЛГАРСКИЙ, ЛУК КРАСНЫЙ, ХАЛАПЕНЬО,
-                            КИНЗА, КУРИНАЯ ГРУДКА, ТОРТИЛЬЯ, СЫР]
-                            [ПОДАЕТСЯ С СОУСОМ САЛЬСА И СМЕТАНОЙ]
+                            [Тортилья, сыр, овощи, куриная грудка и соуса]
                         </span>
-                        <span class="menu-bar-item-weight">
+<!--                        <span class="menu-bar-item-weight">
                             230/20/20 гр.
-                        </span>
+                        </span>-->
                         <span class="menu-bar-item-price">
                             ~399
                         </span>
@@ -661,12 +655,12 @@
 
             <div class="food-menu-advertisment" id="salads">
                 <span>
-                    салаты ● от 299<i class="fas fa-ruble-sign"></i>
+                    салаты ● от 399<i class="fas fa-ruble-sign"></i>
                 </span>
             </div>
 
             <div class="food-menu-menu grid">
-                <div class="food-menu-item grid">
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/osn-menu/greek-salad.jpg" data-fancybox="image-greek-salad" data-caption="Греческий салат">
                             <img src="img/menu/osn-menu/greek-salad.jpg" class="item-img img-fluid" title="Греческий салат" alt="">
@@ -686,7 +680,7 @@
                             ~299
                         </span>
                     </div>    
-                </div>
+                </div>-->
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/osn-menu/ceazar-chiken.jpg" data-fancybox="image-caesar-salad" data-caption="Цезарь с курицей">
@@ -696,19 +690,18 @@
                     <div class="food-menu-item-content">
                         <h3>цезарь с курицей</h3>
                         <span class="menu-bar-item-description">
-                            [ОРИГИНАЛЬНАЯ ЗАПРАВКА, КУРИНОЕ ФИЛЕ, СЫР,
-                            САЛАТНЫЙ ЛИСТ, ПЕРЕПЕЛИНЫЕ ЯЙЦА, ПОМИДОРЫ ЧЕРРИ,
-                            ХРУСТЯЩИЕ СУХАРИКИ]
+                            [Куриная грудка, листья салата, сыр, перепелиные 
+                            яйца, помидоры черри, соус  и гренки]
                         </span>
-                        <span class="menu-bar-item-weight">
+<!--                        <span class="menu-bar-item-weight">
                             180 гр.
-                        </span>
+                        </span>-->
                         <span class="menu-bar-item-price">
-                            ~349
+                            ~399
                         </span>
                     </div>    
                 </div>
-                <div class="food-menu-item grid">
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/osn-menu/caezar-semga.jpg" data-fancybox="image-caesar-semga" data-caption="Цезарь с семгой">
                             <img src="img/menu/osn-menu/caezar-semga.jpg" class="item-img img-fluid" title="Цезарь с семгой" alt="">
@@ -728,7 +721,7 @@
                             ~399
                         </span>
                     </div>    
-                </div>
+                </div>-->
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/osn-menu/gril-salad.jpg" data-fancybox="image-grille-salad" data-caption="Гриль салат">
@@ -738,14 +731,12 @@
                     <div class="food-menu-item-content">
                         <h3>гриль салат</h3>
                         <span class="menu-bar-item-description">
-                            [ЛИСТЬЯ САЛАТА, ЦУКИНИ, ПЕРЕЦ БОЛГАРСКИЙ,
-                            БАКЛАЖАН, ЛУК КРАСНЫЙ, ШАМПИНЬОНЫ,
-                            ОБЖАРЕННАЯ КУРИНАЯ ГРУДКА,
-                            СОУС ОТ ШЕФ-ПОВАРА]
+                            [Овощи гриль с куриной грудкой, 
+                            листьями салата и соусом]
                         </span>
-                        <span class="menu-bar-item-weight">
+<!--                        <span class="menu-bar-item-weight">
                             170 гр.
-                        </span>
+                        </span>-->
                         <span class="menu-bar-item-price">
                             ~349
                         </span>
@@ -760,19 +751,17 @@
                     <div class="food-menu-item-content">
                         <h3>цезарь с креветками</h3>
                         <span class="menu-bar-item-description">
-                            [ОРИГИНАЛЬНАЯ ЗАПРАВКА, СЕМГА ХОЛОДНОГО КОПЧЕНИЯ,
-                            СЫР, САЛАТНЫЙ ЛИСТ, ПЕРЕПЕЛИНЫЕ ЯЙЦА, ПОМИДОРЫ ЧЕРРИ,
-                            ХРУСТЯЩИЕ СУХАРИКИ]
+                            [Креветки, листья салата, сыр, перепелиные яйца, 
+                            помидоры черри, соус  и гренки]
                         </span>
-                        <span class="menu-bar-item-weight">
+<!--                        <span class="menu-bar-item-weight">
                             170 гр.
-                        </span>
+                        </span>-->
                         <span class="menu-bar-item-price">
-                            ~399
+                            ~499
                         </span>
                     </div>    
                 </div>
-
             </div>
 
             <div class="food-menu-advertisment" id="soups">
@@ -791,14 +780,11 @@
                     <div class="food-menu-item-content">
                         <h3>борщ с домашним салом</h3>
                         <span class="menu-bar-item-description">
-                            [НАВАРИСТЫЙ БОРЩ НА ГОВЯЖЬЕМ БУЛЬОНЕ
-                            С ТОМЛЕНЫМИ ОВОЩАМИ]
-                            [ПОДАЕТСЯ С ДОМАШНИМ САЛОМ,
-                            СМЕТАНОЙ И ГОРЧИЦЕЙ]
+                            [Борщ с салом, горчицей и сметаной]
                         </span>
-                        <span class="menu-bar-item-weight">
+<!--                        <span class="menu-bar-item-weight">
                             250/20/15/20 гр.
-                        </span>
+                        </span>-->
                         <span class="menu-bar-item-price">
                             ~199
                         </span>
@@ -813,19 +799,17 @@
                     </div>
                     <div class="food-menu-item-content">
                         <h3>солянка ядреная</h3>
-                        <span class="menu-bar-item-description" style="color:#f2c946">
+<!--                        <span class="menu-bar-item-description" style="color:#f2c946">
                             [ЛУЧШЕЕ СРЕДСТВО ПРИЙТИ В СЕБЯ ПОСЛЕ
                             «ТРУДНОГО» ВЕЧЕРА / МГНОВЕННО ВЕРНЕТ
                             ВАС К ЖИЗНИ]
-                        </span>
+                        </span>-->
                         <span class="menu-bar-item-description">
-                            [СУП НА МЯСНОМ БУЛЬОНЕ, С КОПЧЕНОСТЯМИ,
-                            БОЧКОВЫМИ ОГУРЧИКАМИ И ОЛИВКАМИ]
-                            [ПОДАЕТСЯ С ЛИМОНОМ И СМЕТАНОЙ]
+                            [Солянка со сметаной]
                         </span>
-                        <span class="menu-bar-item-weight">
+<!--                        <span class="menu-bar-item-weight">
                             250/15/20 гр.
-                        </span>
+                        </span>-->
                         <span class="menu-bar-item-price">
                             ~199
                         </span>
@@ -840,14 +824,13 @@
                     <div class="food-menu-item-content">
                         <h3>норвежский суп</h3>
                         <span class="menu-bar-item-description">
-                            [КЛАССИЧЕСКИЙ СУП С НОРВЕЖСКОЙ
-                            СЕМГОЙ И СЛИВКАМИ]
+                            [Сливочный суп с семгой и чесночным багетом]
                         </span>
-                        <span class="menu-bar-item-weight">
+<!--                        <span class="menu-bar-item-weight">
                             250 гр.
-                        </span>
+                        </span>-->
                         <span class="menu-bar-item-price">
-                            ~249
+                            ~299
                         </span>
                     </div>    
                 </div>
@@ -860,13 +843,14 @@
                     <div class="food-menu-item-content">
                         <h3>том ям</h3>
                         <span class="menu-bar-item-description">
-                            [БУЛЬОН ТОМ ЯМ, КРЕВЕТКИ, ЛАПША УДОН, ЧЕРРИ, ШАМПИНЬОНЫ, КИНЗА]
+                            [Креветки, шампиньоны, помидоры черри, 
+                            пшеничная лапша и бульон Том Ям]
                         </span>
-                        <span class="menu-bar-item-weight">
+<!--                        <span class="menu-bar-item-weight">
                             250 гр.
-                        </span>
+                        </span>-->
                         <span class="menu-bar-item-price">
-                            ~299
+                            ~399
                         </span>
                     </div>    
                 </div>
@@ -904,16 +888,17 @@
                         </a>
                     </div>
                     <div class="food-menu-item-content">
-                        <h3>ребрышки свиные с соусом bbq</h3>
+                        <h3>Свиные ребрышки в глазури <strong style="color:red"> от Шефа</strong></h3>
                         <span class="menu-bar-item-description">
-                            [РЕБРА, ЗАПЕЧЕННЫЕ С СОУСОМ БАРБЕКЮ, ПОДАЮТСЯ С КАРТОФЕЛЕМ ФРИ,
-                            ПОМИДОРАМИ ЧЕРРИ]
+                            [Свиные ребрышки в апельсиновой глазури 
+                            с соусом BBQ, картофельными дольками, микс салатом 
+                            и помидорами черри]
                         </span>
-                        <span class="menu-bar-item-weight">
+<!--                        <span class="menu-bar-item-weight">
                             215/90/30/20 гр.
-                        </span>
+                        </span>-->
                         <span class="menu-bar-item-price">
-                            ~449
+                            ~799
                         </span>
                     </div>    
                 </div>
@@ -926,12 +911,12 @@
                     <div class="food-menu-item-content">
                         <h3>картофель жареный по-домашнему</h3>
                         <span class="menu-bar-item-description">
-                            [КАРТОФЕЛЬ, ОБЖАРЕННЫЙ С ЛУКОМ И ШАМПИНЬОНАМИ И СЛИВКАМИ,
-                            ПОДАЕТСЯ С СОЛЕНЫМИ ОГУРЧИКАМИ]
+                            [Жареный по-домашнему картофель с куриной грудкой,
+                            шампиньонами, луком, сливочным соусом и солеными огурцами]
                         </span>
-                        <span class="menu-bar-item-weight">
+<!--                        <span class="menu-bar-item-weight">
                             350/30 гр.
-                        </span>
+                        </span>-->
                         <span class="menu-bar-item-price">
                             ~399
                         </span>
@@ -940,27 +925,48 @@
                         </span>
                     </div>    
                 </div>
+                
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
-                        <a href="img/menu/osn-menu/lazania-boloneze.jpg" data-fancybox="image-lazania-boloneze" data-caption="Лазанья Болоньезе">
-                            <img src="img/menu/osn-menu/lazania-boloneze.jpg" class="item-img img-fluid" title="Лазанья Болоньезе" alt="">
+                        <div class="hit-label"></div>
+                        <a href="img/menu/osn-menu/steik-semga-big.jpg" data-fancybox="image-steik-semga" data-caption="Cтейк из семги">
+                            <img src="img/menu/osn-menu/steik-semga-big.jpg" class="item-img img-fluid" title="Cтейк из семги" alt="Cтейк из семги">
                         </a>
                     </div>
                     <div class="food-menu-item-content">
-                        <h3>лазанья болоньезе</h3>
+                        <h3>Cтейк из семги</h3>
                         <span class="menu-bar-item-description">
-                            [ЛАЗАНЬЯ С СОУСАМИ БОЛОНЬЕЗЕ И БЕШАМЕЛЬ,
-                            ЗАПЕЧЕННАЯ С МОЦАРЕЛЛОЙ И СЫРОМ ПАРМЕЗАН]
+                            [СТЕЙК ИЗ СЕМГИ С КАРТОФЕЛЕМ]
                         </span>
-                        <span class="menu-bar-item-weight">
-                            30 гр.
-                        </span>
+<!--                        <span class="menu-bar-item-weight">
+                            250 гр.
+                        </span>-->
                         <span class="menu-bar-item-price">
-                            ~399
+                            ~699
                         </span>
                     </div>    
                 </div>
                 <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/menu/osn-menu/beafsteks.jpg" data-fancybox="image-bifsteks" data-caption="Бифштекс">
+                            <img src="img/menu/osn-menu/beafsteks.jpg" class="item-img img-fluid" title="Бифштекс" alt="Бифштекс">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>бифштекс</h3>
+                        <span class="menu-bar-item-description"> 
+                            [КОТЛЕТА ИЗ ГОВЯДИНЫ, ЯЙЦО, СЫР ЧЕДДЕР]
+                            [ПОДАЕТСЯ С КАРТОФЕЛЬНЫМИ ДОЛЬКАМИ]
+                        </span>
+<!--                        <span class="menu-bar-item-weight">
+                            270 гр. в сыром виде
+                        </span>-->
+                        <span class="menu-bar-item-price">
+                            ~599
+                        </span>
+                    </div>    
+                </div>
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/osn-menu/jarkoe-semga.jpg" data-fancybox="image-zharkoeizsemgi" data-caption="Жаркое из семги">
                             <img src="img/menu/osn-menu/jarkoe-semga.jpg" class="item-img img-fluid" title="Жаркое из семги" alt="">
@@ -979,7 +985,7 @@
                             ~499
                         </span>
                     </div>    
-                </div>
+                </div>-->
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/osn-menu/grill-kolbaski.jpg" data-fancybox="image-kolbaskizgar" data-caption="Колбаски-гриль с гарнирами и соусом BBQ">
@@ -990,14 +996,13 @@
                         <h3>колбаски-гриль с гарнирами и соусом BBQ</h3>
                         <span class="menu-bar-item-description">
                             [<span style="color:#ffc800;display: inline">КУРИНЫЕ</span> / <span style="color:#59AA47;display: inline">СВИНЫЕ</span>]
-                            [СОЧНЫЕ КОЛБАСКИ,ПРИГОТОВЛЕННЫЕ НА ГРИЛЕ]
-                            [ПОДАЮТСЯ С КАРТОФЕЛЬНЫМИ ДОЛЬКАМИ, ТУШЕНОЙ КАПУСТОЙ С БЕКОНОМ]
+                            [Колбаски с картофельными дольками, микс салатом и помидорами черри]
                         </span>
-                        <span class="menu-bar-item-weight">
+<!--                        <span class="menu-bar-item-weight">
                             150/90/75 гр.
-                        </span>
+                        </span>-->
                         <span class="menu-bar-item-price">
-                            ~399
+                            ~499
                         </span>
                         <span class="menu-item-dop">
                             ДОБАВЬ КОЛБАСКУ ЗА 99<strong>j</strong>
@@ -1012,15 +1017,19 @@
                     </div>
                     <div class="food-menu-item-content">
                         <h3>Индейка с картофельными дольками и овощами гриль</h3>
-                        <span class="menu-bar-item-weight">
-                            280 гр.
+                        <span class="menu-bar-item-description">
+                            [Стейк из грудки индейки с овощами гриль и
+                            картофельными дольками]
                         </span>
+<!--                        <span class="menu-bar-item-weight">
+                            280 гр.
+                        </span>-->
                         <span class="menu-bar-item-price">
-                            ~499
+                            ~599
                         </span>
                     </div>    
                 </div>
-                <div class="food-menu-item grid">
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <div class="new-label"></div>
                         <a href="img/menu/osn-menu/shashliki-assorti.jpg" data-fancybox="image-shashliki-assorti" data-caption="Ассорти из шашлычков">
@@ -1039,17 +1048,17 @@
                             ~599
                         </span>
                     </div>    
-                </div>
+                </div>-->
             </div>
 
             <div class="food-menu-advertisment" id="pasta">
                 <span>
-                    паста и пицца ● от 399<i class="fas fa-ruble-sign"></i>
+                    паста  ● от 399<i class="fas fa-ruble-sign"></i>
                 </span>
             </div>
 
             <div class="food-menu-menu grid">
-                <div class="food-menu-item grid">
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/osn-menu/spagetty-shrimps.jpg" data-fancybox="image-spagetti-krev" data-caption="Спагетти с креветками и сёмгой в сливочном соусе">
                             <img src="img/menu/osn-menu/spagetty-shrimps.jpg" class="item-img img-fluid" title="Спагетти с креветками и сёмгой в сливочном соусе" alt="">
@@ -1068,8 +1077,8 @@
                             ~499
                         </span>
                     </div>    
-                </div>
-                <div class="food-menu-item grid">
+                </div>-->
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/osn-menu/fettuccini.jpg" data-fancybox="image-fettucini" data-caption="Феттучини с индейкой">
                             <img src="img/menu/osn-menu/fettuccini.jpg" class="item-img img-fluid" title="Феттучини с индейкой" alt="Феттучини с индейкой">
@@ -1088,8 +1097,8 @@
                             ~399
                         </span>
                     </div>    
-                </div>
-                <div class="food-menu-item grid">
+                </div>-->
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/osn-menu/spaggett-vetchina.jpg" data-fancybox="image-spaggett-vetchina" data-caption="Спагетти с ветчиной и грибами">
                             <img src="img/menu/osn-menu/spaggett-vetchina.jpg" class="item-img img-fluid" title="Спагетти с ветчиной и грибами" alt="Спагетти с ветчиной и грибами">
@@ -1107,6 +1116,25 @@
                             ~399
                         </span>
                     </div>    
+                </div>-->
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/no-image.gif" data-fancybox="image-karbonara" data-caption="Спагетти карбонара">
+                            <img src="img/no-image.gif" class="item-img img-fluid" title="Спагетти карбонара" alt="">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Спагетти Нери с креветками и семгой </h3>
+                        <span class="menu-bar-item-description">
+                            [Семга, креветки, спагетти Нери, вяленые помидоры, черри и сливочный соус]
+                        </span>
+<!--                        <span class="menu-bar-item-weight">
+                            280 гр.
+                        </span>-->
+                        <span class="menu-bar-item-price">
+                            ~599
+                        </span>
+                    </div>    
                 </div>
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
@@ -1121,15 +1149,34 @@
                             С НЕЖНЕЙШИМ БЕКОНОМ В СЛИВОЧНОМ
                             СОУСЕ С КУРИНЫМ ЯЙЦОМ]
                         </span>
-                        <span class="menu-bar-item-weight">
+<!--                        <span class="menu-bar-item-weight">
                             280 гр.
-                        </span>
+                        </span>-->
                         <span class="menu-bar-item-price">
                             ~399
                         </span>
                     </div>    
                 </div>
                 <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/menu/osn-menu/lazania-boloneze.jpg" data-fancybox="image-lazania-boloneze" data-caption="Лазанья Болоньезе">
+                            <img src="img/menu/osn-menu/lazania-boloneze.jpg" class="item-img img-fluid" title="Лазанья Болоньезе" alt="">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>лазанья болоньезе</h3>
+                        <span class="menu-bar-item-description">
+                            [Мясная лазанья с сыром моцарелла]
+                        </span>
+<!--                        <span class="menu-bar-item-weight">
+                            30 гр.
+                        </span>-->
+                        <span class="menu-bar-item-price">
+                            ~499
+                        </span>
+                    </div>    
+                </div>
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <div class="new-label"></div>
                         <a href="img/menu/osn-menu/pepperoni.jpg" data-fancybox="image-pepperoni" data-caption="Пицца пепперони">
@@ -1148,8 +1195,8 @@
                             ~399
                         </span>
                     </div>    
-                </div>
-                <div class="food-menu-item grid">
+                </div>-->
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <div class="new-label"></div>
                         <a href="img/menu/osn-menu/pizza-cow.jpg" data-fancybox="image-pizza-cow" data-caption="Пицца с говядиной и беконом">
@@ -1170,8 +1217,8 @@
                             ~499
                         </span>
                     </div>    
-                </div>
-                <div class="food-menu-item grid">
+                </div>-->
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <div class="new-label"></div>
                         <a href="img/menu/osn-menu/pizza-4-cheeze.jpg" data-fancybox="image-pizza-4-cheeze" data-caption="Пицца 4 сыра">
@@ -1191,8 +1238,8 @@
                             ~449
                         </span>
                     </div>    
-                </div>
-                <div class="food-menu-item grid">
+                </div>-->
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <div class="new-label"></div>
                         <a href="img/menu/osn-menu/pizza-veget.jpg" data-fancybox="image-pizza-veget" data-caption="Пицца вегетарианская">
@@ -1212,36 +1259,17 @@
                             ~399
                         </span>
                     </div>    
-                </div>
+                </div>-->
             </div>
 
-            <div class="food-menu-advertisment" id="steiks">
+<!--            <div class="food-menu-advertisment" id="steiks">
                 <span>
                     стейки ● от 499<i class="fas fa-ruble-sign"></i>
                 </span>
-            </div>
+            </div>-->
 
-            <div class="food-menu-menu grid" >
-                <div class="food-menu-item grid">
-                    <div class="food-menu-item-img">
-                        <div class="hit-label"></div>
-                        <a href="img/menu/osn-menu/steik-semga-big.jpg" data-fancybox="image-steik-semga" data-caption="Cтейк из семги">
-                            <img src="img/menu/osn-menu/steik-semga-big.jpg" class="item-img img-fluid" title="Cтейк из семги" alt="Cтейк из семги">
-                        </a>
-                    </div>
-                    <div class="food-menu-item-content">
-                        <h3>Cтейк из семги</h3>
-                        <span class="menu-bar-item-description">
-                            [СТЕЙК ИЗ СЕМГИ С КАРТОФЕЛЕМ]
-                        </span>
-                        <span class="menu-bar-item-weight">
-                            250 гр.
-                        </span>
-                        <span class="menu-bar-item-price">
-                            ~599
-                        </span>
-                    </div>    
-                </div>
+<!--            <div class="food-menu-menu grid" >
+                
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/osn-menu/steik-new-york-big.jpg" data-fancybox="image-steik-new-york" data-caption="Cтейк «нью-йорк»">
@@ -1282,31 +1310,12 @@
                         </span>
                     </div>    
                 </div>
-                <div class="food-menu-item grid">
-                    <div class="food-menu-item-img">
-                        <a href="img/menu/osn-menu/beafsteks.jpg" data-fancybox="image-bifsteks" data-caption="Бифштекс">
-                            <img src="img/menu/osn-menu/beafsteks.jpg" class="item-img img-fluid" title="Бифштекс" alt="Бифштекс">
-                        </a>
-                    </div>
-                    <div class="food-menu-item-content">
-                        <h3>бифштекс</h3>
-                        <span class="menu-bar-item-description"> 
-                            [КОТЛЕТА ИЗ ГОВЯДИНЫ, ЯЙЦО, СЫР ЧЕДДЕР]
-                            [ПОДАЕТСЯ С КАРТОФЕЛЬНЫМИ ДОЛЬКАМИ]
-                        </span>
-                        <span class="menu-bar-item-weight">
-                            270 гр. в сыром виде
-                        </span>
-                        <span class="menu-bar-item-price">
-                            ~599
-                        </span>
-                    </div>    
-                </div>
-            </div>
+               
+            </div>-->
 
             <div class="food-menu-advertisment" id="garniry">
                 <span>
-                    гарниры ●  149<i class="fas fa-ruble-sign"></i>
+                    гарниры ●  199<i class="fas fa-ruble-sign"></i>
                 </span>
             </div>
 
@@ -1320,18 +1329,18 @@
                     <div class="food-menu-item-content">
                         <h3>овощи гриль</h3>
                         <span class="menu-bar-item-description">
-                            [БОЛГАРСКИЙ ПЕРЕЦ, КАБАЧОК, БАКЛАЖАН,
-                            ЛУК КРАСНЫЙ, ШАМПИНЬОНЫ]
+                            [Болгарский перец, баклажаны, грибы шампиньоны
+                            и кабачки обжареные на гриле]
                         </span>
-                        <span class="menu-bar-item-weight">
+<!--                        <span class="menu-bar-item-weight">
                             130 гр.
-                        </span>
+                        </span>-->
                         <span class="menu-bar-item-price">
-                            ~199
+                            ~299
                         </span>
                     </div>    
                 </div>
-                <div class="food-menu-item grid">
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/osn-menu/potato-mini.jpg" data-fancybox="image-potato-mini" data-caption="Мини - картофель">
                             <img src="img/menu/osn-menu/potato-mini.jpg" class="item-img img-fluid" alt="potato-mini">
@@ -1346,8 +1355,8 @@
                             ~149
                         </span>
                     </div>    
-                </div>
-                <div class="food-menu-item grid">
+                </div>-->
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/osn-menu/brokkoli-big.jpg" data-fancybox="image-brokkoli" data-caption="Брокколи на пару">
                             <img src="img/menu/osn-menu/brokkoli-big.jpg" class="item-img img-fluid" alt="brokkoli">
@@ -1362,8 +1371,8 @@
                             ~149
                         </span>
                     </div>    
-                </div>
-                <div class="food-menu-item grid">
+                </div>-->
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/osn-menu/po-derevenski.jpg" data-fancybox="image-po-derevenski" data-caption="Картофель По - Деревенски">
                             <img src="img/menu/osn-menu/po-derevenski.jpg" class="item-img img-fluid" alt="po-derevenski">
@@ -1378,7 +1387,7 @@
                             ~149
                         </span>
                     </div>    
-                </div>
+                </div>-->
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <div class="hit-label"></div>
@@ -1388,11 +1397,14 @@
                     </div>
                     <div class="food-menu-item-content">
                         <h3>картофель фри</h3>
-                        <span class="menu-bar-item-weight">
-                            120/20 гр.
+                        <span class="menu-bar-item-description">
+                            [картофель фри]
                         </span>
+<!--                        <span class="menu-bar-item-weight">
+                            120/20 гр.
+                        </span>-->
                         <span class="menu-bar-item-price">
-                            ~149
+                            ~199
                         </span>
                     </div>    
                 </div>
@@ -1404,11 +1416,14 @@
                     </div>
                     <div class="food-menu-item-content">
                         <h3>Картофель фри с беконом</h3>
-                        <span class="menu-bar-item-weight">
-                            150 гр.
+                        <span class="menu-bar-item-description">
+                            [Бекон, картофель фри и сыр]
                         </span>
+<!--                        <span class="menu-bar-item-weight">
+                            150 гр.
+                        </span>-->
                         <span class="menu-bar-item-price">
-                            ~199
+                            ~299
                         </span>
                     </div>    
                 </div>
@@ -1417,7 +1432,7 @@
 
             <div class="food-menu-advertisment" id="burgers">
                 <span>
-                    бургеры ● от 399<i class="fas fa-ruble-sign"></i>
+                    бургеры и сендвичи ● от 399<i class="fas fa-ruble-sign"></i>
                 </span>
             </div>
 
@@ -1430,22 +1445,41 @@
                         </a>
                     </div>
                     <div class="food-menu-item-content">
-                        <h3>буффало билл</h3>
+                        <h3>Гвоздатый бургер</h3>
                         <span class="menu-bar-item-description">
-                            [БУЛОЧКА С КУНЖУТОМ, КОТЛЕТА ИЗ ГОВЯДИНЫ, СОУС BBQ,
-                            ПОДЖАРЕНЫЙ БЕКОН, ХРУСТЯЩИЙ ЛИСТ САЛАТА, СВЕЖИЙ ПОМИДОР,
-                            СОЛЁНЫЙ ОГУРЕЦ, ЛУК ФРИ, МАЙОНЕЗ]
-                            [ПОДАЕТСЯ С КАРТОФЕЛЕМ ФРИ И КЕТЧУПОМ]
+                            [Булочка для бургера, котлета из говядины, листья 
+                            салата, соленые огурцы, свежие помидоры, красный лук, бекон, картофель фри и соуса]
                         </span>
                         <span class="menu-bar-item-weight">
                             280/90/20 гр.
                         </span>
                         <span class="menu-bar-item-price">
-                            ~399
+                            ~699
                         </span>
                     </div>    
                 </div>
                 <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/menu/osn-menu/burrito.jpg" data-fancybox="image-burrito" data-caption="Буррито">
+                            <img src="img/menu/osn-menu/burrito.jpg" class="item-img img-fluid" alt="Буррито">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Буррито блэк с курицей</h3>
+                        <span class="menu-bar-item-description">
+                            [КУРИНАЯ ГРУДКА, ЛУК КРАСНЫЙ, ПЕРЕЦ БОЛГАРСКИЙ,
+                            ПЕРЕЦ ЧИПОТЛЕ, СОУС САЛЬСА, ЛУК ЖАРЕНЫЙ, ЧЕДДЕР,
+                            ТОРТИЛЬЯ, КАРТОФЕЛЬНЫЕ ДОЛЬКИ, СОУС СЫРНЫЙ ]
+                        </span>
+                        <span class="menu-bar-item-weight">
+                            270/90/20 гр.
+                        </span>
+                        <span class="menu-bar-item-price">
+                            ~499
+                        </span>
+                    </div>
+                </div>
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/osn-menu/old-jack-big.jpg" data-fancybox="image-old-jack-big" data-caption="Бургер Старина Джек">
                             <img src="img/menu/osn-menu/old-jack-big.jpg" class="item-img img-fluid" alt="old-jack">
@@ -1466,8 +1500,8 @@
                             ~449
                         </span>
                     </div>    
-                </div>
-                <div class="food-menu-item grid">
+                </div>-->
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <div class="veget-label"></div>
                         <a href="img/menu/osn-menu/lasvegas-big.jpg" data-fancybox="image-lasvegas" data-caption="Бургер Лас Вегас">
@@ -1488,8 +1522,8 @@
                             ~399
                         </span>
                     </div>    
-                </div>
-                <div class="food-menu-item grid">
+                </div>-->
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/osn-menu/tarantino.jpg" data-fancybox="image-tarantino" data-caption="Бургер Тарантино">
                             <img src="img/menu/osn-menu/tarantino.jpg" class="item-img img-fluid" alt="Бургер Тарантино">
@@ -1510,25 +1544,24 @@
                             ~549
                         </span>
                     </div>    
-                </div>
+                </div>-->
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
-                        <a href="img/menu/osn-menu/club-sandwich.jpg" data-fancybox="image-club-sandwich" data-caption="Клаб-сэндвич с окороком">
-                            <img src="img/menu/osn-menu/club-sandwich.jpg" class="item-img img-fluid" alt="Клаб-сэндвич с окороком">
+                        <a href="img/menu/osn-menu/club-sandwich.jpg" data-fancybox="image-club-sandwich" data-caption="Сэндвич с копченой курицей">
+                            <img src="img/menu/osn-menu/club-sandwich.jpg" class="item-img img-fluid" alt="Сэндвич с копченой курицей">
                         </a>
                     </div>
                     <div class="food-menu-item-content">
-                        <h3>клаб-сэндвич с окороком</h3>
+                        <h3>Сэндвич с копченой курицей</h3>
                         <span class="menu-bar-item-description">
-                            [ПОДЖАРЕННЫЙ ТОСТОВЫЙ ХЛЕБ, ОКОРОК,
-                            ЛИСТ САЛАТА, СВЕЖИЙ ПОМИДОР И ОГУРЕЦ]
-                            [ПОДАЕТСЯ С КАРТОФЕЛЕМ ФРИ И ТОМАТНЫМ СОУСОМ]
+                            [Чиабатта, листья салата, свежие огурцы и помидоры,
+                            копченая курица, картофель фри и соуса]
                         </span>
                         <span class="menu-bar-item-weight">
                             190/90/20 гр.
                         </span>
                         <span class="menu-bar-item-price">
-                            ~299
+                            ~399
                         </span>
                     </div>    
                 </div>
@@ -1536,13 +1569,13 @@
 
 
 
-            <div class="food-menu-advertisment" id="hot_dogs">
+<!--            <div class="food-menu-advertisment" id="hot_dogs">
                 <span>
                     бешеные псы ● от 349<i class="fas fa-ruble-sign"></i>
                 </span>
-            </div>
+            </div>-->
 
-            <div class="food-menu-menu grid" >
+<!--            <div class="food-menu-menu grid" >
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/osn-menu/good-boy-big.jpg" data-fancybox="image-good-boy" data-caption="Хороший Парень">
@@ -1588,32 +1621,12 @@
                         </span>
                     </div>
                 </div> 
-                <div class="food-menu-item grid">
-                    <div class="food-menu-item-img">
-                        <a href="img/menu/osn-menu/burrito.jpg" data-fancybox="image-burrito" data-caption="Буррито">
-                            <img src="img/menu/osn-menu/burrito.jpg" class="item-img img-fluid" alt="Буррито">
-                        </a>
-                    </div>
-                    <div class="food-menu-item-content">
-                        <h3>Буррито блэк с курицей</h3>
-                        <span class="menu-bar-item-description">
-                            [КУРИНАЯ ГРУДКА, ЛУК КРАСНЫЙ, ПЕРЕЦ БОЛГАРСКИЙ,
-                            ПЕРЕЦ ЧИПОТЛЕ, СОУС САЛЬСА, ЛУК ЖАРЕНЫЙ, ЧЕДДЕР,
-                            ТОРТИЛЬЯ, КАРТОФЕЛЬНЫЕ ДОЛЬКИ, СОУС СЫРНЫЙ ]]
-                        </span>
-                        <span class="menu-bar-item-weight">
-                            270/90/20 гр.
-                        </span>
-                        <span class="menu-bar-item-price">
-                            ~399
-                        </span>
-                    </div>
-                </div> 
-            </div>
+                 
+            </div>-->
 
             <div class="food-menu-advertisment" id="deserts">
                 <span>
-                    десерты ● одна порция 199<i class="fas fa-ruble-sign"></i> 
+                    десерты ● от 99<i class="fas fa-ruble-sign"></i> 
                 </span>
             </div>
 
@@ -1625,21 +1638,21 @@
                         </a>
                     </div>
                     <div class="food-menu-item-content">
-                        <h3>Безалкогольное мороженое</h3>
+                        <h3>Мороженое</h3>
                         <span class="menu-bar-item-description">
-                            <span>♣Мятное ♣Имбирное ♣Ванильное</span>
-                            <span>♣Нефть ♣Бабл гам ♣Энерджи айс</span>
-                            <span>♣Шоколадное ♣Фисташковое ♣Малиновое</span>
+                            <span>♣Ванильное</span>
+                            <span>♣Шоколадное</span>
+                            <span>♣Фисташковое</span>
                         </span>
                         <span class="menu-item-dop">
                             1 шарик ~ 99<strong>j</strong>
                         </span>
-                        <span class="menu-item-dop">
+<!--                        <span class="menu-item-dop">
                             3 шарика ~ 299<strong>j</strong>
-                        </span>
+                        </span>-->
                     </div>    
                 </div>
-                <div class="food-menu-item grid">
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/osn-menu/ice-cream.jpg" data-fancybox="image-ice-cream-alko" data-caption="Мороженное з шарика">
                             <img src="img/menu/osn-menu/ice-cream.jpg" class="item-img img-fluid" title="Мороженное з шарика">
@@ -1659,7 +1672,7 @@
                             3 шарика ~ 349<strong>j</strong>
                         </span>
                     </div>    
-                </div>
+                </div>-->
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/osn-menu/cheese-cake-big.jpg" data-fancybox="image-cheese-cake" data-caption="Классический Чизкейк">
@@ -1669,14 +1682,13 @@
                     <div class="food-menu-item-content">
                         <h3>Классический Чизкейк</h3>
                         <span class="menu-bar-item-description">
-                            [КЛАССИЧЕСКИЙ ЧИЗКЕЙК ИЗ СЛИВОЧНОГО СЫРА,
-                            С ДОБАВЛЕНИЕМ НАТУРАЛЬНОЙ ВАНИЛИ]
+                            [Чизкейк классический с клубничным соусом и мятой]
                         </span>
-                        <span class="menu-bar-item-weight">
+<!--                        <span class="menu-bar-item-weight">
                             110 гр.
-                        </span>
+                        </span>-->
                         <span class="menu-bar-item-price">
-                            ~199
+                            ~299
                         </span>
                     </div>    
                 </div>
@@ -1689,18 +1701,17 @@
                     <div class="food-menu-item-content">
                         <h3>чизкейк «тропические фрукты»</h3>
                         <span class="menu-bar-item-description">
-                            [ЛЕГКИЙ ФРУКТОВО-ТВОРОЖНЫЙ ТОРТ НА ОСНОВЕ
-                            СЛИВОЧНОГО СЫРА, СЛИВОК И ПЮРЕ ИЗ ТРОПИЧЕСКОГО МАНГО]
+                            [Чизкей манго-маракуйя с физалисом и клубничным соусом]
                         </span>
-                        <span class="menu-bar-item-weight">
+<!--                        <span class="menu-bar-item-weight">
                             110 гр.
-                        </span>
+                        </span>-->
                         <span class="menu-bar-item-price">
                             ~299
                         </span>
                     </div>    
                 </div> 
-                <div class="food-menu-item grid">
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/osn-menu/cheesecake-caramel-big.jpg" data-fancybox="image-cheesecake-caramel" data-caption="Чизкейк «карамель»">
                             <img src="img/menu/osn-menu/cheesecake-caramel-big.jpg" class="item-img img-fluid" title="cheesecake-caramel">
@@ -1720,7 +1731,7 @@
                             ~299
                         </span>
                     </div>    
-                </div>
+                </div>-->
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/osn-menu/blini.jpg" data-fancybox="image-bliny" data-caption="Блины с клубникой и кремом маскарпоне">
@@ -1730,18 +1741,18 @@
                     <div class="food-menu-item-content">
                         <h3>Блинчики с маскарпоне</h3>
                         <span class="menu-bar-item-description">
-                            [БЛИНЫ, КЛУБНИКА, КРЕМ ИЗ МАСКАРПОНЕ, СОУС КЛУБНИЧНЫЙ,
-                            МЯТА, САХАРНАЯ ПУДРА]
+                            [Блинчики с кремом из маскарпоне, клубникой,
+                            мятой и клубничным соусом]
                         </span>
-                        <span class="menu-bar-item-weight">
+<!--                        <span class="menu-bar-item-weight">
                             230 гр.
-                        </span>
+                        </span>-->
                         <span class="menu-bar-item-price">
                             ~299
                         </span>
                     </div>  
                 </div>
-                <div class="food-menu-item grid">
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/osn-menu/fruit-assorti-big.jpg" data-fancybox="image-fruit-assorti" data-caption="Фруктовое ассорти">
                             <img src="img/menu/osn-menu/fruit-assorti-big.jpg" class="item-img img-fluid" title="fruit-assorti">
@@ -1759,7 +1770,7 @@
                             ~199
                         </span>
                     </div>    
-                </div>
+                </div>-->
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/osn-menu/brauni-big.jpg" data-fancybox="image-brauni" data-caption="Брауни шоколадный с грецким орехом">
@@ -1767,16 +1778,15 @@
                         </a>
                     </div>
                     <div class="food-menu-item-content">
-                        <h3>брауни шоколадный с грецким орехом</h3>
+                        <h3>брауни</h3>
                         <span class="menu-bar-item-description">
-                            [НЕЖНЫЙ И ТАЮЩИЙ ВО РТУ ДЕСЕРТ С ЯРКИМ
-                            ВКУСОМ ШОКОЛАДА И ГРЕЦКИМ ОРЕХОМ]
+                            [Шоколадный брауни с соусом]
                         </span>
-                        <span class="menu-bar-item-weight">
+<!--                        <span class="menu-bar-item-weight">
                             90 гр.
-                        </span>
+                        </span>-->
                         <span class="menu-bar-item-price">
-                            ~199
+                            ~299
                         </span>
                     </div>    
                 </div>
@@ -1789,18 +1799,17 @@
                     <div class="food-menu-item-content">
                         <h3>медовик</h3>
                         <span class="menu-bar-item-description">
-                            [КЛАССИЧЕСКИЙ МЕДОВЫЙ ТОРТ С ПРОСЛОЙКОЙ ИЗ СЛИВОЧНОГО КРЕМА]
-                            [ПОДАЕТСЯ С КАРАМЕЛЬНЫМ СОУСОМ И ГРЕЦКИМИ ОРЕХАМИ]
+                            [Классический слоеный торт медовик с карамельным соусом]
                         </span>
-                        <span class="menu-bar-item-weight">
+<!--                        <span class="menu-bar-item-weight">
                             110 гр.
-                        </span>
+                        </span>-->
                         <span class="menu-bar-item-price">
-                            ~199
+                            ~299
                         </span>
                     </div>    
                 </div>
-                <div class="food-menu-item grid">
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/osn-menu/rafaello.jpg" data-fancybox="image-rafaello" data-caption="Рафаэлло">
                             <img src="img/menu/osn-menu/rafaello.jpg" class="item-img img-fluid" title="Рафаэлло">
@@ -1815,7 +1824,7 @@
                             ~299
                         </span>
                     </div>    
-                </div>
+                </div>-->
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <div class="new-label"></div>
@@ -1826,13 +1835,12 @@
                     <div class="food-menu-item-content">
                         <h3>банана сплит</h3>
                         <span class="menu-bar-item-description">
-                            [МОРОЖЕНОЕ, БАНАН, ВЗБИТЫЕ СЛИВКИ,
-                            ШОКОЛАДНЫЙ СОУС, КЛУБНИЧНЫЙ СОУС,
-                            КЕДРОВЫЕ ОРЕХИ, КЛУБНИКА]
+                            [Ванильное мороженое, взбитые сливки, банан,
+                            кедровые орешки, шоколадный и клубничный соуса]
                         </span>
-                        <span class="menu-bar-item-weight">
+<!--                        <span class="menu-bar-item-weight">
                             100/55/30/10/10/3/10 гр.
-                        </span>
+                        </span>-->
                         <span class="menu-bar-item-price">
                             ~299
                         </span>
@@ -1847,26 +1855,18 @@
                     <div class="food-menu-item-content">
                         <h3>тирамису</h3>
                         <span class="menu-bar-item-description">
-                            [ДОМАШНЕЕ ТИРАМИСУ
-                            С КРЕМОМ ИЗ МАСКАРПОНЕ]
+                            [Домашнее тирамису с кремом из маскарпоне, бисквитом и клубникой]
                         </span>
-                        <span class="menu-bar-item-weight">
+<!--                        <span class="menu-bar-item-weight">
                             150 гр.
-                        </span>
+                        </span>-->
                         <span class="menu-bar-item-price">
                             ~299
                         </span>
                     </div>    
                 </div>
-
-
-
-
+e
             </div>
-
-
-
-
             <!--конец основное меню-->  
         </div>
 
@@ -1884,14 +1884,135 @@
                         <span>
                             ежедневно                      
                         </span>
-                        <div class="lunch-time-time"><span>с 08:00 до 12:00</span></div>
+                        <div class="lunch-time-time"><span>с 08:00 до 11:00</span></div>
                     </div>
-                    <div class="right-item">
+<!--                    <div class="right-item">
                         <span>от 149<strong>j</strong> до 179<strong>j</strong> </span>
+                    </div>-->
+                </div>
+                
+                
+                
+                
+                <div class="food-menu-menu grid">
+                    <div class="food-menu-item grid">
+                        <div class="food-menu-item-img">
+                            <a href="img/menu/breakfast/syr.jpg" data-fancybox="image-br-1" data-caption="Сырники с клубничным соусом">
+                                <img src="img/menu/breakfast/syr.jpg" class="item-img img-fluid" alt="Сырники с клубничным соусом">
+                            </a>
+                        </div>
+                        <div class="food-menu-item-content">
+                            <h3>Сырники с клубничным соусом</h3>
+                            <span class="menu-bar-item-description">
+                                [Творожные сырники, мята и клубничный соус]
+                            </span>
+<!--                            <span class="menu-bar-item-weight">
+                                280/90/20 гр.
+                            </span>-->
+                            <span class="menu-bar-item-price">
+                                ~149
+                            </span>
+                        </div>    
+                    </div>
+                    <div class="food-menu-item grid">
+                        <div class="food-menu-item-img">
+                            <a href="img/menu/breakfast/oml.jpg" data-fancybox="image-br-2" data-caption="Омлет с беконом и помидорами">
+                                <img src="img/menu/breakfast/oml.jpg" class="item-img img-fluid" alt="Омлет с беконом и помидорами">
+                            </a>
+                        </div>
+                        <div class="food-menu-item-content">
+                            <h3>Омлет с беконом и помидорами</h3>
+                            <span class="menu-bar-item-description">
+                                [Омлет с беконом, помидорами и сыром]
+                            </span>
+                            <span class="menu-bar-item-price">
+                                ~149
+                            </span>
+                        </div>    
+                    </div>
+                    <div class="food-menu-item grid">
+                        <div class="food-menu-item-img">
+                            <a href="img/menu/breakfast/sand.jpg" data-fancybox="image-br-3" data-caption="Яичница с тостами">
+                                <img src="img/menu/breakfast/sand.jpg" class="item-img img-fluid" alt="Яичница с тостами">
+                            </a>
+                        </div>
+                        <div class="food-menu-item-content">
+                            <h3>Яичница с тостами</h3>
+                            <span class="menu-bar-item-description">
+                                [Яичница с тостами]
+                            </span>
+                            <span class="menu-bar-item-price">
+                                ~99
+                            </span>
+                        </div>    
+                    </div>
+                    <div class="food-menu-item grid">
+                        <div class="food-menu-item-img">
+                            <a href="img/menu/breakfast/blinchiki.jpg" data-fancybox="image-br-4" data-caption="Блины с топпингами">
+                                <img src="img/menu/breakfast/blinchiki.jpg" class="item-img img-fluid" alt="Блины с топпингами">
+                            </a>
+                        </div>
+                        <div class="food-menu-item-content">
+                            <h3>Блины с топпингами</h3>
+                            <span class="menu-bar-item-description">
+                                [Блинчики со сметаной и медом]
+                            </span>
+                            <span class="menu-bar-item-price">
+                                ~99
+                            </span>
+                        </div>    
+                    </div>
+                    <div class="food-menu-item grid">
+                        <div class="food-menu-item-img">
+                            <a href="img/menu/breakfast/ovs.jpg" data-fancybox="image-br-5" data-caption="Каша овсяная">
+                                <img src="img/menu/breakfast/ovs.jpg" class="item-img img-fluid" alt="Каша овсяная">
+                            </a>
+                        </div>
+                        <div class="food-menu-item-content">
+                            <h3>Каша овсяная</h3>
+                            <span class="menu-bar-item-description">
+                                [Традиционная овсяная каша на молоке]
+                            </span>
+                            <span class="menu-bar-item-price">
+                                ~99
+                            </span>
+                        </div>    
+                    </div>
+                    <div class="food-menu-item grid">
+                        <div class="food-menu-item-img">
+                            <a href="img/menu/bar/americano.jpg" data-fancybox="image-br-6" data-caption="Кофе американо">
+                                <img src="img/menu/bar/americano.jpg" class="item-img img-fluid" alt="Кофе американо">
+                            </a>
+                        </div>
+                        <div class="food-menu-item-content">
+                            <h3>Кофе американо</h3>
+                            <span class="menu-bar-item-description">
+                                [Кофе американо]
+                            </span>
+                            <span class="menu-bar-item-price">
+                                ~49
+                            </span>
+                        </div>    
+                    </div>
+                    <div class="food-menu-item grid">
+                        <div class="food-menu-item-img">
+                            <a href="img/menu/bar/tea-black.jpg" data-fancybox="image-br-7" data-caption="Чай">
+                                <img src="img/menu/bar/tea-black.jpg" class="item-img img-fluid" alt="Чай">
+                            </a>
+                        </div>
+                        <div class="food-menu-item-content">
+                            <h3>Чай</h3>
+                            <span class="menu-bar-item-description">
+                                [Чай]
+                            </span>
+                            <span class="menu-bar-item-price">
+                                ~49
+                            </span>
+                        </div>    
                     </div>
                 </div>
                 
-                <img style="margin-bottom: 40px;" src="img/menu/breakfast/breakfast.jpg" alt="" class="img-fluid">
+                <!--<img style="margin-bottom: 40px;" src="img/menu/breakfast/breakfast.jpg" alt="" class="img-fluid">-->
                 
                 
 <!--                <div class="breakfast-content-border grid">
@@ -2007,34 +2128,34 @@
 
             <div class="food-menu-advertisment" id="f_igristoevino">
                 <span>
-                    Игристое Вино ● от 149<i class="fas fa-ruble-sign"></i>
+                    Игристое Вино ● от 199<i class="fas fa-ruble-sign"></i>
                 </span>
             </div>
 
             <div class="food-menu-menu grid">
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
-                        <a href="img/menu/bar/IgristoeVino/martini-asti.jpg" data-fancybox="image-martin-asti" data-caption="Мартини Асти">
-                            <img src="img/menu/bar/IgristoeVino/martini-asti.jpg" class="item-img img-fluid" title="Мартини Асти" alt="Мартини Асти">
+                        <a href="img/menu/bar/IgristoeVino/martini-asti.jpg" data-fancybox="image-martin-asti" data-caption="Martini Asti">
+                            <img src="img/menu/bar/IgristoeVino/martini-asti.jpg" class="item-img img-fluid" title="Martini Asti" alt="Martini Asti">
                         </a>
                     </div>
                     <div class="food-menu-item-content">
-                        <h3>Мартини Асти</h3>
+                        <h3>Martini Asti</h3>
                         <span class="menu-bar-item-price">
-                            0.187 л. ~899
+                            0.187 л. ~999
                         </span>
                     </div>    
                 </div>
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
-                        <a href="img/menu/bar/IgristoeVino/martini-prosseco.jpg" data-fancybox="image-martin-prosseco" data-caption="Мартини Проссеко">
-                            <img src="img/menu/bar/IgristoeVino/martini-prosseco.jpg" class="item-img img-fluid" title="Мартини Проссеко" alt="Мартини Проссеко">
+                        <a href="img/menu/bar/IgristoeVino/martini-prosseco.jpg" data-fancybox="image-martin-prosseco" data-caption="Martini Prosecco">
+                            <img src="img/menu/bar/IgristoeVino/martini-prosseco.jpg" class="item-img img-fluid" title="Martini Prosecco" alt="Martini Prosecco">
                         </a>
                     </div>
                     <div class="food-menu-item-content">
-                        <h3>Мартини Проссеко</h3>
+                        <h3>Martini Prosecco</h3>
                         <span class="menu-bar-item-price">
-                            0.187 л. ~499
+                            0.187 л. ~549
                         </span>
                     </div>    
                 </div>
@@ -2101,7 +2222,7 @@
 
             <div class="food-menu-advertisment" id="f_vine">
                 <span>
-                    Вино ●  Франция ● от 1199<i class="fas fa-ruble-sign"></i>
+                    Вино ●  Франция ● от 1399<i class="fas fa-ruble-sign"></i>
                 </span>
             </div>
 
@@ -2254,7 +2375,7 @@
             
             <div class="food-menu-advertisment">
                 <span>
-                    Вино ●  Грузия ● от 1499<i class="fas fa-ruble-sign"></i>
+                    Вино ●  Грузия ● от 299<i class="fas fa-ruble-sign"></i>
                 </span>
             </div>
             
@@ -2291,7 +2412,7 @@
                         </span>
                     </div>    
                 </div>
-                <div class="food-menu-item grid">
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/no-image.gif" data-fancybox="image-mukuzani" data-caption="Мукузани красное сухое">
                             <img src="img/no-image.gif" class="item-img img-fluid" title="Мукузани красное сухое" alt="Мукузани красное сухое">
@@ -2306,7 +2427,7 @@
                             0.75 л. ~1799
                         </span>
                     </div>    
-                </div>
+                </div>-->
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/bar/Vine/kindzmaraulli.jpg" data-fancybox="image-kindzmarauli" data-caption="Киндзмараули красное п / сладкое">
@@ -2316,7 +2437,7 @@
                     <div class="food-menu-item-content">
                         <h3>Киндзмараули красное п / сладкое</h3>
                         <span class="menu-bar-item-price">
-                            150 мл. ~299
+                            150 мл. ~349
                         </span>
                         <span class="menu-bar-item-price">
                             0.75 л. ~1799
@@ -2332,7 +2453,7 @@
                     <div class="food-menu-item-content">
                         <h3>Саперави мускат красное п / сладкое</h3>
                         <span class="menu-bar-item-price">
-                            150 мл. ~299
+                            150 мл. ~349
                         </span>
                         <span class="menu-bar-item-price">
                             0.75 л. ~1799
@@ -2341,6 +2462,47 @@
                 </div>
             </div>
 
+            <div class="food-menu-advertisment" >
+                <span>
+                    Вино ● Армения ● от 249<i class="fas fa-ruble-sign"></i>
+                </span>
+            </div>
+            
+            <div class="food-menu-menu grid">
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/no-image.gif" data-fancybox="image-sharan-granat" data-caption="Вино Шаран Гранат кр.п/сл. ">
+                            <img src="img/no-image.gif" class="item-img img-fluid" title="Вино Шаран Гранат кр.п/сл. " alt="Вино Шаран Гранат кр.п/сл. ">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Вино Шаран Гранат кр.п/сл. </h3>
+                        <span class="menu-bar-item-price">
+                            75 мл. ~249
+                        </span>
+                        <span class="menu-bar-item-price">
+                            0.75 л. ~999
+                        </span>
+                    </div>    
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/menu/bar/portwain/DOW.jpg" data-fancybox="image-sharan-egevika" data-caption="Вино Шаран Ежевика кр.п/сл. ">
+                            <img src="img/menu/bar/portwain/DOW.jpg" class="item-img img-fluid" title="Вино Шаран Ежевика кр.п/сл.  " alt="Вино Шаран Ежевика кр.п/сл. ">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Вино Шаран Ежевика кр.п/сл. </h3>
+                        <span class="menu-bar-item-price">
+                            75 мл. ~249
+                        </span>
+                        <span class="menu-bar-item-price">
+                            0.75 л. ~999
+                        </span>
+                    </div>    
+                </div>
+            </div>
+            
             <div class="food-menu-advertisment" >
                 <span>
                     Портвейн ● от 249<i class="fas fa-ruble-sign"></i>
@@ -2383,7 +2545,7 @@
                     <div class="food-menu-item-content">
                         <h3>Бакарди-кола</h3>
                         <span class="menu-bar-item-description">
-                            [ром бакарди оакхард, кола]
+                            [Ром бакарди Оакхард, Кола]
                         </span>
                         <span class="menu-bar-item-price">
                             150 мл. ~399
@@ -2399,7 +2561,7 @@
                     <div class="food-menu-item-content">
                         <h3>Лоусон кола</h3>
                         <span class="menu-bar-item-description">
-                            [виски вильям лоусон, кола, лайм]
+                            [Виски Вильям Лоусон, Кола]
                         </span>
                         <span class="menu-bar-item-price">
                             150 мл. ~399
@@ -2415,10 +2577,10 @@
                     <div class="food-menu-item-content">
                         <h3>Мартини Тоник Бьянко</h3>
                         <span class="menu-bar-item-description">
-                            [мартини бьянко, тоник, лайм]
+                            [Мартини бьянко, Тоник, Лайм]
                         </span>
                         <span class="menu-bar-item-price">
-                            200/15 мл. ~399
+                            200/15 мл. ~449
                         </span>
                     </div>    
                 </div>
@@ -2431,10 +2593,26 @@
                     <div class="food-menu-item-content">
                         <h3>Мартини Тоник Россо</h3>
                         <span class="menu-bar-item-description">
-                            [мартинни россо,тоник, апельсин]
+                            [Мартинни Россо,Тоник, Апельсин]
                         </span>
                         <span class="menu-bar-item-price">
-                            200/15 мл. ~399
+                            200/15 мл. ~449
+                        </span>
+                    </div>    
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/no-image.gif" data-fancybox="image-martini-tonik-fierro" data-caption="Мартини Тоник Фиерро">
+                            <img src="img/no-image.gif" class="item-img img-fluid" title="Мартини Тоник Фиерро" alt="Мартини Тоник Фиерро">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Мартини Тоник Фиерро</h3>
+                        <span class="menu-bar-item-description">
+                            [Мартинни Фиеро,Тоник, Апельсин]
+                        </span>
+                        <span class="menu-bar-item-price">
+                            200/15 мл. ~449
                         </span>
                     </div>    
                 </div>
@@ -2447,7 +2625,7 @@
                     <div class="food-menu-item-content">
                         <h3>Дерзкое яблоко</h3>
                         <span class="menu-bar-item-description">
-                            [виски, яблочный сок, яблоко, сироп ваниль, корица]
+                            [виски, яблочный  сок, яблоко, сироп ваниль, корица]
                         </span>
                         <span class="menu-bar-item-price">
                             160/30 мл. ~399
@@ -2463,10 +2641,10 @@
                     <div class="food-menu-item-content">
                         <h3>Бакарди Мохито</h3>
                         <span class="menu-bar-item-description">
-                            [ром бакарди, лайм, мята, сахар, содовая] 
+                            [Ром бакарди, лайм, мята, сахар, содовая] 
                         </span>
                         <span class="menu-bar-item-price">
-                            100/60 мл. ~399
+                            100/60 мл. ~449
                         </span>
                     </div>    
                 </div>
@@ -2479,10 +2657,10 @@
                     <div class="food-menu-item-content">
                         <h3>Малиновый Мохито</h3>
                         <span class="menu-bar-item-description">
-                            [ром, лайм, мята, малина с/м, сироп малиновый, содовая] 
+                            [Ром, лайм, мята, малина с/м, сироп малиновый, содовая] 
                         </span>
                         <span class="menu-bar-item-price">
-                            150/65 мл. ~399
+                            150/65 мл. ~449
                         </span>
                     </div>    
                 </div>
@@ -2546,7 +2724,7 @@
                             [текила, ананасовый сок, мед, перец, корица, сок лимона]
                         </span>
                         <span class="menu-bar-item-price">
-                            180/5 мл. ~399
+                            180/5 мл. ~449
                         </span>
                     </div>    
                 </div>
@@ -2559,7 +2737,7 @@
                     <div class="food-menu-item-content">
                         <h3>Кровавая Мэри</h3>
                         <span class="menu-bar-item-description">
-                            [водка, ворчестер, табаско, томатный сок, соль, перец]
+                            [Водка, ворчестер, табаско, томатный сок, соль, перец]
                         </span>
                         <span class="menu-bar-item-price">
                             220/10 мл. ~399
@@ -2594,7 +2772,7 @@
                             [Джек дэниелс хани, проссеко, сок лайма, сахарный сироп, лайм]
                         </span>
                         <span class="menu-bar-item-price">
-                            160/10 мл. ~399
+                            160/10 мл. ~499
                         </span>
                     </div>    
                 </div>
@@ -2607,10 +2785,10 @@
                     <div class="food-menu-item-content">
                         <h3>Линчбургский Лимонад</h3>
                         <span class="menu-bar-item-description">
-                            [виски джек дэниелз, трипл сек, спрайт, сок лимона, сахарный сриоп]
+                            [виски Джек Дэниелз, Трипл сек, спрайт, сок лимона, сахарный сироп, лимон]
                         </span>
                         <span class="menu-bar-item-price">
-                            195/15 мл. ~399
+                            195/15 мл. ~499
                         </span>
                     </div>    
                 </div>
@@ -2624,7 +2802,7 @@
                     <div class="food-menu-item-content">
                         <h3>Лонг Айленд</h3>
                         <span class="menu-bar-item-description">
-                            [виски джек дэниелз, трипл сек, спрайт, сок лимона, сахарный сриоп, лимон]
+                            [водка, ром, джин, текила, трипл сек, сок лимона, сахар, кола]
                         </span>
                         <span class="menu-bar-item-price">
                             190/10 мл. ~499
@@ -2640,10 +2818,10 @@
                     <div class="food-menu-item-content">
                         <h3>Апероль Шпритц</h3>
                         <span class="menu-bar-item-description">
-                            [Aperol, вино игристое, вода газированная, апельсин]
+                            [апероль, вино игристое, вода газированная, апельсин]
                         </span>
                         <span class="menu-bar-item-price">
-                            260/30 мл. ~499
+                            260/30 мл. ~449
                         </span>
                     </div>    
                 </div>
@@ -2657,14 +2835,14 @@
                     <div class="food-menu-item-content">
                         <h3>Пина Колада</h3>
                         <span class="menu-bar-item-description">
-                            [Malibu, ром светлый, сливки, сок ананасовый, взбитые сливки]
+                            [Малибу, ром светлый, сливки, сок ананасовый, взбитые сливки]
                         </span>
                         <span class="menu-bar-item-price">
-                            270/10 мл. ~499
+                            270/10 мл. ~449
                         </span>
                     </div>    
                 </div>
-                <div class="food-menu-item grid">
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/bar/longDrinks/white_witch.jpg" data-fancybox="image-whitewitch" data-caption="Белая Ведьма">
                             <img src="img/menu/bar/longDrinks/white_witch.jpg" class="item-img img-fluid" title="Белая Ведьма" alt="Белая Ведьма">
@@ -2679,8 +2857,8 @@
                             100 мл. ~499
                         </span>
                     </div>    
-                </div>
-                <div class="food-menu-item grid">
+                </div>-->
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/bar/longDrinks/tiramisu.jpg" data-fancybox="image-tiramissu" data-caption="Тирамису">
                             <img src="img/menu/bar/longDrinks/tiramisu.jpg" class="item-img img-fluid" title="Тирамису" alt="Тирамису">
@@ -2695,7 +2873,7 @@
                             110 мл. ~499
                         </span>
                     </div>    
-                </div>
+                </div>-->
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/bar/longDrinks/negroni.jpg" data-fancybox="image-negroni" data-caption="Негрони">
@@ -2705,7 +2883,7 @@
                     <div class="food-menu-item-content">
                         <h3>Негрони</h3>
                         <span class="menu-bar-item-description">
-                            [джин, Campari, Martini rosato, Angostura bitter]
+                            [Джин,Campari, Martini rosato, Angostura bitter]
                         </span>
                         <span class="menu-bar-item-price">
                             90/30 мл. ~399
@@ -2721,7 +2899,7 @@
                     <div class="food-menu-item-content">
                         <h3>Олд Фэшн</h3>
                         <span class="menu-bar-item-description">
-                            [бурбон, тростниковый сахар, содовая, Аngostura bitter, цедра апельсина]
+                            [бурбон, тростниковый сахар, содовая, Angostura bitter, цедра апельсина]
                         </span>
                         <span class="menu-bar-item-price">
                             100/10 мл. ~399
@@ -2733,7 +2911,7 @@
 
             <div class="food-menu-advertisment" id="f_shots">
                 <span>
-                    Шоты ● от 299<i class="fas fa-ruble-sign"></i>
+                    Шоты ● от 349<i class="fas fa-ruble-sign"></i>
                 </span>
             </div>
 
@@ -2748,7 +2926,7 @@
                     <div class="food-menu-item-content">
                         <h3>Б-52</h3>
                         <span class="menu-bar-item-description">
-                            [трипл сек, бейлис, калуа]
+                            [Трипл сек, бейлис, калуа]
                         </span>
                         <span class="menu-bar-item-price">
                             50 мл. ~349
@@ -2767,11 +2945,11 @@
                             [самбука, бейлис, абсент, гренадин]
                         </span>
                         <span class="menu-bar-item-price">
-                            50 мл. ~299
+                            50 мл. ~349
                         </span>
                     </div>    
                 </div>
-                <div class="food-menu-item grid">
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/bar/shots/meduza.jpg" data-fancybox="image-meduza" data-caption="Медуза">
                             <img src="img/menu/bar/shots/meduza.jpg" class="item-img img-fluid" title="Медуза" alt="Медуза">
@@ -2786,7 +2964,7 @@
                             50 мл. ~299
                         </span>
                     </div>    
-                </div>
+                </div>-->
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/bar/shots/banderas.jpg" data-fancybox="image-banderass" data-caption="Бандерас">
@@ -2796,14 +2974,14 @@
                     <div class="food-menu-item-content">
                         <h3>Бандерас</h3>
                         <span class="menu-bar-item-description">
-                            [текила, томатный сок, сок лайма]
+                            [Текила, томатный сок, сок лайма]
                         </span>
                         <span class="menu-bar-item-price">
-                            50 мл. ~299
+                            50 мл. ~349
                         </span>
                     </div>    
                 </div>
-                <div class="food-menu-item grid">
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/bar/shots/vdovi_uzel.jpg" data-fancybox="image-vdvuzel" data-caption="Вдовий Узел">
                             <img src="img/menu/bar/shots/vdovi_uzel.jpg" class="item-img img-fluid" title="Вдовий Узел" alt="Вдовий Узел">
@@ -2818,7 +2996,7 @@
                             50 мл. ~349
                         </span>
                     </div>    
-                </div>
+                </div>-->
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/bar/shots/alm.jpg" data-fancybox="image-almaz-glazz" data-caption="Алмазный резец">
@@ -2828,10 +3006,10 @@
                     <div class="food-menu-item-content">
                         <h3>Алмазный резец</h3>
                         <span class="menu-bar-item-description">
-                            [Absinth, Bacardi Oakheart, гренадин]
+                            [Абсент, Бакарди окхард, Гренадин]
                         </span>
                         <span class="menu-bar-item-price">
-                            50 мл. ~299
+                            50 мл. ~349
                         </span>
                     </div>    
                 </div>
@@ -2855,23 +3033,7 @@
                     <div class="food-menu-item-content">
                         <h3>Белый Глинтвейн</h3>
                         <span class="menu-bar-item-description">
-                            [Белое вино,мед, корица, гвоздика, бадьян, лимон, апельсин, грейпфрут]
-                        </span>
-                        <span class="menu-bar-item-price">
-                            150 мл. ~299
-                        </span>
-                    </div>    
-                </div>
-                <div class="food-menu-item grid">
-                    <div class="food-menu-item-img">
-                        <a href="img/menu/bar/hot/red-glintwein.jpg" data-fancybox="image-red-glintwein" data-caption="Красный Глинтвейн">
-                            <img src="img/menu/bar/hot/red-glintwein.jpg" class="item-img img-fluid" title="Красный Глинтвейн" alt="Красный Глинтвейн">
-                        </a>
-                    </div>
-                    <div class="food-menu-item-content">
-                        <h3>Красный Глинтвейн</h3>
-                        <span class="menu-bar-item-description">
-                            [красное вино, корица, мед, гвоздика, бадьян, яблоко, лимон, апельсин]
+                            [Белое вино,мед,  корица, гвоздика, бадьян, лимон, апельсин, грейпфрут]
                         </span>
                         <span class="menu-bar-item-price">
                             150 мл. ~299
@@ -2881,6 +3043,22 @@
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <div class="hit-label"></div>
+                        <a href="img/menu/bar/hot/red-glintwein.jpg" data-fancybox="image-red-glintwein" data-caption="Красный Глинтвейн">
+                            <img src="img/menu/bar/hot/red-glintwein.jpg" class="item-img img-fluid" title="Красный Глинтвейн" alt="Красный Глинтвейн">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Красный Глинтвейн</h3>
+                        <span class="menu-bar-item-description">
+                            [Красное вино, корица, мед, гвоздика, бадьян, яблоко, лимон, апельсин]
+                        </span>
+                        <span class="menu-bar-item-price">
+                            150 мл. ~299
+                        </span>
+                    </div>    
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
                         <a href="img/menu/bar/hot/malina-grog.jpg" data-fancybox="image-malina-grog" data-caption="Малиновый Грог">
                             <img src="img/menu/bar/hot/malina-grog.jpg" class="item-img img-fluid" title="Малиновый Грог" alt="Малиновый Грог">
                         </a>
@@ -2891,7 +3069,40 @@
                             [пюре малина, сироп малина, чай, лимон, ром, гвоздика, бадьян] 
                         </span>
                         <span class="menu-bar-item-price">
-                            150 мл. ~299
+                            150 мл. ~349
+                        </span>
+                    </div>    
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <div class="hit-label"></div>
+                        <a href="img/menu/bar/hot/irish-coffee.jpg" data-fancybox="image-irish-coffee" data-caption="Ирладнский Кофе">
+                            <img src="img/menu/bar/hot/irish-coffee.jpg" class="item-img img-fluid" title="Ирладнский Кофе" alt="Ирладнский Кофе">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Ирладнский Кофе</h3>
+                        <span class="menu-bar-item-description">
+                            [Виски Джемесон, кофе, взбитые сливки, карамельный сироп] 
+                        </span>
+                        <span class="menu-bar-item-price">
+                            150 мл. ~349
+                        </span>
+                    </div>    
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/menu/bar/hot/hot-toddie.jpg" data-fancybox="image-hot-toddy" data-caption="Хот тодди">
+                            <img src="img/menu/bar/hot/hot-toddie.jpg" class="item-img img-fluid" title="Хот тодди" alt="Хот тодди">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Хот тодди</h3>
+                        <span class="menu-bar-item-description">
+                            [Виски, чай черный, имбирь, мед, корица, бадьян] 
+                        </span>
+                        <span class="menu-bar-item-price">
+                            150 мл. ~349
                         </span>
                     </div>    
                 </div>
@@ -2916,7 +3127,7 @@
                             [вишневый сироп, вишневый сок, бурбон, светлое пиво]
                         </span>
                         <span class="menu-bar-item-price">
-                            400 мл. ~299
+                            400 мл. ~349
                         </span>
                     </div>    
                 </div>
@@ -2929,14 +3140,14 @@
                     <div class="food-menu-item-content">
                         <h3>Имбирно цитрусовый эль</h3>
                         <span class="menu-bar-item-description">
-                            [имбирный сироп, свежевыжатый апельсиновый сок, светлое пиво]
+                            [имбирный сироп, свежевыжатый апельсиновый сок, ИПА]
                         </span>
                         <span class="menu-bar-item-price">
-                            400 мл. ~299
+                            400 мл. ~349
                         </span>
                     </div>    
                 </div>
-                <div class="food-menu-item grid">
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/bar/bir/honey_julep.jpg" data-fancybox="image-honey_julep" data-caption="Хани джулеп">
                             <img src="img/menu/bar/bir/honey_julep.jpg" class="item-img img-fluid" title="Хани джулеп" alt="Хани джулеп">
@@ -2951,7 +3162,7 @@
                             400 мл. ~299
                         </span>
                     </div>    
-                </div>
+                </div>-->
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/bar/bir/from_paris.jpg" data-fancybox="image-from_paris" data-caption="Из Парижа с любовью">
@@ -2964,15 +3175,15 @@
                             [клубника, лимонный сок, малина, светлое пиво]
                         </span>
                         <span class="menu-bar-item-price">
-                            400 мл. ~299
+                            400 мл. ~349
                         </span>
                     </div>    
                 </div>
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <div class="hit-label"></div>
-                        <a href="img/no-image.gif" data-fancybox="image-slivki-beer" data-caption="Сливочное Пиво">
-                            <img src="img/no-image.gif" class="item-img img-fluid" title="Сливочное Пиво" alt="Сливочное Пиво">
+                        <a href="img/menu/bar/bir/slivki-beer.jpg" data-fancybox="image-slivki-beer" data-caption="Сливочное Пиво">
+                            <img src="img/menu/bar/bir/slivki-beer.jpg" class="item-img img-fluid" title="Сливочное Пиво" alt="Сливочное Пиво">
                         </a>
                     </div>
                     <div class="food-menu-item-content">
@@ -2981,7 +3192,7 @@
                             [пиво нефильтрованное, сливочный сироп, взбитые сливки]
                         </span>
                         <span class="menu-bar-item-price">
-                            400 мл. ~499
+                            400 мл. ~299
                         </span>
                     </div>    
                 </div>
@@ -2989,11 +3200,27 @@
 
             <div class="food-menu-advertisment" id="f_vodka">
                 <span>
-                    Водка ● от 149<i class="fas fa-ruble-sign"></i>
+                    Водка ● от 129<i class="fas fa-ruble-sign"></i>
                 </span>
             </div>
 
             <div class="food-menu-menu grid">
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/no-image.gif" data-fancybox="image-haski" data-caption="Хаски">
+                            <img src="img/no-image.gif" class="item-img img-fluid" title="Хаски" alt="Хаски">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Хаски</h3>
+                        <span class="menu-bar-item-price">
+                            40 мл. ~129
+                        </span>
+                        <span class="menu-bar-item-price">
+                            0.5 л. ~999
+                        </span>
+                    </div>  
+                </div>
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/bar/vodka/rus-standart.jpg" data-fancybox="image-rus-standart" data-caption="Русский Стандарт">
@@ -3006,20 +3233,23 @@
                             40 мл. ~149
                         </span>
                         <span class="menu-bar-item-price">
-                            0.5 л. ~1299
+                            0.5 л. ~1499
                         </span>
                     </div>  
                 </div>
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
-                        <a href="img/menu/bar/vodka/parlament.jpg" data-fancybox="image-parlament" data-caption="Парламент">
-                            <img src="img/menu/bar/vodka/parlament.jpg" class="item-img img-fluid" title="Парламент" alt="Парламент">
+                        <a href="img/no-image.gif" data-fancybox="image-belber" data-caption="Белая березка">
+                            <img src="img/no-image.gif" class="item-img img-fluid" title="Белая березка" alt="Белая березка">
                         </a>
                     </div>
                     <div class="food-menu-item-content">
-                        <h3>Парламент</h3>
+                        <h3>Белая березка</h3>
                         <span class="menu-bar-item-price">
-                            40 мл. ~149
+                            40 мл. ~199
+                        </span>
+                        <span class="menu-bar-item-price">
+                            0.5 л. ~1499
                         </span>
                     </div>  
                 </div>
@@ -3065,6 +3295,9 @@
                         <span class="menu-bar-item-price">
                             40 мл. ~149
                         </span>
+                        <span class="menu-bar-item-price">
+                            0.5 л. ~999
+                        </span>
                     </div>  
                 </div>
                 <div class="food-menu-item grid">
@@ -3081,9 +3314,12 @@
                         <span class="menu-bar-item-price">
                             40 мл. ~149
                         </span>
+                        <span class="menu-bar-item-price">
+                            0.5 л. ~999
+                        </span>
                     </div>  
                 </div>
-                <div class="food-menu-item grid">
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/bar/samogon/kosogorov-4.jpg" data-fancybox="image-kosogorov-4" data-caption="Косогоров Самогон №4">
                             <img src="img/menu/bar/samogon/kosogorov-4.jpg" class="item-img img-fluid" title="Косогоров Самогон №4" alt="Косогоров Самогон №4">
@@ -3098,7 +3334,7 @@
                             40 мл. ~149
                         </span>
                     </div>  
-                </div>
+                </div>-->
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/bar/samogon/kosogorov-5.jpg" data-fancybox="image-kosogorov-5" data-caption="Косогоров Самогон №5">
@@ -3118,7 +3354,7 @@
                         </span>
                     </div>  
                 </div>
-                <div class="food-menu-item grid">
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/bar/samogon/perchik.jpg" data-fancybox="image-perchik" data-caption="Жгучий перчик">
                             <img src="img/menu/bar/samogon/perchik.jpg" class="item-img img-fluid" title="Жгучий перчик" alt="Жгучий перчик">
@@ -3136,17 +3372,75 @@
                             0.5 л. ~999
                         </span>
                     </div>  
-                </div>
+                </div>-->
             </div>
 
             <div class="food-menu-advertisment">
                 <span>
-                    Ракия ● от 199<i class="fas fa-ruble-sign"></i>
+                    Настойка ● от 149<i class="fas fa-ruble-sign"></i>
                 </span>
             </div>
             
             <div class="food-menu-menu grid">
                 <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/menu/bar/samogon/perchik.jpg" data-fancybox="image-perchik" data-caption="Жгучий перчик">
+                            <img src="img/menu/bar/samogon/perchik.jpg" class="item-img img-fluid" title="Жгучий перчик" alt="Жгучий перчик">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Настойка Жгучий перчик</h3>
+                        <span class="menu-bar-item-description">
+                            [40%]
+                        </span>
+                        <span class="menu-bar-item-price">
+                            40 мл. ~149
+                        </span>
+                        <span class="menu-bar-item-price">
+                            0.5 л. ~999
+                        </span>
+                    </div>
+                </div>    
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/no-image.gif" data-fancybox="image-na-trave" data-caption="Драники на зубровой траве">
+                            <img src="img/no-image.gif" class="item-img img-fluid" title="Драники на зубровой траве" alt="Драники на зубровой траве">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Настойка "Драники на зубровой траве"</h3>
+                        <span class="menu-bar-item-description">
+                            [40%]
+                        </span>
+                        <span class="menu-bar-item-price">
+                            40 мл. ~149
+                        </span>
+                        <span class="menu-bar-item-price">
+                            0.5 л. ~999
+                        </span>
+                    </div>
+                </div>    
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/no-image.gif" data-fancybox="image-draniki" data-caption="Настойка Драники на липе с медом">
+                            <img src="img/no-image.gif" class="item-img img-fluid" title="Настойка Драники на липе с медом" alt="Настойка Драники на липе с медом">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Настойка "Драники на липе с медом"</h3>
+                        <span class="menu-bar-item-description">
+                            [40%]
+                        </span>
+                        <span class="menu-bar-item-price">
+                            40 мл. ~149
+                        </span>
+                        <span class="menu-bar-item-price">
+                            0.5 л. ~999
+                        </span>
+                    </div>
+                </div>    
+                
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/bar/vodka/rakia_aiva.jpg" data-fancybox="image-rak-aiva" data-caption="Ракия Айвовая">
                             <img src="img/menu/bar/vodka/rakia_aiva.jpg" class="item-img img-fluid" title="Ракия Айвовая" alt="Ракия Айвовая">
@@ -3164,8 +3458,8 @@
                             0.7 л. ~2999
                         </span>
                     </div>  
-                </div>
-                <div class="food-menu-item grid">
+                </div>-->
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/bar/vodka/rakia_grusha.jpg" data-fancybox="image-rak-grusha" data-caption="Ракия Грушевая">
                             <img src="img/menu/bar/vodka/rakia_grusha.jpg" class="item-img img-fluid" title="Ракия Грушевая" alt="Ракия Грушевая">
@@ -3183,7 +3477,7 @@
                             0.7 л. ~2999
                         </span>
                     </div>  
-                </div>
+                </div>-->
             </div>
             
             <div class="food-menu-advertisment" id="f_whisky">
@@ -3222,7 +3516,7 @@
                         </span>
                     </div>  
                 </div>
-                <div class="food-menu-item grid">
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/bar/whisky/dewars-white.jpg" data-fancybox="image-dewars-white" data-caption="Dewar`s White Label">
                             <img src="img/menu/bar/whisky/dewars-white.jpg" class="item-img img-fluid" title="Dewar`s White Label" alt="Dewar`s White Label">
@@ -3232,6 +3526,19 @@
                         <h3>Dewar`s White Label</h3>
                         <span class="menu-bar-item-price">
                             40 мл. ~249
+                        </span>
+                    </div>  
+                </div>-->
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/no-image.gif" data-fancybox="image-Proper" data-caption="Proper twelve">
+                            <img src="img/no-image.gif" class="item-img img-fluid" title="Proper twelve" alt="Proper twelve">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Proper twelve</h3>
+                        <span class="menu-bar-item-price">
+                            40 мл. ~349
                         </span>
                     </div>  
                 </div>
@@ -3317,9 +3624,9 @@
                         <span class="menu-bar-item-price">
                             40 мл. ~299
                         </span>
-                        <span class="menu-bar-item-price">
+<!--                        <span class="menu-bar-item-price">
                             0.5 л. ~2999
-                        </span>
+                        </span>-->
                     </div>  
                 </div>
 
@@ -3327,7 +3634,7 @@
 
             <div class="food-menu-advertisment" id="f_gin">
                 <span>
-                    Джин ● от 119<i class="fas fa-ruble-sign"></i>
+                    Джин ● от 299<i class="fas fa-ruble-sign"></i>
                 </span>
             </div>
 
@@ -3343,16 +3650,16 @@
                         <span class="menu-bar-item-price">
                             40 мл. ~299
                         </span>
-                        <span class="menu-bar-item-price">
+<!--                        <span class="menu-bar-item-price">
                             0.7 л. ~2999
-                        </span>
+                        </span>-->
                     </div>  
                 </div>
             </div>
 
             <div class="food-menu-advertisment" id="f_rum">
                 <span>
-                    Ром ● от 249<i class="fas fa-ruble-sign"></i>
+                    Ром ● от 299<i class="fas fa-ruble-sign"></i>
                 </span>
             </div>
 
@@ -3368,9 +3675,9 @@
                         <span class="menu-bar-item-price">
                             40 мл. ~299
                         </span>
-                        <span class="menu-bar-item-price">
+<!--                        <span class="menu-bar-item-price">
                             0.5 л. ~2999
-                        </span>
+                        </span>-->
                     </div>  
                 </div>
                 <div class="food-menu-item grid">
@@ -3382,11 +3689,11 @@
                     <div class="food-menu-item-content">
                         <h3>Bacardi Carta Negra</h3>
                         <span class="menu-bar-item-price">
-                            40 мл. ~259
+                            40 мл. ~299
                         </span>
-                        <span class="menu-bar-item-price">
+<!--                        <span class="menu-bar-item-price">
                             0.5 л. ~2999
-                        </span>
+                        </span>-->
                     </div>  
                 </div>
                 <div class="food-menu-item grid">
@@ -3400,9 +3707,9 @@
                         <span class="menu-bar-item-price">
                             40 мл. ~299
                         </span>
-                        <span class="menu-bar-item-price">
+<!--                        <span class="menu-bar-item-price">
                             0.5 л. ~2999
-                        </span>
+                        </span>-->
                     </div>  
                 </div>
                 <div class="food-menu-item grid">
@@ -3416,12 +3723,12 @@
                         <span class="menu-bar-item-price">
                             40 мл. ~299
                         </span>
-                        <span class="menu-bar-item-price">
+<!--                        <span class="menu-bar-item-price">
                             0.5 л. ~2999
-                        </span>
+                        </span>-->
                     </div>  
                 </div>
-                <div class="food-menu-item grid">
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/bar/rum/morgan-white.jpg" data-fancybox="image-morgan-white" data-caption="Captain Morgan White">
                             <img src="img/menu/bar/rum/morgan-white.jpg" class="item-img img-fluid" title="Captain Morgan White" alt="Captain Morgan White">
@@ -3433,8 +3740,8 @@
                             40 мл. ~249
                         </span>
                     </div>  
-                </div>
-                <div class="food-menu-item grid">
+                </div>-->
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/bar/rum/morgan-gold.jpg" data-fancybox="image-morgan-gold" data-caption="Captain Morgan Spiced Gold">
                             <img src="img/menu/bar/rum/morgan-gold.jpg" class="item-img img-fluid" title="Captain Morgan Spiced Gold" alt="Captain Morgan Spiced Gold">
@@ -3446,12 +3753,25 @@
                             40 мл. ~249
                         </span>
                     </div>  
+                </div>-->
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/no-image.gif" data-fancybox="image-BotucalMantuano" data-caption="Ром Botucal (Diplomatico) Mantuano">
+                            <img src="img/no-image.gif" class="item-img img-fluid" title="Captain Morgan Spiced Gold" alt="Ром Botucal (Diplomatico) Mantuano">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Ром Botucal (Diplomatico) Mantuano</h3>
+                        <span class="menu-bar-item-price">
+                            40 мл. ~349
+                        </span>
+                    </div>  
                 </div>
             </div>
 
             <div class="food-menu-advertisment" id="f_tequila">
                 <span>
-                    Текила ● от 249<i class="fas fa-ruble-sign"></i>
+                    Текила ● от 299<i class="fas fa-ruble-sign"></i>
                 </span>
             </div>
 
@@ -3465,7 +3785,7 @@
                     <div class="food-menu-item-content">
                         <h3>Camino Real Blanco</h3>
                         <span class="menu-bar-item-price">
-                            40 мл. ~249
+                            40 мл. ~299
                         </span>
                         <span class="menu-bar-item-price">
                             0.7 л. ~2999
@@ -3481,7 +3801,7 @@
                     <div class="food-menu-item-content">
                         <h3>Camino Real Gold</h3>
                         <span class="menu-bar-item-price">
-                            40 мл. ~249
+                            40 мл. ~299
                         </span>
                         <span class="menu-bar-item-price">
                             0.7 л. ~2999
@@ -3561,7 +3881,7 @@
                     <div class="food-menu-item-content">
                         <h3>Baron Otard V.S.</h3>
                         <span class="menu-bar-item-price">
-                            40 мл. ~299
+                            40 мл. ~349
                         </span>
                     </div>  
                 </div>
@@ -3576,9 +3896,9 @@
                         <span class="menu-bar-item-price">
                             40 мл. ~399
                         </span>
-                        <span class="menu-bar-item-price">
+<!--                        <span class="menu-bar-item-price">
                             0.5 л. ~3999
-                        </span>
+                        </span>-->
                     </div>  
                 </div>
 
@@ -3586,7 +3906,7 @@
 
             <div class="food-menu-advertisment" id="f_vermut">
                 <span>
-                    Вермуты ● от 249<i class="fas fa-ruble-sign"></i>
+                    Вермуты ● от 299<i class="fas fa-ruble-sign"></i>
                 </span>
             </div>
 
@@ -3602,9 +3922,9 @@
                         <span class="menu-bar-item-price">
                             100 мл. ~299
                         </span>
-                        <span class="menu-bar-item-price">
+<!--                        <span class="menu-bar-item-price">
                             0.5 л. ~1999
-                        </span>
+                        </span>-->
                     </div>  
                 </div>
                 <div class="food-menu-item grid">
@@ -3618,9 +3938,9 @@
                         <span class="menu-bar-item-price">
                             100 мл. ~299
                         </span>
-                        <span class="menu-bar-item-price">
+<!--                        <span class="menu-bar-item-price">
                             0.5 л. ~1999
-                        </span>
+                        </span>-->
                     </div>  
                 </div>
                 <div class="food-menu-item grid">
@@ -3634,9 +3954,9 @@
                         <span class="menu-bar-item-price">
                             100 мл. ~299
                         </span>
-                        <span class="menu-bar-item-price">
+<!--                        <span class="menu-bar-item-price">
                             0.5 л. ~1999
-                        </span>
+                        </span>-->
                     </div>  
                 </div>
                 <div class="food-menu-item grid">
@@ -3650,16 +3970,32 @@
                         <span class="menu-bar-item-price">
                             100 мл. ~299
                         </span>
-                        <span class="menu-bar-item-price">
+<!--                        <span class="menu-bar-item-price">
                             0.5 л. ~1999
+                        </span>-->
+                    </div>  
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/no-image.gif" data-fancybox="image-Fiero" data-caption="Martini Fiero">
+                            <img src="img/no-image.gif" class="item-img img-fluid" title="Martini Fiero" alt="Martini Fiero">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Martini Fiero</h3>
+                        <span class="menu-bar-item-price">
+                            100 мл. ~299
                         </span>
+<!--                        <span class="menu-bar-item-price">
+                            0.5 л. ~1999
+                        </span>-->
                     </div>  
                 </div>
             </div>
 
             <div class="food-menu-advertisment" id="f_liquer">
                 <span>
-                    Ликер ● от 199<i class="fas fa-ruble-sign"></i>
+                    Ликер ● от 249<i class="fas fa-ruble-sign"></i>
                 </span>
             </div>
 
@@ -3673,7 +4009,7 @@
                     <div class="food-menu-item-content">
                         <h3>Triple Sec</h3>
                         <span class="menu-bar-item-price">
-                            50 мл. ~199
+                            50 мл. ~249
                         </span>
                     </div>  
                 </div>
@@ -3688,9 +4024,9 @@
                         <span class="menu-bar-item-price">
                             50 мл. ~249
                         </span>
-                        <span class="menu-bar-item-price">
+<!--                        <span class="menu-bar-item-price">
                             0.5 л. ~2999
-                        </span>
+                        </span>-->
                     </div>  
                 </div>
                 <div class="food-menu-item grid">
@@ -3704,9 +4040,9 @@
                         <span class="menu-bar-item-price">
                             50 мл. ~249
                         </span>
-                        <span class="menu-bar-item-price">
+<!--                        <span class="menu-bar-item-price">
                             0.5 л. ~2999
-                        </span>
+                        </span>-->
                     </div>  
                 </div>
                 <div class="food-menu-item grid">
@@ -3718,7 +4054,7 @@
                     <div class="food-menu-item-content">
                         <h3>Sambuca</h3>
                         <span class="menu-bar-item-price">
-                            50 мл. ~199
+                            50 мл. ~249
                         </span>
                     </div>  
                 </div>
@@ -3735,7 +4071,7 @@
                         </span>
                     </div>  
                 </div>
-                <div class="food-menu-item grid">
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/bar/liquer/amaretto.jpg" data-fancybox="image-amaretto" data-caption="Amaretto">
                             <img src="img/menu/bar/liquer/amaretto.jpg" class="item-img img-fluid" title="Amaretto" alt="Amaretto">
@@ -3747,7 +4083,7 @@
                             50 мл. ~199
                         </span>
                     </div>  
-                </div>
+                </div>-->
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/bar/liquer/baileys.jpg" data-fancybox="image-baileys" data-caption="Baileys">
@@ -3770,7 +4106,7 @@
                     <div class="food-menu-item-content">
                         <h3>Malibu</h3>
                         <span class="menu-bar-item-price">
-                            50 мл. ~199
+                            50 мл. ~249
                         </span>
                     </div>  
                 </div>
@@ -3792,7 +4128,7 @@
 
             <div class="food-menu-advertisment" id="f_firm_beer">
                 <span>
-                    Фирменное Пиво ● от 119<i class="fas fa-ruble-sign"></i>
+                    Наше Пиво ● от 119<i class="fas fa-ruble-sign"></i>
                 </span>
             </div>
 
@@ -3804,8 +4140,9 @@
                         </a>
                     </div>
                     <div class="food-menu-item-content">
-                        <h3>Гвоздь светлый/темный/
-                            нефильтрованный
+                        <h3>жигули барное /
+                            жигули бархатное / 
+                            Оттингер нефильтрованное
                         </h3>
                         <span class="menu-bar-item-description">
                             [плотность 11.6%]
@@ -3844,16 +4181,156 @@
             <div class="food-menu-menu grid">
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
-                        <a href="img/menu/bar/craft.jpg" data-fancybox="image-ipa-light" data-caption="ipa светлое">
-                            <img src="img/menu/bar/craft.jpg" class="item-img img-fluid" title="ipa светлое" alt="ipa светлое">
+                        <a href="img/menu/bar/craft-beer/ipa.jpg" data-fancybox="image-ipa-light" data-caption="ipa светлое">
+                            <img src="img/menu/bar/craft-beer/ipa.jpg" class="item-img img-fluid" title="ipa светлое" alt="ipa светлое">
                         </a>
                     </div>
                     <div class="food-menu-item-content">
-                        <h3>Крафтовое Пиво</h3>
-                        <span class="menu-bar-item-description">
+                        <h3>ipa светлое</h3>
+<!--                        <span class="menu-bar-item-description">
                             [плотность 14.0%]
                             [крепость 5.9%]
+                        </span>-->
+                        <span class="menu-bar-item-price">
+                            300 мл. ~199
                         </span>
+                        <span class="menu-bar-item-price">
+                            400 мл. ~299
+                        </span>
+                        <span class="menu-bar-item-price">
+                            1000 мл. ~549
+                        </span>
+                        <span class="menu-bar-item-price">
+                            3000 мл. ~1499
+                        </span>
+                        <span class="menu-item-dop">
+                            на вынос 1000мл ● 499<strong>j</strong>
+                        </span>
+                        <span class="menu-item-dop">
+                            на вынос 3000мл ● 1299<strong>j</strong>
+                        </span>
+                    </div>    
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/menu/bar/craft-beer/ipa-misha.jpg" data-fancybox="image-ipa-light1" data-caption="Мишенька под вишенкой">
+                            <img src="img/menu/bar/craft-beer/ipa-misha.jpg" class="item-img img-fluid" title="Мишенька под вишенкой" alt="Мишенька под вишенкой">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Мишенька под вишенкой</h3>
+                        <span class="menu-bar-item-price">
+                            300 мл. ~199
+                        </span>
+                        <span class="menu-bar-item-price">
+                            400 мл. ~299
+                        </span>
+                        <span class="menu-bar-item-price">
+                            1000 мл. ~549
+                        </span>
+                        <span class="menu-bar-item-price">
+                            3000 мл. ~1499
+                        </span>
+                        <span class="menu-item-dop">
+                            на вынос 1000мл ● 499<strong>j</strong>
+                        </span>
+                        <span class="menu-item-dop">
+                            на вынос 3000мл ● 1299<strong>j</strong>
+                        </span>
+                    </div>    
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/menu/bar/craft-beer/ipa-med.jpg" data-fancybox="image-ipa-light2" data-caption="Неправильный мёд">
+                            <img src="img/menu/bar/craft-beer/ipa-med.jpg" class="item-img img-fluid" title="Неправильный мёд" alt="Неправильный мёд">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Неправильный мёд</h3>
+                        <span class="menu-bar-item-price">
+                            300 мл. ~199
+                        </span>
+                        <span class="menu-bar-item-price">
+                            400 мл. ~299
+                        </span>
+                        <span class="menu-bar-item-price">
+                            1000 мл. ~549
+                        </span>
+                        <span class="menu-bar-item-price">
+                            3000 мл. ~1499
+                        </span>
+                        <span class="menu-item-dop">
+                            на вынос 1000мл ● 499<strong>j</strong>
+                        </span>
+                        <span class="menu-item-dop">
+                            на вынос 3000мл ● 1299<strong>j</strong>
+                        </span>
+                    </div>    
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/menu/bar/craft-beer/ipa-blansh.jpg" data-fancybox="image-ipa-light3" data-caption="Бланш де Мазай">
+                            <img src="img/menu/bar/craft-beer/ipa-blansh.jpg" class="item-img img-fluid" title="Бланш де Мазай" alt="Бланш де Мазай">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Бланш де Мазай</h3>
+                        <span class="menu-bar-item-price">
+                            300 мл. ~199
+                        </span>
+                        <span class="menu-bar-item-price">
+                            400 мл. ~299
+                        </span>
+                        <span class="menu-bar-item-price">
+                            1000 мл. ~549
+                        </span>
+                        <span class="menu-bar-item-price">
+                            3000 мл. ~1499
+                        </span>
+                        <span class="menu-item-dop">
+                            на вынос 1000мл ● 499<strong>j</strong>
+                        </span>
+                        <span class="menu-item-dop">
+                            на вынос 3000мл ● 1299<strong>j</strong>
+                        </span>
+                    </div>    
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/menu/bar/craft-beer/poet.jpg" data-fancybox="image-ipa-light4" data-caption="poet APA Декаданс">
+                            <img src="img/menu/bar/craft-beer/poet.jpg" class="item-img img-fluid" title="poet APA Декаданс" alt="poet APA Декаданс">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>poet APA Декаданс</h3>
+                        <span class="menu-bar-item-price">
+                            300 мл. ~199
+                        </span>
+                        <span class="menu-bar-item-price">
+                            400 мл. ~299
+                        </span>
+                        <span class="menu-bar-item-price">
+                            1000 мл. ~549
+                        </span>
+                        <span class="menu-bar-item-price">
+                            3000 мл. ~1499
+                        </span>
+                        <span class="menu-item-dop">
+                            на вынос 1000мл ● 499<strong>j</strong>
+                        </span>
+                        <span class="menu-item-dop">
+                            на вынос 3000мл ● 1299<strong>j</strong>
+                        </span>
+                    </div>    
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/menu/bar/craft-beer/koza.jpg" data-fancybox="image-ipa-light5" data-caption="Сидрова Коза">
+                            <img src="img/menu/bar/craft-beer/koza.jpg" class="item-img img-fluid" title="Cидрова Коза" alt="Сидрова Коза">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Сидрова Коза</h3>
                         <span class="menu-bar-item-price">
                             300 мл. ~199
                         </span>
@@ -3899,7 +4376,7 @@
                             300 мл. ~299
                         </span>
                         <span class="menu-bar-item-price">
-                            500 мл. ~499
+                            500 мл. ~449
                         </span>
 
                     </div>    
@@ -3919,7 +4396,7 @@
                             300 мл. ~299
                         </span>
                         <span class="menu-bar-item-price">
-                            500 мл. ~499
+                            500 мл. ~449
                         </span>
                     </div>    
                 </div>
@@ -3939,7 +4416,39 @@
                             300 мл. ~299
                         </span>
                         <span class="menu-bar-item-price">
-                            500 мл. ~499
+                            500 мл. ~449
+                        </span>
+                    </div>    
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/menu/bar/import-beer/hobgoblin.jpg" data-fancybox="image-Hopgoblin" data-caption=" Hopgoblin IPA">
+                            <img src="img/menu/bar/import-beer/hobgoblin.jpg" class="item-img img-fluid" title=" Hopgoblin IPA" alt=" Hopgoblin IPA">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Hopgoblin IPA</h3>
+                        <span class="menu-bar-item-price">
+                            300 мл. ~299
+                        </span>
+                        <span class="menu-bar-item-price">
+                            500 мл. ~449
+                        </span>
+                    </div>    
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/menu/bar/import-beer/affligem.jpg" data-fancybox="image-Hopgoblin" data-caption="Affligem">
+                            <img src="img/menu/bar/import-beer/affligem.jpg" class="item-img img-fluid" title="Affligem" alt="Affligem">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Affligem</h3>
+                        <span class="menu-bar-item-price">
+                            300 мл. ~299
+                        </span>
+                        <span class="menu-bar-item-price">
+                            500 мл. ~449
                         </span>
                     </div>    
                 </div>
@@ -3954,12 +4463,43 @@
             <div class="food-menu-menu grid">
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
-                        <a href="img/menu/bar/season-beer.jpg" data-fancybox="image-season" data-caption="Сезонное Пиво">
-                            <img src="img/menu/bar/season-beer.jpg" class="item-img img-fluid" title="Сезонное Пиво" alt="Сезонное Пиво">
+                        <a href="img/menu/bar/season-beer/kru.jpg" data-fancybox="image-season" data-caption="Крушовице">
+                            <img src="img/menu/bar/season-beer/kru.jpg" class="item-img img-fluid" title="Крушовице" alt="Крушовице">
                         </a>
                     </div>
                     <div class="food-menu-item-content">
-                        <h3>Сезонное Пиво</h3>
+                        <h3>Крушовице</h3>
+<!--                        <span class="menu-bar-item-description">
+                            [Сезонное Пиво]
+                        </span>-->
+                        <span class="menu-bar-item-price">
+                            300 мл. ~199
+                        </span>
+                        <span class="menu-bar-item-price">
+                            500 мл. ~299
+                        </span>
+                        <span class="menu-bar-item-price">
+                            1000 мл. ~549
+                        </span>
+                        <span class="menu-bar-item-price">
+                            3000 мл. ~1499
+                        </span>
+                        <span class="menu-item-dop">
+                            на вынос 1000мл ● 499<strong>j</strong>
+                        </span>
+                        <span class="menu-item-dop">
+                            на вынос 3000мл ● 1299<strong>j</strong>
+                        </span>
+                    </div>    
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/menu/bar/season-beer/hei.jpg" data-fancybox="image-season1" data-caption="Хайникен светлое">
+                            <img src="img/menu/bar/season-beer/hei.jpg" class="item-img img-fluid" title="Хайникен светлое" alt="Хайникен светлое">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Хайникен светлое</h3>
                         <span class="menu-bar-item-description">
                             [Сезонное Пиво]
                         </span>
@@ -3967,7 +4507,38 @@
                             300 мл. ~199
                         </span>
                         <span class="menu-bar-item-price">
-                            400 мл. ~299
+                            500 мл. ~299
+                        </span>
+                        <span class="menu-bar-item-price">
+                            1000 мл. ~549
+                        </span>
+                        <span class="menu-bar-item-price">
+                            3000 мл. ~1499
+                        </span>
+                        <span class="menu-item-dop">
+                            на вынос 1000мл ● 499<strong>j</strong>
+                        </span>
+                        <span class="menu-item-dop">
+                            на вынос 3000мл ● 1299<strong>j</strong>
+                        </span>
+                    </div>    
+                </div>
+                <div class="food-menu-item grid">
+                    <div class="food-menu-item-img">
+                        <a href="img/menu/bar/season-beer/hei-ba.jpg" data-fancybox="image-season2" data-caption="Хайникен б/а">
+                            <img src="img/menu/bar/season-beer/hei-ba.jpg" class="item-img img-fluid" title="Хайникен б/а" alt="Хайникен б/а">
+                        </a>
+                    </div>
+                    <div class="food-menu-item-content">
+                        <h3>Хайникен б/а</h3>
+                        <span class="menu-bar-item-description">
+                            [Сезонное Пиво]
+                        </span>
+                        <span class="menu-bar-item-price">
+                            300 мл. ~199
+                        </span>
+                        <span class="menu-bar-item-price">
+                            500 мл. ~299
                         </span>
                         <span class="menu-bar-item-price">
                             1000 мл. ~549
@@ -4007,9 +4578,6 @@
                             [ИЗГОТОВЛЕН ПО ЯПОНСКОЙ ТЕХНОЛОГИИ / НЕЖНО-ЗЕЛЕНЫЙ НАСТОЙ И СВЕЖИЙ АРОМАТ]                       
                         </span>
                         <span class="menu-bar-item-price">
-                            500 мл. ~199
-                        </span>
-                        <span class="menu-bar-item-price">
                             750 мл. ~249
                         </span>
 
@@ -4031,9 +4599,6 @@
                             [ЧЕРНЫЙ ЦЕЙЛОНСКИЙ ЧАЙ С ДОБАВЛЕНИЕМ МАСЛА БЕРГАМОТА]                      
                         </span>
                         <span class="menu-bar-item-price">
-                            500 мл. ~199
-                        </span>
-                        <span class="menu-bar-item-price">
                             750 мл. ~249
                         </span>
                     </div>    
@@ -4049,9 +4614,6 @@
                         <span class="menu-bar-item-description">
                             [1] фруктовый сад <br/>
                             [ФРУКТОВЫЙ ЧАЙ С КУСОЧКАМИ ЯБЛОКА, АНАНАСА, ИЗЮМОМ И ЕЖЕВИКОЙ]                     
-                        </span>
-                        <span class="menu-bar-item-price">
-                            500 мл. ~199
                         </span>
                         <span class="menu-bar-item-price">
                             750 мл. ~249
@@ -4073,10 +4635,7 @@
                             [ТАЙВАНЬСКИЙ ЧАЙ С ПРИЯТНЫМ МОЛОЧНЫМ АРОМАТОМ]                   
                         </span>
                         <span class="menu-bar-item-price">
-                            500 мл. ~199
-                        </span>
-                        <span class="menu-bar-item-price">
-                            750 мл. ~249
+                            750 мл. ~299
                         </span>
                     </div>    
                 </div>
@@ -4196,12 +4755,12 @@
                 </div>
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
-                        <a href="img/menu/bar/kappuccino.jpg" data-fancybox="image-cappucino" data-caption="Капуччино">
-                            <img src="img/menu/bar/kappuccino.jpg" class="item-img img-fluid" title="Капуччино" alt="Капуччино">
+                        <a href="img/menu/bar/kappuccino.jpg" data-fancybox="image-cappucino" data-caption="Капучино">
+                            <img src="img/menu/bar/kappuccino.jpg" class="item-img img-fluid" title="Капучино" alt="Капучино">
                         </a>
                     </div>
                     <div class="food-menu-item-content">
-                        <h3>капуччино</h3>
+                        <h3>капучино</h3>
                         <span class="menu-bar-item-description">
                             [150 мл./10 гр.]                 
                         </span>
@@ -4212,12 +4771,12 @@
                 </div>
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
-                        <a href="img/menu/bar/coffee_halva.jpg" data-fancybox="image-cappucino-khalva" data-caption="Капуччино с халвой">
-                            <img src="img/menu/bar/coffee_halva.jpg" class="item-img img-fluid" title="Капуччино" alt="Капуччино с халвой">
+                        <a href="img/menu/bar/coffee_halva.jpg" data-fancybox="image-cappucino-khalva" data-caption="Капучино с халвой">
+                            <img src="img/menu/bar/coffee_halva.jpg" class="item-img img-fluid" title="Капучино" alt="Капучино с халвой">
                         </a>
                     </div>
                     <div class="food-menu-item-content">
-                        <h3>капуччино с халвой</h3>
+                        <h3>капучино с халвой</h3>
                         <span class="menu-bar-item-description">
                             [150 мл./10 гр.]                 
                         </span>
@@ -4290,7 +4849,7 @@
                         </span>
                     </div>    
                 </div>
-                <div class="food-menu-item grid">
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/bar/raf_alaska.jpg" data-fancybox="image-raf-alaska" data-caption="Раф Аляска">
                             <img src="img/menu/bar/raf_alaska.jpg" class="item-img img-fluid" title="Раф Аляска" alt="Раф Аляска">
@@ -4305,7 +4864,7 @@
                             ~299
                         </span>
                     </div>    
-                </div>
+                </div>-->
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/bar/raf_taiga.jpg" data-fancybox="image-taiga" data-caption="Раф Таежный сбор">
@@ -4322,7 +4881,7 @@
                         </span>
                     </div>    
                 </div>
-                <div class="food-menu-item grid">
+<!--                <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
                         <a href="img/menu/bar/raf_limon.jpg" data-fancybox="image-lemon" data-caption="Раф Лимонно-имбирный">
                             <img src="img/menu/bar/raf_limon.jpg" class="item-img img-fluid" title="Раф Лимонно-имбирный" alt="Раф Лимонно-имбирный">
@@ -4337,7 +4896,7 @@
                             ~299
                         </span>
                     </div>    
-                </div>
+                </div>-->
             </div>
 
             <div class="food-menu-advertisment" id="f_cold_drinks">
@@ -4368,8 +4927,8 @@
                 </div>
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
-                        <a href="img/menu/bar/mors.jpg" data-fancybox="image-homemors" data-caption="омашний морс">
-                            <img src="img/menu/bar/mors.jpg" class="item-img img-fluid" title="омашний морс" alt="омашний морс">
+                        <a href="img/menu/bar/mors.jpg" data-fancybox="image-homemors" data-caption="Домашний морс">
+                            <img src="img/menu/bar/mors.jpg" class="item-img img-fluid" title="Домашний морс" alt="Домашний морс">
                         </a>
                     </div>
                     <div class="food-menu-item-content">
@@ -4384,7 +4943,7 @@
                             400 мл. ~149
                         </span>
                         <span class="menu-bar-item-price">
-                            1000 мл. ~199
+                            1000 мл. ~249
                         </span>
                     </div>    
                 </div>
@@ -4400,7 +4959,7 @@
                             [ж/б]                 
                         </span>
                         <span class="menu-bar-item-price">
-                            330 мл. ~99
+                            330 мл. ~149
                         </span>
                     </div>    
                 </div>
@@ -4416,7 +4975,7 @@
                             [газ. / негаз.]                 
                         </span>
                         <span class="menu-bar-item-price">
-                            500 мл. ~99
+                            500 мл. ~149
                         </span>
                     </div>    
                 </div>
@@ -4432,7 +4991,7 @@
                             [газированный напиток / ж/б]                 
                         </span>
                         <span class="menu-bar-item-price">
-                            250 мл. ~99
+                            250 мл. ~149
                         </span>
                     </div>    
                 </div>
@@ -4467,7 +5026,7 @@
                             [негаз. / ст. бут.]                 
                         </span>
                         <span class="menu-bar-item-price">
-                            330 мл.  ~149
+                            330 мл.  ~249
                         </span>
                     </div>    
                 </div>
@@ -4483,14 +5042,14 @@
                             [газ. / ст. бут.]                 
                         </span>
                         <span class="menu-bar-item-price">
-                            330 мл.  ~149
+                            330 мл.  ~249
                         </span>
                     </div>    
                 </div>
                 <div class="food-menu-item grid">
                     <div class="food-menu-item-img">
-                        <a href="img/menu/bar/red-bull.jpg" data-fancybox="image-ferrarelle" data-caption="ferrarelle">
-                            <img src="img/menu/bar/red-bull.jpg" class="item-img img-fluid" title="ferrarelle" alt="ferrarelle">
+                        <a href="img/menu/bar/red-bull.jpg" data-fancybox="image-redbull" data-caption="ред бул">
+                            <img src="img/menu/bar/red-bull.jpg" class="item-img img-fluid" title="ред бул" alt="ред бул">
                         </a>
                     </div>
                     <div class="food-menu-item-content">
@@ -4499,7 +5058,7 @@
                             [ж/б]                 
                         </span>
                         <span class="menu-bar-item-price">
-                            250 мл.  ~149
+                            250 мл.  ~249
                         </span>
                     </div>    
                 </div>
@@ -4621,7 +5180,7 @@
 
             <div class="food-menu-advertisment" id="f_lemonades">
                 <span>
-                    Лимонады ● от 349<i class="fas fa-ruble-sign"></i>
+                    Лимонады ● от 399<i class="fas fa-ruble-sign"></i>
                 </span>
             </div>
 
@@ -4640,7 +5199,7 @@
                             1000 мл.
                         </span>
                         <span class="menu-bar-item-price">
-                            ~349
+                            ~399
                         </span>
                     </div>    
                 </div> 
@@ -4658,7 +5217,7 @@
                             1000 мл.
                         </span>
                         <span class="menu-bar-item-price">
-                            ~349
+                            ~399
                         </span>
                     </div>    
                 </div> 
@@ -4677,7 +5236,7 @@
                             1000 мл.
                         </span>
                         <span class="menu-bar-item-price">
-                            ~349
+                            ~399
                         </span>
                     </div>    
                 </div> 
@@ -4696,7 +5255,7 @@
                             1000 мл.
                         </span>
                         <span class="menu-bar-item-price">
-                            ~349
+                            ~399
                         </span>
                     </div>    
                 </div>
@@ -4714,7 +5273,7 @@
                             1000 мл.
                         </span>
                         <span class="menu-bar-item-price">
-                            ~349
+                            ~399
                         </span>
                     </div>    
                 </div>
@@ -4732,7 +5291,7 @@
                             1000 мл.
                         </span>
                         <span class="menu-bar-item-price">
-                            ~349
+                            ~399
                         </span>
                     </div>    
                 </div>
@@ -4751,7 +5310,7 @@
                             1000 мл.
                         </span>
                         <span class="menu-bar-item-price">
-                            ~349
+                            ~399
                         </span>
                     </div>    
                 </div>

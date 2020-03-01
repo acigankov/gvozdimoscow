@@ -12,9 +12,9 @@ $data = [
 //lunches
 function showLunchTemplate() {
 
-    $weekNum = '2'; //поменял 30.10.2019 
+    $weekNum = '2'; //поменял 08.12.2019 
 
-    switch (date('w')) {
+    switch (date('1')) {
         case '1';
             $imgLunchUrl = "template/lunch/" . $weekNum . "/lunch1.php";
             break;
@@ -47,6 +47,5 @@ function getDayRus() {
     );
     return $days[(date('w'))];
 }
-
 
 ?>

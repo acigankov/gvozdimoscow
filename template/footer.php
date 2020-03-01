@@ -31,8 +31,8 @@
                     </span>
                 </div>
                 <div class="footer-work-time">
-                    <p>вс-чт с 8:00 до 00:00</p>
-                    <p>пт-сб с 8:00 до 02:00</p>
+                    <p>вс-чт с 08:00 до 00:00</p>
+                    <p>пт-сб с 08:00 до 02:00</p>
                 </div>
                 <div class="footer-contacts-phone right">
                     <p class="tel"><a href="tel:+7(495)276-19-87">+7 (495) 276-19-87</a></p>
